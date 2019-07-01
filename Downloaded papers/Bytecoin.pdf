@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://whitepaperdatabase.com/xmlrpc.php">
+	<link rel="shortcut icon" href="http://whitepaperdatabase.com/wp-content/uploads/2017/09/whitepaper-database-icon-logo-4.png" />
+
+<title>Bytecoin (BCN)-Whitepaper &#8211; Whitepaper Database</title>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//a.opmnstr.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Whitepaper Database &raquo; Feed" href="https://whitepaperdatabase.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Whitepaper Database &raquo; Comments Feed" href="https://whitepaperdatabase.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Whitepaper Database &raquo; Bytecoin (BCN)-Whitepaper Comments Feed" href="https://whitepaperdatabase.com/bytecoin-bcn-whitepaper/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.7.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.7.1';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-115037425-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-115037425-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/whitepaperdatabase.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='newsanchor-bootstrap-css'  href='https://whitepaperdatabase.com/wp-content/themes/newsanchor-pro/css/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://whitepaperdatabase.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='newsanchor-body-fonts-css'  href='//fonts.googleapis.com/css?family=PT+Sans%3A400%2C700&#038;ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='newsanchor-headings-fonts-css'  href='//fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700&#038;ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='newsanchor-style-css'  href='https://whitepaperdatabase.com/wp-content/themes/newsanchor-pro/style.css?ver=5.1.1' type='text/css' media='all' />
+<style id='newsanchor-style-inline-css' type='text/css'>
+.site-title { font-size:26px; }
+.site-description { font-size:16px; }
+h1 { font-size:52px; }
+h2 { font-size:42px; }
+h3 { font-size:32px; }
+h4 { font-size:25px; }
+h5 { font-size:20px; }
+h6 { font-size:18px; }
+body { font-size:14px; }
+.recent_posts_f .sub-post .content h3 a:hover,.site-title a,.site-title a:hover,.roll-title a:hover,.lastest-posts .content-left h3 a:hover,.lastest-posts .content-right h3 a:hover,.activity span a:hover,.activity span a:hover:before,.recent_posts_b .post h3 a:hover,.recent_posts_b .sub-post .content h3 a:hover,.recent_posts_b .sub-post .date a:hover,.recent_posts_b.type2 .sub-post h3 a:hover,.video-post .content h3 a:hover,.social-navigation li a:hover,a,.btn-menu:hover:before,.post-item .content-entry h3 a:hover,.site-main .content-entry h3 a:hover,.newsanchor_recent_posts_widget ul h3 a:hover,.newsanchor_recent_posts_widget ul .date a:hover,.tabs .comments p a:hover,.tabs .pop-posts .text h3 a:hover,.tabs .pop-posts .text .date a:hover,.widget-socials .socials li a:hover,.widget-most-popular h3 a:hover,.widget-categories li a:hover,.single .meta-post span a:hover,.single .meta-post span a:hover:before,.single .related-posts .content h3 a:hover,.single .related-posts .date a:hover,.comments-list .comment-text .author a:hover,.footer-widgets .widget-list li a:hover,.top-header .toplink li a:hover, .roll-posts-carousel.type-3 .entry-title a:hover { color:#0a0a0a}
+.roll-posts-carousel .item:hover .text-over,.roll-posts-carousel .owl-nav [class*=owl-],.roll-contact-form .send-wrap input,.roll-title:after,#mainnav ul .top-menu-item-1:hover,button,input[type="button"],input[type="reset"],input[type="submit"],.preloader .pre-bounce1,.preloader .pre-bounce2,#mainnav > ul > li:first-of-type,#login-modal .submit-login input,#signup-modal .submit-login input,.sidebar .widget-title:before,.tabs .menu-tab li.active a:after,.widget-subscribe #subscribe-button,.single .tags-post a:hover,.single .share-post .socials a,.comment-respond .submit-comment input,.footer-widgets .widget-social .social-list a:hover,.tagcloud a:hover,.go-top,.search-header .mobi-searchform { background-color:#0a0a0a}
+blockquote,.tagcloud a:hover { border-color:#0a0a0a}
+.site-description { color:#565d72}
+.top-header,.main-header { background-color:#f2f2f2}
+.bottom-header .header-nav { background-color:#222;}
+#mainnav ul .top-menu-item-2:hover { background-color:#fe2d18;}
+#mainnav ul .top-menu-item-3:hover { background-color:#91ce29;}
+#mainnav ul .top-menu-item-4:hover { background-color:#ff9600;}
+#mainnav ul .top-menu-item-5:hover { background-color:#b22234;}
+#mainnav ul .top-menu-item-0:hover { background-color:#c71c77;}
+body { color:#5b5b5b}
+.site-info { background-color:#1e1e1e}
+.footer-widgets.widget-area,.footer-widgets.widget-area a { color:#949494}
+.footer-widgets { background-color:#222}
+.site-credits { text-align: center; }
+.content-area .widget .roll-title { text-transform:uppercase; }
+
+</style>
+<link rel='stylesheet' id='newsanchor-font-awesome-css'  href='https://whitepaperdatabase.com/wp-content/themes/newsanchor-pro/fonts/font-awesome.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://whitepaperdatabase.com/wp-content/plugins/jetpack/css/jetpack.css?ver=7.4.1' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"[]","home_url":"https:\/\/whitepaperdatabase.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://whitepaperdatabase.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.7.1'></script>
+<script type='text/javascript' src='https://whitepaperdatabase.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://whitepaperdatabase.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://whitepaperdatabase.com/wp-content/themes/newsanchor-pro/js/jquery.fitvids.js?ver=1'></script>
+<script type='text/javascript' src='https://whitepaperdatabase.com/wp-content/themes/newsanchor-pro/js/main.js?ver=1'></script>
+<script type='text/javascript' src='https://whitepaperdatabase.com/wp-content/themes/newsanchor-pro/js/owl.carousel.min.js?ver=1'></script>
+<script type='text/javascript' data-cfasync="false" id="omapi-script" async="async" src='https://a.opmnstr.com/app/js/api.min.js'></script>
+<link rel='https://api.w.org/' href='https://whitepaperdatabase.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://whitepaperdatabase.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://whitepaperdatabase.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Binance Coin (BNB)-Whitepaper' href='https://whitepaperdatabase.com/binance-coin-bnb-whitepaper/' />
+<link rel='next' title='Waves (WAVES)-Whitepaper' href='https://whitepaperdatabase.com/waves-waves-whitepaper/' />
+<meta name="generator" content="WordPress 5.1.1" />
+<link rel="canonical" href="https://whitepaperdatabase.com/bytecoin-bcn-whitepaper/" />
+<link rel='shortlink' href='https://wp.me/p9If35-4I' />
+<link rel="alternate" type="application/json+oembed" href="https://whitepaperdatabase.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwhitepaperdatabase.com%2Fbytecoin-bcn-whitepaper%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://whitepaperdatabase.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwhitepaperdatabase.com%2Fbytecoin-bcn-whitepaper%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><!--[if lt IE 9]>
+<script src="https://whitepaperdatabase.com/wp-content/themes/newsanchor-pro/js/html5shiv.js"></script>
+<![endif]-->
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Bytecoin (BCN)-Whitepaper" />
+<meta property="og:url" content="https://whitepaperdatabase.com/bytecoin-bcn-whitepaper/" />
+<meta property="og:description" content="“Bitcoin” [1] has been a successful implementation of the concept of p2p electronic cash. Both professionals and the general public have come to appreciate the convenient combination of public tran…" />
+<meta property="article:published_time" content="2018-03-15T06:10:55+00:00" />
+<meta property="article:modified_time" content="2018-03-16T18:56:52+00:00" />
+<meta property="og:site_name" content="Whitepaper Database" />
+<meta property="og:image" content="https://i0.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/Bytecoin-BCN-Whitepaper.png?fit=900%2C900&amp;ssl=1" />
+<meta property="og:image:width" content="900" />
+<meta property="og:image:height" content="900" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="Bytecoin (BCN)-Whitepaper" />
+<meta name="twitter:image" content="https://i0.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/Bytecoin-BCN-Whitepaper.png?fit=900%2C900&#038;ssl=1&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://i0.wp.com/whitepaperdatabase.com/wp-content/uploads/2017/09/cropped-whitepaper-database-icon-logo-4.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/whitepaperdatabase.com/wp-content/uploads/2017/09/cropped-whitepaper-database-icon-logo-4.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://i0.wp.com/whitepaperdatabase.com/wp-content/uploads/2017/09/cropped-whitepaper-database-icon-logo-4.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/whitepaperdatabase.com/wp-content/uploads/2017/09/cropped-whitepaper-database-icon-logo-4.png?fit=270%2C270&#038;ssl=1" />
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1701672348970760",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+
+<body class="post-template-default single single-post postid-292 single-format-standard group-blog elementor-default">
+<div class="preloader">
+    <div class="spinner">
+        <div class="pre-bounce1"></div>
+        <div class="pre-bounce2"></div>
+    </div>
+</div>
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+   	<header id="header" class="header">
+	   	<div class="top-header">
+	   		<div class="container">
+									<nav class="social-navigation clearfix">
+						<div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu clearfix"><li id="menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-31"><a href="http://whitepaperdatabase.com/"><span class="screen-reader-text">HOME</span></a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-32"><a href="https://whitepaperdatabase.com/category/whitepapers/"><span class="screen-reader-text">WHITEPAPERS</span></a></li>
+<li id="menu-item-825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-825"><a href="https://whitepaperdatabase.com/submit-a-whitepaper/"><span class="screen-reader-text">Submit a Whitepaper</span></a></li>
+</ul></div>					</nav>
+						   					
+			</div>
+	   	</div><!-- /.top-header -->
+
+	   	<div class="main-header">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+		              	<div id="logo" class="logo">
+				        							<a href="https://whitepaperdatabase.com/" title="Whitepaper Database"><img class="site-logo" src="http://whitepaperdatabase.com/wp-content/uploads/2018/03/cryptocurrency-whitepaper-database.png" alt="Whitepaper Database" /></a>
+				        		            	</div>
+		            </div>
+
+		            	            </div>
+	         </div>
+	   	</div><!-- /.main-header -->
+
+		<div class="bottom-header" style="background-color:#f1f1f1">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="header-nav clearfix">
+							<div class="btn-menu"></div><!-- //mobile menu button -->
+							<nav id="mainnav" class="mainnav">
+								<ul id="primary-menu" class="clearfix"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-31 top-menu-item-1"><a href="http://whitepaperdatabase.com/">HOME</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-32 top-menu-item-2"><a href="https://whitepaperdatabase.com/category/whitepapers/">WHITEPAPERS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-825 top-menu-item-3"><a href="https://whitepaperdatabase.com/submit-a-whitepaper/">Submit a Whitepaper</a></li>
+</ul>							</nav><!-- /nav -->
+							<div class="search-header">
+								<form role="search" method="get" class="search-form" action="https://whitepaperdatabase.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>							</div>
+						</div>
+					</div><!-- /.col-md-12 -->
+				</div><!-- /.row -->
+			</div><!-- /.container -->
+		</div><!-- /.bottom-header -->
+	</header>
+
+	<div class="page-content">
+		<div class="container content-wrapper">
+			<div class="row">
+				
+	<div id="primary" class="content-area col-md-8 ">
+		<main id="main" class="site-main" role="main">
+
+		
+			
+<article id="post-292" class="post-292 post type-post status-publish format-standard has-post-thumbnail hentry category-whitepapers tag-bytecoin tag-bytecoin-bcn tag-bytecoin-bcn-whitepaper tag-whitepaper clearfix">
+
+			<div class="entry-thumb">
+			<img width="730" height="730" src="https://i0.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/Bytecoin-BCN-Whitepaper.png?fit=730%2C730&amp;ssl=1" class="attachment-newsanchor-large-thumb size-newsanchor-large-thumb wp-post-image" alt="" srcset="https://i0.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/Bytecoin-BCN-Whitepaper.png?w=900&amp;ssl=1 900w, https://i0.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/Bytecoin-BCN-Whitepaper.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/Bytecoin-BCN-Whitepaper.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/Bytecoin-BCN-Whitepaper.png?resize=768%2C768&amp;ssl=1 768w" sizes="(max-width: 730px) 100vw, 730px" />		</div>
+	
+	<header class="entry-header">
+		<h1 class="single-title">Bytecoin (BCN)-Whitepaper</h1>
+				<div class="meta-post">
+			<span class="posted-on date"><a href="https://whitepaperdatabase.com/bytecoin-bcn-whitepaper/" rel="bookmark"><time class="entry-date published" datetime="2018-03-15T06:10:55+00:00">March 15, 2018</time><time class="updated" datetime="2018-03-16T18:56:52+00:00">March 16, 2018</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://whitepaperdatabase.com/author/whitepaper-database/">Whitepaper Database</a></span></span><span class="categories"> <a href="https://whitepaperdatabase.com/category/whitepapers/" rel="category tag">Whitepapers</a></span>		</div>
+				
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>“Bitcoin” [1] has been a successful implementation of the concept of p2p electronic cash. Both<br />
+professionals and the general public have come to appreciate the convenient combination of<br />
+public transactions and proof-of-work as a trust model. Today, the user base of electronic cash<br />
+is growing at a steady pace; customers are attracted to low fees and the anonymity provided<br />
+by electronic cash and merchants value its predicted and decentralized emission. Bitcoin has<br />
+effectively proved that electronic cash can be as simple as paper money and as convenient as<br />
+credit cards&#8221;</p>
+<p>(<a href="https://cryptorum.com/threads/bytecoin-whitepaper-cryptonote.92/">Source</a>)</p>
+<a href="https://whitepaperdatabase.com/wp-content/uploads/2018/03/Bytecoin-BCN-Whitepaper-.pdf" class="pdfemb-viewer" style="" data-width="max" data-height="max" data-mobile-width="500"  data-scrollbar="none" data-download="on" data-tracking="on" data-newwindow="on" data-pagetextbox="off" data-scrolltotop="off" data-startzoom="100" data-startfpzoom="100" data-toolbar="bottom" data-toolbar-fixed="off">Bytecoin (BCN)-Whitepaper<br/></a>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="tags-post">Tagged <a href="https://whitepaperdatabase.com/tag/bytecoin/" rel="tag">Bytecoin</a> <a href="https://whitepaperdatabase.com/tag/bytecoin-bcn/" rel="tag">Bytecoin BCN</a> <a href="https://whitepaperdatabase.com/tag/bytecoin-bcn-whitepaper/" rel="tag">Bytecoin BCN Whitepaper</a> <a href="https://whitepaperdatabase.com/tag/whitepaper/" rel="tag">Whitepaper</a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+	<nav class="navigation post-navigation" role="navigation">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://whitepaperdatabase.com/binance-coin-bnb-whitepaper/" rel="prev">Binance Coin (BNB)-Whitepaper</a></div><div class="nav-next"><a href="https://whitepaperdatabase.com/waves-waves-whitepaper/" rel="next">Waves (WAVES)-Whitepaper</a></div></div>
+	</nav>
+			
+<div id="comments" class="comments-area comment-post">
+
+	
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/bytecoin-bcn-whitepaper/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://whitepaperdatabase.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" /></p>
+<p class="comment-form-email"><label for="email">Email</label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="comment-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notify me of new posts by email.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='292' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>			</form>
+			</div><!-- #respond -->
+		<script type="text/javascript">
+        jQuery( document ).ready( function( $ ) {
+            $( '.comment-form, #registerform' ).append( '<input type="hidden" name="js-spam-prevention" value="5b3427387a7c2bd73f4e4744d9facdef"/>' );
+        } );
+	</script>
+	
+</div><!-- #comments -->
+
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<div id="secondary" class="sidebar col-md-4" role="complementary">
+	<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://whitepaperdatabase.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="media_image-4" class="widget widget_media_image"><a href="https://www.binance.com/?ref=11201655" target="_blank"><img width="1024" height="282" src="https://i1.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/BINANCE-WHITEPAPER-DATABASE-REFERRAL-BANNER.jpg?fit=1024%2C282&amp;ssl=1" class="image wp-image-231  attachment-large size-large" alt="" style="max-width: 100%; height: auto;" srcset="https://i1.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/BINANCE-WHITEPAPER-DATABASE-REFERRAL-BANNER.jpg?w=2000&amp;ssl=1 2000w, https://i1.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/BINANCE-WHITEPAPER-DATABASE-REFERRAL-BANNER.jpg?resize=300%2C83&amp;ssl=1 300w, https://i1.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/BINANCE-WHITEPAPER-DATABASE-REFERRAL-BANNER.jpg?resize=768%2C211&amp;ssl=1 768w, https://i1.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/BINANCE-WHITEPAPER-DATABASE-REFERRAL-BANNER.jpg?resize=1024%2C282&amp;ssl=1 1024w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></aside><aside id="media_image-5" class="widget widget_media_image"><a href="https://www.cryptohwwallet.com/?acc=5878a7ab84fb43402106c575658472fa&#038;bannerid=3" target="_blank"><img width="1024" height="291" src="https://i2.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/crypto-hw-wallet.png?fit=1024%2C291&amp;ssl=1" class="image wp-image-794  attachment-large size-large" alt="" style="max-width: 100%; height: auto;" srcset="https://i2.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/crypto-hw-wallet.png?w=1190&amp;ssl=1 1190w, https://i2.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/crypto-hw-wallet.png?resize=300%2C85&amp;ssl=1 300w, https://i2.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/crypto-hw-wallet.png?resize=768%2C218&amp;ssl=1 768w, https://i2.wp.com/whitepaperdatabase.com/wp-content/uploads/2018/03/crypto-hw-wallet.png?resize=1024%2C291&amp;ssl=1 1024w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></aside><aside id="yikes_easy_mc_widget-2" class="widget widget_yikes_easy_mc_widget"><h5 class="widget-title">Whitepaper Weekly Report</h5>
+	<section id="yikes-mailchimp-container-1" class="yikes-mailchimp-container yikes-mailchimp-container-1 ">
+	<section class="yikes-mailchimp-form-description yikes-mailchimp-form-description-1">Receive Cryptocurrency Whitepapers Delivered To Your Mailbox Every Week</section>			<form id="whitepaper-weekly-report-1" class="yikes-easy-mc-form yikes-easy-mc-form-1  " method="POST" data-attr-form-id="1">
+
+													<label for="yikes-easy-mc-form-1-EMAIL"  class="EMAIL-label yikes-mailchimp-field-required ">
+
+										<!-- dictate label visibility -->
+																					<span class="EMAIL-label">
+												Email Address											</span>
+										
+										<!-- Description Above -->
+										
+										<input id="yikes-easy-mc-form-1-EMAIL"  name="EMAIL"  placeholder=""  class="yikes-easy-mc-email "  required="required" type="email"  value="">
+
+										<!-- Description Below -->
+										
+									</label>
+									
+				<!-- Honeypot Trap -->
+				<input type="hidden" name="yikes-mailchimp-honeypot" id="yikes-mailchimp-honeypot-1" value="">
+
+				<!-- List ID -->
+				<input type="hidden" name="yikes-mailchimp-associated-list-id" id="yikes-mailchimp-associated-list-id-1" value="179d6d4f81">
+
+				<!-- The form that is being submitted! Used to display error/success messages above the correct form -->
+				<input type="hidden" name="yikes-mailchimp-submitted-form" id="yikes-mailchimp-submitted-form-1" value="1">
+
+				<!-- Submit Button -->
+				<button type="submit" class="yikes-easy-mc-submit-button yikes-easy-mc-submit-button-1 btn btn-primary "> <span class="yikes-mailchimp-submit-button-span-text">Subscribe</span></button>				<!-- Nonce Security Check -->
+				<input type="hidden" id="yikes_easy_mc_new_subscriber_1" name="yikes_easy_mc_new_subscriber" value="2a48e7898c">
+				<input type="hidden" name="_wp_http_referer" value="/bytecoin-bcn-whitepaper/" />				
+			</form>
+			<!-- Mailchimp Form generated by Easy Forms for Mailchimp v6.5.2 (https://wordpress.org/plugins/yikes-inc-easy-mailchimp-extender/) -->
+
+			</section>
+	</aside></div><!-- #secondary -->
+
+			</div>
+		</div>		
+	</div><!-- .page-content -->
+
+    <a class="go-top">
+        <i class="fa fa-angle-up"></i>
+    </a>
+
+	<footer id="colophon" class="site-info" role="contentinfo">
+		<div class="go-top2"></div>
+
+		
+		<div class="site-credits container">
+							© <a href="http://whitepaperdatabase.com">Whitepaper Database</a> 2018.					</div><!-- /.container -->
+	</footer><!-- #colophon -->
+
+</div><!-- #page -->
+
+	<div style="display:none">
+	</div>
+<link rel='stylesheet' id='pdfemb_embed_pdf_css-css'  href='https://whitepaperdatabase.com/wp-content/plugins/pdfembedder-premium/css/pdfemb-embed-pdf.css?ver=3.1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='yikes-inc-easy-mailchimp-public-styles-css'  href='https://whitepaperdatabase.com/wp-content/plugins/yikes-inc-easy-mailchimp-extender/public/css/yikes-inc-easy-mailchimp-extender-public.min.css?ver=5.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://whitepaperdatabase.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20190201'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201926'></script>
+<script type='text/javascript' src='https://whitepaperdatabase.com/wp-content/themes/newsanchor-pro/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='https://whitepaperdatabase.com/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pdfemb_trans = {"worker_src":"https:\/\/whitepaperdatabase.com\/wp-content\/plugins\/pdfembedder-premium\/js\/pdfjs\/pdf.worker.min.js","cmap_url":"https:\/\/whitepaperdatabase.com\/wp-content\/plugins\/pdfembedder-premium\/js\/pdfjs\/cmaps\/","objectL10n":{"loading":"Loading...","page":"Page","zoom":"Zoom","prev":"Previous page","next":"Next page","zoomin":"Zoom In","zoomout":"Zoom Out","secure":"Secure","download":"Download PDF","fullscreen":"Full Screen","domainerror":"Error: URL to the PDF file must be on exactly the same domain as the current web page.","clickhereinfo":"Click here for more info","widthheightinvalid":"PDF page width or height are invalid","viewinfullscreen":"View in Full Screen"},"continousscroll":"1","poweredby":"","ajaxurl":"https:\/\/whitepaperdatabase.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://whitepaperdatabase.com/wp-content/plugins/pdfembedder-premium/js/all-pdfemb-premium.min.js?ver=3.1.8'></script>
+<script type='text/javascript' src='https://whitepaperdatabase.com/wp-content/plugins/pdfembedder-premium/js/pdfjs/pdf.min.js?ver=3.1.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var yikes_mailchimp_ajax = {"ajax_url":"https:\/\/whitepaperdatabase.com\/wp-admin\/admin-ajax.php","page_data":"292","interest_group_checkbox_error":"This field is required.","preloader_url":"https:\/\/whitepaperdatabase.com\/wp-content\/plugins\/yikes-inc-easy-mailchimp-extender\/includes\/images\/ripple.svg","loading_dots":"https:\/\/whitepaperdatabase.com\/wp-content\/plugins\/yikes-inc-easy-mailchimp-extender\/includes\/images\/bars.svg","ajax_security_nonce":"390979f75f"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://whitepaperdatabase.com/wp-content/plugins/yikes-inc-easy-mailchimp-extender/public/js/yikes-mc-ajax-forms.min.js?ver=6.5.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var form_submission_helpers = {"ajax_url":"https:\/\/whitepaperdatabase.com\/wp-admin\/admin-ajax.php","preloader_url":"https:\/\/whitepaperdatabase.com\/wp-admin\/images\/wpspin_light.gif","countries_with_zip":{"US":"US","GB":"GB","CA":"CA","IE":"IE","CN":"CN","IN":"IN","AU":"AU","BR":"BR","MX":"MX","IT":"IT","NZ":"NZ","JP":"JP","FR":"FR","GR":"GR","DE":"DE","NL":"NL","PT":"PT","ES":"ES"},"page_data":"292"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://whitepaperdatabase.com/wp-content/plugins/yikes-inc-easy-mailchimp-extender/public/js/form-submission-helpers.min.js?ver=6.5.2'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201926.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.4.1',blog:'143531307',post:'292',tz:'0',srv:'whitepaperdatabase.com'} ]);
+	_stq.push([ 'clickTrackerInit', '143531307', '292' ]);
+</script>
+		<script type="text/javascript">var omapi_data = {"object_id":292,"object_type":"post","object_key":"post","term_ids":[2,158,159,160,132]};</script>
+		
+</body>
+</html>

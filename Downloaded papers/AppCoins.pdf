@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <base href="/">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>AppCoins</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <meta name="AppCoins" content="">
+  <meta name="description" content="The new standard for In-App Purchases & more">
+  <meta property="og:image" content="/assets/images/image-AppcoinShare.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:title" content="AppCoins: The Protocol for the App Economy">
+  <meta property="og:description" content="AppCoins is an open and distributed protocol for App Stores, using blockchain technology and smart contracts. Serving over 200 million users, AppCoins is the new universal language of the app economy that ensures trust without intermediaries.">
+  <meta property="og:url" content="https://www.appcoins.io/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@AppCoinsProject">
+  <meta name="twitter:title" content="AppCoins (APPC Coin): Official website">
+  <meta name="twitter:description" content="AppCoins is an open and distributed protocol for App Stores, using blockchain technology and smart contracts. Serving over 200 million users, AppCoins is the new universal language of the app economy that ensures trust without intermediaries.">
+  <meta name="twitter:image" content="/assets/images/image-AppcoinShare.png">
+  <link rel="canonical" href="https://appcoins.io" type="text/html">
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+  <!--Slick slider carrousel CSS-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+  <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="icon" type="image/png" href="/assets/images/favicon.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/images/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/images/apple-touch-icon-152x152.png">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,600i,700,700i" rel="stylesheet">
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> <!-- FADE SCROLL ANIM -->
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-MFL8R55');</script>
+  <!-- End Google Tag Manager -->
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script src="/assets/js/pace.js"></script><!-- LOAD BAR -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+  <!-- APPC Explorer Widgets -->
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <!-- Holders Widget -->
+<link rel="stylesheet" href="styles.cd16260f50b447b08840.css"></head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MFL8R55" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <app-root></app-root>
+
+  <!-- ANIMATION OS LIBRARY -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      AOS.init();
+    }, false);
+  </script>
+  <!-- SIDE BAR MENU MOBILE -->
+  <script>
+    function openNav() {
+      document.getElementById("mySidenav").style.width = "100vw";
+    }
+    function closeNav() {
+      document.getElementById("mySidenav").style.width = "0";
+    }
+  </script>
+  <!-- GOOGLE ANALYTICS -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107083944-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-107083944-1');
+  </script>
+
+  <!-- HOTJAR -->
+  <script>
+    (function (h, o, t, j, a, r) {
+      h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+      h._hjSettings = { hjid: 668601, hjsv: 6 };
+      a = o.getElementsByTagName('head')[0];
+      r = o.createElement('script'); r.async = 1;
+      r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+      a.appendChild(r);
+    })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+  </script>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+  
+  <script type="text/javascript">
+    $(document).ready(function () {
+        $('.autoplay').slick({
+            slidesToShow: 4,
+            slidesToScroll: 1,
+            arrows: false,
+            autoplay: true,
+            autoplaySpeed: 2000,
+        });
+        $('.quote-Box').slick({
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            autoplay: true,
+            arrows: true,
+            prevArrow:"<button type='button' style='background:none;outline:none;border:none' class='slick-prev pull-left'><img style='width:25px;height:25px' src='assets/images/arrow-l.svg'></button>",
+            nextArrow:"<button type='button' style='background:none;outline:none;border:none' class='slick-next pull-right'><img style='width:25px;height:25px' src='assets/images/arrow-r.svg'></button>",
+            dots: false,
+            autoplaySpeed: 6500,
+        });
+
+        /* In the JS file */
+
+        $('.left').click(function(){
+            $('.slider').slick('slickPrev');
+        })
+
+        $('.right').click(function(){
+            $('.slider').slick('slickNext');
+        })
+    });
+
+  </script>
+
+
+<script type="text/javascript" src="runtime.26209474bfa8dc87a77c.js"></script><script type="text/javascript" src="polyfills.0fa3e9588b07b25d43c2.js"></script><script type="text/javascript" src="scripts.4aa02c2ef0bfbe906c22.js"></script><script type="text/javascript" src="main.ae28095db99eb42d1671.js"></script></body>
+
+</html>

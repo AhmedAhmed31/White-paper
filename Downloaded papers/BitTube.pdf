@@ -1,0 +1,456 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Home - Proof Of Review</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v11.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="We aim to increase transparency amongst projects and investors by improving the quality of the information in the crypto ecosystem."/>
+<link rel="canonical" href="https://proofofreview.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - Proof Of Review" />
+<meta property="og:description" content="We aim to increase transparency amongst projects and investors by improving the quality of the information in the crypto ecosystem." />
+<meta property="og:url" content="https://proofofreview.com/" />
+<meta property="og:site_name" content="Proof Of Review" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="We aim to increase transparency amongst projects and investors by improving the quality of the information in the crypto ecosystem." />
+<meta name="twitter:title" content="Home - Proof Of Review" />
+<meta name="twitter:site" content="@ProofOfReview" />
+<meta name="twitter:image" content="https://proofofreview.com/wp-content/uploads/2019/06/cover@2x.jpg" />
+<meta name="twitter:creator" content="@ProofOfReview" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://proofofreview.com/#organization","name":"Proof Of Review","url":"https://proofofreview.com/","sameAs":["https://www.youtube.com/channel/UCWbj_3J1pso8TGNyLzdNwjA","https://twitter.com/ProofOfReview"],"logo":{"@type":"ImageObject","@id":"https://proofofreview.com/#logo","url":"https://proofofreview.com/wp-content/uploads/2019/06/logo@2x.png","width":272,"height":90,"caption":"Proof Of Review"},"image":{"@id":"https://proofofreview.com/#logo"}},{"@type":"WebSite","@id":"https://proofofreview.com/#website","url":"https://proofofreview.com/","name":"Proof Of Review","publisher":{"@id":"https://proofofreview.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://proofofreview.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://proofofreview.com/#webpage","url":"https://proofofreview.com/","inLanguage":"en","name":"Home - Proof Of Review","isPartOf":{"@id":"https://proofofreview.com/#website"},"about":{"@id":"https://proofofreview.com/#organization"},"image":{"@type":"ImageObject","@id":"https://proofofreview.com/#primaryimage","url":"https://proofofreview.com/wp-content/uploads/2019/06/cover@2x.jpg"},"primaryImageOfPage":{"@id":"https://proofofreview.com/#primaryimage"},"datePublished":"2019-06-07T15:00:44+00:00","dateModified":"2019-06-20T13:51:41+00:00","description":"We aim to increase transparency amongst projects and investors by improving the quality of the information in the crypto ecosystem."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Proof Of Review &raquo; Feed" href="https://proofofreview.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Proof Of Review &raquo; Comments Feed" href="https://proofofreview.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/proofofreview.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://proofofreview.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css'  href='https://proofofreview.com/wp-includes/css/dist/components/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-font-css'  href='https://fonts.googleapis.com/css?family=Noto+Serif%3A400%2C400i%2C700%2C700i&#038;ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css'  href='https://proofofreview.com/wp-includes/css/dist/block-editor/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-nux-css'  href='https://proofofreview.com/wp-includes/css/dist/nux/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css'  href='https://proofofreview.com/wp-includes/css/dist/editor/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='at_accordion-cgb-style-css-css'  href='https://proofofreview.com/wp-content/plugins/at-accordion/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='at_button-cgb-style-css-css'  href='https://proofofreview.com/wp-content/plugins/at-button/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='at_contact_form-cgb-style-css-css'  href='https://proofofreview.com/wp-content/plugins/at-contact-form/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='at_container-cgb-style-css-css'  href='https://proofofreview.com/wp-content/plugins/at-container/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cover-cgb-style-css-css'  href='https://proofofreview.com/wp-content/plugins/at-cover/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='at_icon_group-cgb-style-css-css'  href='https://proofofreview.com/wp-content/plugins/at-group/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='at_icon_block-cgb-style-css-css'  href='https://proofofreview.com/wp-content/plugins/at-icon-block/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='at_metrics-cgb-style-css-css'  href='https://proofofreview.com/wp-content/plugins/at-metrics/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='at_partner-cgb-style-css-css'  href='https://proofofreview.com/wp-content/plugins/at-partner/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='at_poll-cgb-style-css-css'  href='https://proofofreview.com/wp-content/plugins/at-poll/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='at_section-cgb-style-css-css'  href='https://proofofreview.com/wp-content/plugins/at-section/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='at_subscription-cgb-style-css-css'  href='https://proofofreview.com/wp-content/plugins/at-subscription/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='at_tab-cgb-style-css-css'  href='https://proofofreview.com/wp-content/plugins/at-tab/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='at_tabs-cgb-style-css-css'  href='https://proofofreview.com/wp-content/plugins/at-tabs/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='at_team_member-cgb-style-css-css'  href='https://proofofreview.com/wp-content/plugins/at-team-member/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://proofofreview.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='yop-public-css'  href='https://proofofreview.com/wp-content/plugins/yop-poll/public/assets/css/yop-poll-public.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='por-style-css'  href='https://proofofreview.com/wp-content/themes/por/style.css?ver=5.2.2' type='text/css' media='all' />
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript' src='https://proofofreview.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://proofofreview.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var objectL10n = {"yopPollParams":{"urlParams":{"ajax":"https:\/\/proofofreview.com\/wp-admin\/admin-ajax.php","wpLogin":"https:\/\/proofofreview.com\/wp-login.php?redirect_to=https%3A%2F%2Fproofofreview.com%2Fwp-admin%2Fadmin-ajax.php%3Faction%3Dyop_poll_record_wordpress_vote"},"apiParams":{"reCaptcha":{"siteKey":""}},"captchaParams":{"imgPath":"https:\/\/proofofreview.com\/wp-content\/plugins\/yop-poll\/public\/assets\/img\/","url":"https:\/\/proofofreview.com\/wp-content\/plugins\/yop-poll\/app.php","accessibilityAlt":"Sound icon","accessibilityTitle":"Accessibility option: listen to a question and answer it!","accessibilityDescription":"Type below the <strong>answer<\/strong> to what you hear. Numbers or words:","explanation":"Click or touch the <strong>ANSWER<\/strong>","refreshAlt":"Refresh\/reload icon","refreshTitle":"Refresh\/reload: get new images and accessibility option!"},"voteParams":{"invalidPoll":"Invalid Poll","noAnswersSelected":"No answer selected","minAnswersRequired":"At least {min_answers_allowed} answer(s) required","maxAnswersRequired":"A max of {max_answers_allowed} answer(s) accepted","noAnswerForOther":"No other answer entered","noValueForCustomField":"{custom_field_name} is required","consentNotChecked":"You must agree to our terms and conditions","noCaptchaSelected":"Captcha is required","thankYou":"Thank you for your vote"},"resultsParams":{"singleVote":"vote","multipleVotes":"votes"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://proofofreview.com/wp-content/plugins/yop-poll/public/assets/js/yop-poll-public.min.js?ver=5.2.2'></script>
+<link rel='https://api.w.org/' href='https://proofofreview.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://proofofreview.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://proofofreview.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.2" />
+<link rel='shortlink' href='https://proofofreview.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://proofofreview.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fproofofreview.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://proofofreview.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fproofofreview.com%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+
+<body data-rsssl=1 class="home page-template-default page page-id-10 wp-custom-logo">
+<header class="header">
+		<nav class="navbar fixed-top navbar-expand-lg navbar-light align-items-stretch">
+			<div class="container d-flex justify-content-between align-items-stretch">
+				<a href="https://proofofreview.com/" class="custom-logo-link" rel="home"><img width="272" height="90" src="https://proofofreview.com/wp-content/uploads/2019/06/logo@2x.png" class="custom-logo" alt="Proof of Review" /></a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+					<svg class="navbar-toggler-icon">
+						<use xlink:href="https://proofofreview.com/wp-content/themes/por/assets/img/icons.svg#menu"></use>
+					</svg>
+				</button>
+				
+				<div class="collapse navbar-collapse" id="navbarNav">
+					<button class="navbar-toggler navbar-toggler--close d-lg-none d-xl-none" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+						<svg class="navbar-toggler-icon--close">
+							<use xlink:href="https://proofofreview.com/wp-content/themes/por/assets/img/icons.svg#plus"></use>
+						</svg>
+					</button>
+
+					<ul class="navbar-nav ml-auto"><li id="menu-item-22" class="nav-item active"><a class="nav-link" href="https://proofofreview.com/" aria-current="page">Home</a></li>
+<li id="menu-item-26" class="nav-item"><a class="nav-link" href="https://proofofreview.com/reviews/">Reviews</a></li>
+<li id="menu-item-27" class="nav-item"><a class="nav-link" href="https://proofofreview.com/services/">Services</a></li>
+<li id="menu-item-28" class="nav-item"><a class="nav-link" href="/vote">Vote</a></li>
+<li id="menu-item-23" class="nav-item"><a class="nav-link" href="https://proofofreview.com/contacts/">Contact Us</a></li>
+</ul>				</div>
+			</div>
+		</nav>
+	</header>
+
+	<main class="main">
+
+
+<section class="wp-block-cgb-block-at-cover container-fluid cover is-style-primary"><div class="cover__bg"></div><div class="container"><div class="row"><div class="col-12 col-md-5 col-lg-6">
+<h1 class="mt-md-5">WELCOME TO PROOF OF REVIEW<br>BECOME INFORMED, DEVELOP AN EDGE</h1>
+
+
+
+<p>We aim to increase transparency amongst projects and investors by improving the quality of the information in the crypto ecosystem.</p>
+
+
+
+<p>We review a range of projects and services to help you become informed and develop an edge in this emerging industry and asset class.</p>
+
+
+
+<a class="wp-block-cgb-block-at-button btn is-style-btn-outline-light" href="/reviews">READ REVIEWS</a>
+</div><div class="d-none d-md-block col-7 col-lg-6"><div class="cover__image-wrap"><img class="cover__image" src="https://proofofreview.com/wp-content/uploads/2019/06/cover@2x.jpg" alt="Proof of Review"/></div></div></div></div></section>
+
+
+
+<section class="wp-block-cgb-block-at-section section  container">
+<h2>THE PROBLEM</h2>
+
+
+
+<p>Our team consists of members who have been around the cryptocurrency<br>sector since 2013 and seen the same cycles for many projects.</p>
+
+
+
+<div class="wp-block-cgb-block-at-accordion accordion card card-body"><a class="accordion__toggle" data-toggle="collapse" href="#bdabcdabdeddf" role="button" aria-expanded="false" aria-controls="bdabcdabdeddf"><svg class="accordion__toggle-icon"><use href="/wp-content/themes/por/assets/img/icons.svg#crosshairs"></use></svg><h4 class="text-uppercase mb-0">The Problem</h4><svg class="accordion__toggle-arrow"><use href="/wp-content/themes/por/assets/img/icons.svg#chevron-top"></use></svg></a><div class="collapse accordion__content" id="bdabcdabdeddf"><p>We have seen several cycles of growth in this emerging industry, but there is an underlying issue that remains for investors into the space. How do they analyse projects from the thousands out there and how to identify projects with potential while avoiding so-called &#8220;scam&#8221; projects? <br/><br/>The metrics used in this sector can often be different from those used to analyse projects in other markets, and most market participants don&#8217;t have to experience or knowledge to identify these. <br/><br/>As a result, the target market for projects is left uninformed, and this crowd of investors often relies on price moments to raise their awareness in a project, rather than the fundamentals of a project.<br/></p></div></div>
+</section>
+
+
+
+<section class="wp-block-cgb-block-at-section section  container">
+<h2>THE SOLUTION</h2>
+
+
+
+<p>At Proof of Review, we aim to solve these problems by providing institutional<br>grade reviews on projects including POW coins, Tokens, Exchanges, Mining Pools, Security<br>Token Offerings and Initial Exchange Offerings.</p>
+
+
+
+<div class="wp-block-cgb-block-at-accordion accordion card card-body"><a class="accordion__toggle" data-toggle="collapse" href="#beaffdcafabc" role="button" aria-expanded="false" aria-controls="beaffdcafabc"><svg class="accordion__toggle-icon"><use href="/wp-content/themes/por/assets/img/icons.svg#lightbulb"></use></svg><h4 class="text-uppercase mb-0">The Solution</h4><svg class="accordion__toggle-arrow"><use href="/wp-content/themes/por/assets/img/icons.svg#chevron-top"></use></svg></a><div class="collapse accordion__content" id="beaffdcafabc"><p>We utilize our experience, knowledge and expertise to review these projects and share these reports to the public via our website and our social media following.<br/><br/>The review aims to provide a detailed analysis for a project which is unbiased and covers all the necessary elements for an investor to be informed.<br/></p></div></div>
+</section>
+
+
+
+<section class="wp-block-cgb-block-at-section section  section-fluid container-fluid section--filled">
+<div class="wp-block-cgb-block-at-container container">
+<h2>PROOF OF REVIEW RESEARCH</h2>
+
+
+
+<p>Become informed and gain an edge over your<br>competition in the markets.</p>
+
+
+
+<div class="wp-block-cgb-block-at-group row">
+<div class="wp-block-cgb-block-at-icon-block icon-block col-12 col-md-4 mt-5 is-style-feature"><div class="icon-block__inner"><div class="icon-block__icon"><svg><use href="/wp-content/themes/por/assets/img/icons.svg#folder"></use></svg></div><p class="h4 icon-block__title">INSTITUTIONAL GRADE REVIEWS</p><p class="icon-block__desc">Our reviews are aimed to provide an in-depth analysis of projects in the crypto ecosystem.</p></div></div>
+
+
+
+<div class="wp-block-cgb-block-at-icon-block icon-block col-12 col-md-4 mt-5 is-style-feature"><div class="icon-block__inner"><div class="icon-block__icon"><svg><use href="/wp-content/themes/por/assets/img/icons.svg#layers"></use></svg></div><p class="h4 icon-block__title">MARKET INSIGHTS</p><p class="icon-block__desc">Our team of analysts look at the current state of the markets.</p></div></div>
+
+
+
+<div class="wp-block-cgb-block-at-icon-block icon-block col-12 col-md-4 mt-5 is-style-feature"><div class="icon-block__inner"><div class="icon-block__icon"><svg><use href="/wp-content/themes/por/assets/img/icons.svg#flag"></use></svg></div><p class="h4 icon-block__title">PROJECT UPDATES</p><p class="icon-block__desc">Receive monthly updates on all previous project reviews.</p></div></div>
+</div>
+
+
+
+<section class="wp-block-cgb-block-at-subscription subscription"><div class="subscription__inner"><p class="subscription__title text-uppercase">PROOF OF REVIEW RESEARCH</p><p class="subscription__desc">Sign up for our newsletter and receive <br/>our reports as soon as they are released</p><div role="form" class="wpcf7" id="wpcf7-f92-p10-o1" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f92-p10-o1" method="post" class="wpcf7-form" novalidate="novalidate" id="subscription-form">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="92" />
+<input type="hidden" name="_wpcf7_version" value="5.1.3" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f92-p10-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="10" />
+</div>
+<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Email address" /></span></p>
+<p><input type="submit" value="Register" class="wpcf7-form-control wpcf7-submit btn is-style-btn-primary-dark btn-block subscription__btn text-uppercase" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
+<div class="form-group mb-0"><div class="alert alert-success" id="subscription-form-success" role="alert">Application successfully submitted</div><div class="alert alert-danger" id="subscription-form-error" role="alert">There was an error when submitting your application. Please try again later.</div></div></div></section>
+</div>
+
+
+
+<p></p>
+</section>
+
+
+
+<section class="wp-block-cgb-block-at-section section  container">
+<h2>PROOF OF REVIEW RESEARCH REPORTS</h2>
+
+
+
+<p>Our reports look at the following metrics within a project which include:</p>
+
+
+
+<div class="wp-block-cgb-block-at-group row  reports no-gutters">
+<div class="wp-block-cgb-block-at-metrics report col-md-6 col-lg-3"><h3 class="report__title">The Fundamentals</h3>
+<ul><li>Project Adoption</li><li>Competition</li></ul>
+</div>
+
+
+
+<div class="wp-block-cgb-block-at-metrics report col-md-6 col-lg-3"><h3 class="report__title">Financials</h3>
+<ul><li>Funding</li><li>Governance</li></ul>
+</div>
+
+
+
+<div class="wp-block-cgb-block-at-metrics report col-md-6 col-lg-3"><h3 class="report__title">Coin Metrics</h3>
+<ul><li>Emissions</li><li>Distributions</li></ul>
+</div>
+
+
+
+<div class="wp-block-cgb-block-at-metrics report col-md-6 col-lg-3"><h3 class="report__title">The Team</h3>
+<ul><li>Experience</li><li>Partnerships</li></ul>
+</div>
+
+
+
+<div class="wp-block-cgb-block-at-metrics report col-md-6 col-lg-3"><h3 class="report__title">Code Review</h3>
+<ul><li>Development</li><li>Features</li></ul>
+</div>
+
+
+
+<div class="wp-block-cgb-block-at-metrics report col-md-6 col-lg-3"><h3 class="report__title">Community</h3>
+<ul><li>Engagement</li><li>Promotion</li></ul>
+</div>
+
+
+
+<div class="wp-block-cgb-block-at-metrics report col-md-6 col-lg-3"><h3 class="report__title">Taxonomy</h3>
+<ul><li>Unique analysis model</li><li>Rating</li></ul>
+</div>
+
+
+
+<div class="wp-block-cgb-block-at-metrics report col-md-6 col-lg-3"><h3 class="report__title">Developer Pitch</h3>
+<ul><li>Communication</li><li>Engagement</li></ul>
+</div>
+</div>
+
+
+
+<p class="mb-4 mt-md-5">During the review process we engage with projects to obtain more information and this also<br>gives us a chance to give them feedback on their project.</p>
+</section>
+
+
+
+<section class="wp-block-cgb-block-at-section section  container">
+<h2>PROOF OF REVIEW SERVICES</h2>
+
+
+
+<div class="wp-block-cgb-block-at-group row">
+<div class="wp-block-cgb-block-at-icon-block icon-block col-12 col-md-4 mt-5 is-style-service"><div class="icon-block__inner"><div class="icon-block__icon"><svg><use href="/wp-content/themes/por/assets/img/icons.svg#clipboard-text"></use></svg></div><p class="h3 icon-block__title">Project Review</p><p class="icon-block__desc"></p></div></div>
+
+
+
+<div class="wp-block-cgb-block-at-icon-block icon-block col-12 col-md-4 mt-5 is-style-service"><div class="icon-block__inner"><div class="icon-block__icon"><svg><use href="/wp-content/themes/por/assets/img/icons.svg#code"></use></svg></div><p class="h3 icon-block__title">Code Review</p><p class="icon-block__desc"></p></div></div>
+
+
+
+<div class="wp-block-cgb-block-at-icon-block icon-block col-12 col-md-4 mt-5 is-style-service"><div class="icon-block__inner"><div class="icon-block__icon"><svg><use href="/wp-content/themes/por/assets/img/icons.svg#video"></use></svg></div><p class="h3 icon-block__title">Video Review</p><p class="icon-block__desc"></p></div></div>
+
+
+
+<div class="wp-block-cgb-block-at-icon-block icon-block col-12 col-md-4 mt-5 is-style-service"><div class="icon-block__inner"><div class="icon-block__icon"><svg><use href="/wp-content/themes/por/assets/img/icons.svg#pulse"></use></svg></div><p class="h3 icon-block__title">Strategy</p><p class="icon-block__desc"></p></div></div>
+
+
+
+<div class="wp-block-cgb-block-at-icon-block icon-block col-12 col-md-4 mt-5 is-style-service"><div class="icon-block__inner"><div class="icon-block__icon"><svg><use href="/wp-content/themes/por/assets/img/icons.svg#presentation"></use></svg></div><p class="h3 icon-block__title">Marketing</p><p class="icon-block__desc"></p></div></div>
+
+
+
+<div class="wp-block-cgb-block-at-icon-block icon-block col-12 col-md-4 mt-5 is-style-service"><div class="icon-block__inner"><div class="icon-block__icon"><svg><use href="/wp-content/themes/por/assets/img/icons.svg#bar-chart"></use></svg></div><p class="h3 icon-block__title">Consultation</p><p class="icon-block__desc"></p></div></div>
+</div>
+</section>
+
+
+
+<section class="wp-block-cgb-block-at-section section  container-fluid">
+<div class="wp-block-cgb-block-at-container container">
+<h2>OUR TEAM</h2>
+
+
+
+<p>Our team comes with significant experience in the blockchain<br>sector covering trading, investing, mining, analysis, development and<br>currently consists of the following members:</p>
+</div>
+
+
+
+<div class="wp-block-cgb-block-at-slider slider">
+<div class="wp-block-cgb-block-at-team-member member"><p class="h3 member__name text-center">CoinTraderNik</p><a href="https://twitter.com/cointradernik" class="btn btn-sm member__link">@cointradernik</a><p class="member__desc">Best known for his book “An Altcoin Traders Handbook”, Nik is an experienced member of the analyst team with 6 years of experience in the sector as a trader and investor. Nik also has his own research site https://www.altcointradershandbook.com which has a partnership with Binance Info.</p><a href="https://twitter.com/cointradernik" class="btn btn-sm member__btn">72k followers</a></div>
+
+
+
+<div class="wp-block-cgb-block-at-team-member member"><p class="h3 member__name text-center">Growdigi</p><a href="https://twitter.com/growdigi" class="btn btn-sm member__link">@growdigi</a><p class="member__desc">With over 6 years of experience in the cryptocurrency sector and an enthusiasm for mining, Growdigi is the founder of the project and aims to change the way information about projects is provided to the public. He has a passion for blockchain, research and all things crypto related.</p><a href="https://twitter.com/growdigi" class="btn btn-sm member__btn">21k followers</a></div>
+
+
+
+<div class="wp-block-cgb-block-at-team-member member"><p class="h3 member__name text-center">Ambroid</p><a href="https://twitter.com/anambroid" class="btn btn-sm member__link">@anambroid</a><p class="member__desc"> Ambroid likes to take a deep dive approach to anything he researches. He is mostly focused on mining an fundamental aspects of cryptoassets nowadays but doesn&#8217;t forget his roots in technical analysis. Ambroid has been immersed in the industry for over 3 years. </p><a href="https://twitter.com/anambroid" class="btn btn-sm member__btn">55k followers</a></div>
+
+
+
+<div class="wp-block-cgb-block-at-team-member member"><p class="h3 member__name text-center">Marsmensch</p><a href="https://twitter.com/Marsmensch" class="btn btn-sm member__link">@Marsmensch</a><p class="member__desc">Another highly experienced member of the analyst team with over 6 years’ experience in the blockchain sector, Florian is well known in the space for his love of secure Masternode and Staking setups. </p><a href="https://twitter.com/Marsmensch" class="btn btn-sm member__btn">30k followers</a></div>
+
+
+
+<div class="wp-block-cgb-block-at-team-member member"><p class="h3 member__name text-center">gMAK</p><a href="https://twitter.com/gMAKcrypto" class="btn btn-sm member__link">@gMAKcrypto</a><p class="member__desc">GMak has been in crypto since 2017 and has a passion for fundamental research combined with technical analysis. He has a keen interest in finding projects before they are well known in the public sector, so-called “gems’. </p><a href="https://twitter.com/gMAKcrypto" class="btn btn-sm member__btn">12k followers</a></div>
+</div>
+</section>
+
+
+
+<section class="wp-block-cgb-block-at-section section  container">
+<h2>OUR PARTNERS</h2>
+
+
+
+<p>We work with a wide range of partners to deliver an<br>excellent service to projects and to the public.</p>
+
+
+
+<div class="wp-block-cgb-block-at-group row  mt-4 mt-md-5">
+<div class="wp-block-cgb-block-at-partner col-12 col-md-6 mb-5 mb-md-5"><div class="partner-card "><div class="partner-card__pic"><img src="https://proofofreview.com/wp-content/uploads/2019/06/daily-chain@2x.png"/></div><h3 class="partner-card__title">The Daily Chain</h3><p class="partner-card__desc">The Daily Chain is dedicated to providing unique and informative crypto content on a daily basis. Their goal is to educate the community and empower people to make the right choices.</p></div></div>
+
+
+
+<div class="wp-block-cgb-block-at-partner col-12 col-md-6 mb-5 mb-md-5"><div class="partner-card "><div class="partner-card__pic"><img src="https://proofofreview.com/wp-content/uploads/2019/06/elevate@2x.png"/></div><h3 class="partner-card__title">ElevateUX</h3><p class="partner-card__desc">ElevateUX aims to improve user experience in the cryptocurrency space. By providing a range of services, we aim to help teams by offering guidance to create user friendly products and services</p></div></div>
+</div>
+
+
+
+<p class="text-uppercase">If you wish to join as a partner please get in touch.</p>
+
+
+
+<a class="wp-block-cgb-block-at-button btn is-style-btn-outline-primary" href="/contacts">CONTACT US</a>
+</section>
+
+
+	</main><!-- #content -->
+
+	<footer class="footer">
+		<div class="container footer__container">
+			<div class="row align-items-center justify-content-between">
+				<div class="footer__copyright text-lg-left text-xl-left text-center col-12 col-lg-auto order-2 order-lg-1 mt-5 mt-lg-0">
+					<span class="d-block d-lg-inline">COPYRIGHT © 2019 PROOF OF REVIEW.</span> <span class="d-block d-lg-inline">ALL RIGHTS RESERVED.</span>
+				</div>
+
+				<ul class="socials d-flex align-items-center justify-content-center col-12 col-lg-auto order-1">
+					<li class="socials__item">
+						<a href="https://medium.com/@proofofreview" class="socials__link" target="_blank">
+							<svg class="socials__icon">
+								<use xlink:href="https://proofofreview.com/wp-content/themes/por/assets/img/icons.svg#medium"></use>
+							</svg>
+						</a>
+					</li>
+
+					<li class="socials__item">
+						<a href="mailto:contact@proofofreview.com" class="socials__link" target="_blank">
+							<svg class="socials__icon">
+								<use xlink:href="https://proofofreview.com/wp-content/themes/por/assets/img/icons.svg#email"></use>
+							</svg>
+						</a>
+					</li>
+
+					<li class="socials__item">
+						<a href="https://www.linkedin.com/in/proof-of-review-958a91187/" class="socials__link" target="_blank">
+							<svg class="socials__icon">
+								<use xlink:href="https://proofofreview.com/wp-content/themes/por/assets/img/icons.svg#linkedin"></use>
+							</svg>
+						</a>
+					</li>
+
+					<li class="socials__item">
+						<a href="https://twitter.com/ProofOfReview" class="socials__link" target="_blank">
+							<svg class="socials__icon">
+								<use xlink:href="https://proofofreview.com/wp-content/themes/por/assets/img/icons.svg#twitter"></use>
+							</svg>
+						</a>
+					</li>
+
+					<li class="socials__item">
+						<a href="https://discord.gg/K8faBzV" class="socials__link" target="_blank">
+							<svg class="socials__icon socials__icon--discord">
+								<use xlink:href="https://proofofreview.com/wp-content/themes/por/assets/img/icons.svg#discord-filled"></use>
+							</svg>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</footer>
+
+<script data-cfasync="false">
+  document.onreadystatechange = function () {
+    if (document.readyState == "complete") {
+      var logout_link = document.querySelectorAll('a[href*="wp-login.php?action=logout"]');
+      if (logout_link) {
+        for(var i=0; i < logout_link.length; i++) {
+          logout_link[i].addEventListener( "click", function() {
+            Intercom('shutdown');
+          });
+        }
+      }
+    }
+  };
+</script>
+<script data-cfasync="false">
+  window.intercomSettings = {"app_id":"ygnvs3iw"};
+</script>
+<script data-cfasync="false">(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/ygnvs3iw';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/proofofreview.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://proofofreview.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3'></script>
+<script type='text/javascript' src='https://proofofreview.com/wp-content/themes/por/js/vendor/bootstrap.bundle.min.js?ver=20151215'></script>
+<script type='text/javascript' src='https://proofofreview.com/wp-content/themes/por/js/vendor/ofi.min.js?ver=20151215'></script>
+<script type='text/javascript' src='https://proofofreview.com/wp-content/themes/por/js/vendor/slick.min.js?ver=20151215'></script>
+<script type='text/javascript' src='https://proofofreview.com/wp-content/themes/por/js/scripts.js?ver=20151215'></script>
+<script type='text/javascript' src='https://proofofreview.com/wp-includes/js/wp-embed.min.js?ver=5.2.2'></script>
+
+</body>
+</html>

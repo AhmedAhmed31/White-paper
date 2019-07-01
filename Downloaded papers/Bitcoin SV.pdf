@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <!-- v16204 -->
+
+  <title>Bitcoin SV (BSV) &ndash; BitMart</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="MuHmubHdGYSJj1MPUEW5c8/bGxu7/5+szZCOo7cxA6dku9UbeM6rAxT9o5CPFLADf9Bp5kzdsomhMKMaBf7nog==" />
+  <meta name="description" content="1.Program Description Bitcoin SV is the original Bitcoin. It restores the original Bitcoin protocol, will keep it stable, and allow it to..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/2159564/2c603acbb7528b4f1e9b6d030ea51586d364319c.png" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="BitMart" />
+<meta property="og:title" content="Bitcoin SV (BSV)" />
+<meta property="og:description" content=" 
+1.Program Description
+Bitcoin SV is the original Bitcoin. It restores the original Bitcoin protocol, will keep it stable, and allow it to massively scale. Bitcoin SV will maintain the vision set ..." />
+<meta property="og:url" content="http://bitmartexchange.zendesk.com/hc/en-us/articles/360013291053-Bitcoin-SV-BSV-" />
+<link rel="canonical" href="https://bitmartexchange.zendesk.com/hc/en-us/articles/360013291053-Bitcoin-SV-BSV-" />
+<link rel="alternate" hreflang="en" href="https://bitmartexchange.zendesk.com/hc/en-us/articles/360013291053-Bitcoin-SV-BSV-" />
+<link rel="alternate" hreflang="zh" href="https://bitmartexchange.zendesk.com/hc/zh-cn/articles/360013291053-BSV-BSV-" />
+
+  <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-84c325781668caadf159e5dee8f622c3.css" id="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="//p14.zdassets.com/hc/theming_assets/2159564/114095153533/style.css?digest=360275345153" />
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/2159564/c24e1f7dd5ea959d35fbbd42eb4ccb440cb63ea4.png" />
+
+  <!--[if lt IE 9]>
+  <script>
+    //Enable HTML5 elements for <IE9
+    'abbr article aside audio bdi canvas data datalist details dialog \
+    figcaption figure footer header hgroup main mark meter nav output \
+    progress section summary template time video'.replace(/\w+/g,function(n){document.createElement(n)});
+  </script>
+<![endif]-->
+
+  <script src="//static.zdassets.com/hc/assets/jquery-c679166c1baf738bb62b9918a7a13fd4.js"></script>
+  <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-116271308-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+  
+  
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+
+  <script type="text/javascript" src="//p14.zdassets.com/hc/theming_assets/2159564/114095153533/script.js?digest=360275345153"></script>
+</head>
+<body class="">
+  
+  
+
+
+  
+
+
+  <header class="header">
+  <div class="logo">
+			<a href="https://bitmart.com"> <img src="//theme.zdassets.com/theme_assets/2159564/2c603acbb7528b4f1e9b6d030ea51586d364319c.png" /> </a> 
+  </div>
+  <div class="nav-wrapper">
+    <span class="icon-menu"></span>
+      <a class="login" data-auth-action="signin" role="button" href="/hc/en-us/signin?return_to=https%3A%2F%2Fbitmartexchange.zendesk.com%2Fhc%2Fen-us%2Farticles%2F360013291053-Bitcoin-SV-BSV-&amp;locale=en-us">Sign in</a>
+
+    <nav class="user-nav" id="user-nav">
+      
+      <a class="submit-a-request" href="/hc/en-us/requests/new">Submit a request</a>
+    </nav>
+    <div class="footer-language-selector">
+      
+        <div class="dropdown language-selector" aria-haspopup="true">
+          <a class="dropdown-toggle">
+            English (US)
+          </a>
+          <span class="dropdown-menu dropdown-menu-end" role="menu">
+            
+              <a href="/hc/change_language/es?return_to=%2Fhc%2Fes" dir="ltr" rel="nofollow" role="menuitem">
+                Español
+              </a>
+            
+              <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja" dir="ltr" rel="nofollow" role="menuitem">
+                日本語
+              </a>
+            
+              <a href="/hc/change_language/pt?return_to=%2Fhc%2Fpt" dir="ltr" rel="nofollow" role="menuitem">
+                Português
+              </a>
+            
+              <a href="/hc/change_language/tr?return_to=%2Fhc%2Ftr" dir="ltr" rel="nofollow" role="menuitem">
+                Türkçe
+              </a>
+            
+              <a href="/hc/change_language/vi?return_to=%2Fhc%2Fvi" dir="ltr" rel="nofollow" role="menuitem">
+                Tiếng Việt
+              </a>
+            
+              <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn%2Farticles%2F360013291053-BSV-BSV-" dir="ltr" rel="nofollow" role="menuitem">
+                简体中文
+              </a>
+            
+          </span>
+        </div>
+      
+    </div>
+    
+
+  </div>
+  <!-- Hotjar Tracking Code for www.bitmart.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:859394,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+</header>
+
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="BitMart">
+      
+        <a href="/hc/en-us">BitMart</a>
+      
+    </li>
+  
+    <li title="Coin Info">
+      
+        <a href="/hc/en-us/categories/360000450113-Coin-Info">Coin Info</a>
+      
+    </li>
+  
+    <li title="Listing Coin Info">
+      
+        <a href="/hc/en-us/sections/360001026214-Listing-Coin-Info">Listing Coin Info</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="360000450113" />
+<input type="search" name="query" id="query" placeholder="Search" aria-label="Search" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">Articles in this section</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/en-us/articles/360005775693-0X-ZRX-" class="sidenav-item ">0X (ZRX)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/360015845253-1SG-1SG-" class="sidenav-item ">1SG (1SG)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/360021244734-ABBC-Coin-ABBC-" class="sidenav-item ">ABBC Coin (ABBC)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/360005863414-Aeternity-AE-" class="sidenav-item ">Aeternity (AE)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/360005707593-AISI-AISI-" class="sidenav-item ">AISI (AISI)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/360025278493-Aphelion-APH-" class="sidenav-item ">Aphelion (APH)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/360013413534-Apollo-Currency-APL-" class="sidenav-item ">Apollo Currency (APL)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/360004834113-ArcBlock-ABT-" class="sidenav-item ">ArcBlock (ABT)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/360021338373-Baer-Chain-BRC-" class="sidenav-item ">Baer Chain (BRC)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/360011117434-Berith-BRT-" class="sidenav-item ">Berith (BRT)</a>
+            </li>
+          
+        </ul>
+        
+          <a href="/hc/en-us/sections/360001026214-Listing-Coin-Info" class="article-sidebar-item">See more</a>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="Bitcoin SV (BSV)" class="article-title">
+          Bitcoin SV (BSV)
+          
+        </h1>
+
+        <div class="article-author">
+          <div class="avatar article-avatar">
+            
+              <span class="icon-agent"></span>
+            
+            <img src="https://secure.gravatar.com/avatar/8c536bf1dff6b94e9535f7a1d8e8119c?default=https%3A%2F%2Fassets.zendesk.com%2Fhc%2Fassets%2Fdefault_avatar.png&amp;r=g" alt="Avatar" class="user-avatar"/>
+          </div>
+          <div class="article-meta">
+            
+              marketing
+            
+
+            <ul class="meta-group">
+              
+                <li class="meta-data"><time datetime="2019-05-07T15:56:33Z" title="2019-05-07T15:56:33Z" data-datetime="relative">May 07, 2019 15:56</time></li>
+                <li class="meta-data">Updated</li>
+              
+            </ul>
+          </div>
+        </div>
+        <a class="article-subscribe" title="Opens a sign-in dialog" rel="nofollow" role="button" data-auth-action="signin" aria-selected="false" href="/hc/en-us/articles/360013291053-Bitcoin-SV-BSV-/subscription">Follow</a>
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p> </p>
+<p><span>1.Program Description</span></p>
+<p><span>Bitcoin SV is the original Bitcoin. It restores the original Bitcoin protocol, will keep it stable, and allow it to massively scale. Bitcoin SV will maintain the vision set out by Satoshi Nakamoto’s white paper in 2008: Bitcoin: A Peer-to-Peer Electronic Cash System.</span><span><br></span><span><br></span><span>Reflecting its mission to fulfill the vision of Bitcoin, the project name represents the “Satoshi Vision” or SV. Created at the request of leading BSV mining enterprise CoinGeek and other miners, Bitcoin SV is intended to provide a clear choice for miners and allow businesses to build applications and websites on it reliably.</span></p>
+<p> </p>
+<p><span>2.Program Advantage</span></p>
+<p><span>Bitcoin SV restores the original vision to ignite the future of Bitcoin:</span><span><br></span><span><br></span><span>Bitcoin, as restored in Bitcoin SV can replace every payment system in the world with a better user experience, a cheaper merchant cost, and a safer level of security. Businesses can trust the Bitcoin SV brand to provide the stability and scale they need to commit investment and resources to use the BSV blockchain.</span></p>
+<p> </p>
+<p><span>3.Useful Links</span></p>
+<ul>
+<li><span>Official website: </span><a href="https://bitcoinsv.io/"><span>https://bitcoinsv.io/</span></a></li>
+<li><span>Whitepaper: </span><span><a href="https://bitcoinsv.io/bitcoin.pdf">https://bitcoinsv.io/bitcoin.pdf</a></span></li>
+<li>Explorer: <a href="https://bsvexplorer.io/"><span>https://bsvexplorer.io/</span></a> <span></span></li>
+</ul></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share"><ul class="share">
+  <li><a href="https://www.facebook.com/share.php?title=Bitcoin+SV+%28BSV%29&u=https%3A%2F%2Fbitmartexchange.zendesk.com%2Fhc%2Fen-us%2Farticles%2F360013291053-Bitcoin-SV-BSV-" class="share-facebook">Facebook</a></li>
+  <li><a href="https://twitter.com/share?lang=en&text=Bitcoin+SV+%28BSV%29&url=https%3A%2F%2Fbitmartexchange.zendesk.com%2Fhc%2Fen-us%2Farticles%2F360013291053-Bitcoin-SV-BSV-" class="share-twitter">Twitter</a></li>
+  <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=BitMart&title=Bitcoin+SV+%28BSV%29&url=https%3A%2F%2Fbitmartexchange.zendesk.com%2Fhc%2Fen-us%2Farticles%2F360013291053-Bitcoin-SV-BSV-" class="share-linkedin">LinkedIn</a></li>
+</ul>
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">Was this article helpful?</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a role="radio" rel="nofollow" class="button article-vote article-vote-up" title="Yes" aria-selected="false" data-helper="vote" data-item="article" data-type="up" data-id="360013291053" data-upvote-count="1" data-vote-count="1" data-vote-sum="1" data-vote-url="/hc/en-us/articles/360013291053/vote" data-value="null" data-label="1 out of 1 found this helpful" data-selected-class="null" href="#"></a>
+              <a role="radio" rel="nofollow" class="button article-vote article-vote-down" title="No" aria-selected="false" data-helper="vote" data-item="article" data-type="down" data-id="360013291053" data-upvote-count="1" data-vote-count="1" data-vote-sum="1" data-vote-url="/hc/en-us/articles/360013291053/vote" data-value="null" data-label="1 out of 1 found this helpful" data-selected-class="null" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="360013291053" data-upvote-count="1" data-vote-count="1" data-vote-sum="1" data-vote-url="/hc/en-us/articles/360013291053/vote" data-value="null" data-label="1 out of 1 found this helpful">1 out of 1 found this helpful</span>
+            </small>
+          </div>
+        
+
+        <div class="article-more-questions">
+          Have more questions? <a href="/hc/en-us/requests/new">Submit a request</a>
+        </div>
+        <div class="article-return-to-top">
+          <a href="#article-container">Return to top<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    <h3>Related articles</h3>
+    <ul>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCEXfdtJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCC3edtJTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJCL2hjL2VuLXVzL2FydGljbGVzLzM2MDAxMzI5MTMzMy1CaXRNYXJ0LUxpc3RzLUJpdGNvaW4tU1YtQlNWLQY7CFQ6CXJhbmtpBg%3D%3D--4c82ed881fff818233aff24338d303cc44f1a5a6" rel="nofollow">BitMart Lists Bitcoin SV (BSV)</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCPYldtJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCC3edtJTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI4L2hjL2VuLXVzL2FydGljbGVzLzM2MDAxMzI0Mzg5NC1Db21tdW5pdHktQ29pbi1DT1QtBjsIVDoJcmFua2kH--7a98ee9ae266cc4d6a17041320cbe996b34ad1b0" rel="nofollow">Community Coin (COT)</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCNGpetJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCC3edtJTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI2L2hjL2VuLXVzL2FydGljbGVzLzM2MDAxMzUzOTc5My1CaXRjb2luLUNhc2gtQkNILQY7CFQ6CXJhbmtpCA%3D%3D--c6e7ffffd4ce6121c6d1179bcc8b8ea73aa7eb4a" rel="nofollow">Bitcoin Cash (BCH)</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCDqAc9JTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCC3edtJTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI1L2hjL2VuLXVzL2FydGljbGVzLzM2MDAxMzA3MDM5NC1UcmFuc2NvZGl1bS1UTlMtBjsIVDoJcmFua2kJ--686945a8df95fe5d9a06f82fc6a8870f2bbb416b" rel="nofollow">Transcodium (TNS)</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCPkbIdNTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCC3edtJTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJDL2hjL2VuLXVzL2FydGljbGVzLzM2MDAyNDQ0Nzk5My1CaXRNYXJ0LUxpc3RzLUJpdGNvaW4tR29kLUdPRC0GOwhUOglyYW5raQo%3D--c8742ae07b9954633490536461f494f680a8ee3a" rel="nofollow">BitMart Lists Bitcoin God (GOD)</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <div class="article-comments" id="article-comments">
+        <section class="comments">
+          <header class="comment-overview">
+            <h3 class="comment-heading">
+              Comments
+            </h3>
+            <p class="comment-callout">0 comments</p>
+            
+          </header>
+
+          <ul id="comments" class="comment-list">
+            
+          </ul>
+
+          
+
+          
+
+          <p class="comment-callout">Article is closed for comments.</p>
+        </section>
+      </div>
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    <a title="Home" href="/hc/en-us">BitMart</a>
+
+
+  </div>
+</footer>
+
+
+    <div class="powered-by-zendesk">
+  <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" focusable="false" viewBox="0 0 26 26">
+    <path d="M12 8.2v14.5H0zM12 3c0 3.3-2.7 6-6 6S0 6.3 0 3h12zm2 19.7c0-3.3 2.7-6 6-6s6 2.7 6 6H14zm0-5.2V3h12z"/>
+  </svg>
+
+  <a href="https://www.zendesk.com/help-center/?utm_source=helpcenter&utm_medium=poweredbyzendesk&utm_campaign=text&utm_content=BitMart" target="_blank" >Powered by Zendesk</a>
+</div>
+
+
+  <!-- / -->
+
+  <script type="text/javascript" src="//static.zdassets.com/hc/assets/locales/en-us-a5503df53549041d0c344c39572f0906.js"></script>
+  <script src="https://bitmartexchange.zendesk.com/auth/v2/host.js" data-brand-id="114095153533" data-return-to="https://bitmartexchange.zendesk.com/hc/en-us/articles/360013291053-Bitcoin-SV-BSV-" data-theme="hc" data-locale="en-us" data-auth-origin="114095153533,false,true"></script>
+  
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"bitmartexchange","environment":"production","name":"BitMart"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":"gBU/kHgzpTYy/pAP8loG0R9bL22yT0RN1Sl7JzXyv5PWTwwysSAXsa+MYJAtCw+hr1BdkEVtaWi5iVaehz1blg==","shared_csrf_token":null},"settings":{"zopim_enabled":false,"spam_filter_enabled":true},"current_record_id":"360013291053","current_record_url":"/hc/en-us/articles/360013291053-Bitcoin-SV-BSV-","current_record_title":"Bitcoin SV (BSV)","search_results_count":null,"current_text_direction":"ltr","current_brand_url":"https://bitmartexchange.zendesk.com","current_host_mapping":null,"current_path":"/hc/en-us/articles/360013291053-Bitcoin-SV-BSV-","authentication_domain":"https://bitmartexchange.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-us.zendesk.com/api/1/item/","accessToken":"731a5a953e9a4b7ab6cac9623f50c732","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"aac26cfcf301ac0f5f5eccf720bc487f0fb868f3","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_professional_upsell":false,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"has_copied_content":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","plans_url":"https://bitmartexchange.zendesk.com/hc/admin/plan?locale=en-us","manage_content_url":"https://bitmartexchange.zendesk.com/hc/en-us","arrange_content_url":"https://bitmartexchange.zendesk.com/hc/admin/arrange_contents?locale=en-us","general_settings_url":"https://bitmartexchange.zendesk.com/hc/admin/general_settings?locale=en-us","user_segments_url":"https://bitmartexchange.zendesk.com/knowledge/user_segments?brand_id=114095153533","has_community_enabled":false,"has_internal_sections":true,"has_answer_bot_web_form_enabled":false,"billing_url":"/access/return_to?return_to=https://bitmartexchange.zendesk.com/agent/admin/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"answer_bot_management_url":"https://bitmartexchange.zendesk.com/hc/admin/answer_bot?locale=en-us","is_account_owner":false,"theming_center_url":"https://bitmartexchange.zendesk.com/theming","theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-preview","is_preview":false,"has_guide_user_segments_search":true,"has_alternate_templates":true,"arrange_articles_url":"https://bitmartexchange.zendesk.com/knowledge/arrange?brand_id=114095153533","article_verification_url":"https://bitmartexchange.zendesk.com/knowledge/verification?brand_id=114095153533","has_article_verification":true,"guide_language_settings_url":"https://bitmartexchange.zendesk.com/hc/admin/language_settings?locale=en-us","has_fetch_authenticity_token":true,"docs_importer_url":"https://bitmartexchange.zendesk.com/knowledge/import_articles?brand_id=114095153533"};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-ade6256e26a2d0d72b6441bde60b52e3.js"></script>
+
+  <script type="text/javascript">
+    (function() {
+  var Tracker = {};
+
+  Tracker.track = function(eventName, data) {
+    var url = "https://bitmartexchange.zendesk.com/hc/tracking/events?locale=en-us";
+
+    var payload = {
+      "event": eventName,
+      "data": data,
+      "referrer": document.referrer
+    };
+
+    var xhr = new XMLHttpRequest();
+
+    xhr.open("POST", url, true);
+    xhr.setRequestHeader("Content-Type", "application/json; charset=UTF-8");
+    xhr.send(JSON.stringify(payload));
+  };
+
+    Tracker.track("article_viewed", "BAh7CDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoPYXJ0aWNsZV9pZGwrCC3edtJTADoKX21ldGF7CzoPYWNjb3VudF9pZGkDzPMgOhNoZWxwX2NlbnRlcl9pZGwrCCVni8YaADoNYnJhbmRfaWRsKwh94ZmQGgA6DHVzZXJfaWQwOg51c2VyX3JvbGVJIg5hbm9ueW1vdXMGOwZUOwBJIgplbi11cwY7BlQ=--9949270421b87a598260997431729d38b48d25a7");
+})();
+
+  </script>
+</body>
+</html>
