@@ -1,0 +1,375 @@
+<!doctype html>
+<html prefix="og: http://ogp.me/ns#" lang="en">
+<head>
+<title>TV-TWO: Watch & Earn Crypto</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="Blockchain Transparency for Cross-Device Video Entertainment. In the TV-TWO ecosystem, users are rewarded with TTV Ethereum Tokens (ERC20) for their attention. Users collect rewards and receive cryptocurrency payouts.">
+<meta name="keywords" content="TV-TWO, Samsung, LG, iOS, Apple, Android, Google, TV, Ethereum, Blockchain, Tokens, TTV">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500" rel="stylesheet">
+<meta property="og:site_name" content="TV-TWO: Watch & Earn Crypto"><meta property="og:title" content="TV-TWO: Watch & Earn Crypto"><meta property="og:type" content="website"><meta property="og:image" content="https://tv-two.com/images/tv-two_social.png"><meta property="og:description" content="Blockchain Transparency for Cross-Device Video Entertainment"><meta property="og:url" content="https://tv-two.com"><meta property="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#72badc">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/themify-icons.css">
+<link rel="stylesheet" href="css/owl.carousel.min.css">
+<link href="css/style.css" rel="stylesheet">
+<link rel="icon" type="image/png" href="images/tv_fav.png" />
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-108638823-2', 'auto');ga('send', 'pageview');</script>
+<script>
+		 !function(f,b,e,v,n,t,s)
+		 {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		 n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		 if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+		 n.queue=[];t=b.createElement(e);t.async=!0;
+		 t.src=v;s=b.getElementsByTagName(e)[0];
+		 s.parentNode.insertBefore(t,s)}(window, document,'script',
+		 'https://connect.facebook.net/en_US/fbevents.js');
+		 fbq('init', '294354137740460');
+		 fbq('track', 'PageView');
+		</script>
+<noscript><img height="1" width="1" style="display:none"
+		 src="https://www.facebook.com/tr?id=294354137740460&ev=PageView&noscript=1"
+		/></noscript>
+</head>
+<body data-spy="scroll" data-target="#navbar" data-offset="30">
+<div class="nav-menu fixed-top">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<nav class="navbar navbar-dark navbar-expand-lg">
+<a class="navbar-brand" href="index.html"><img width="65%" height="65%" src="images/logo.png" class="img-fluid" alt="logo"></a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+<div class="collapse navbar-collapse" id="navbar">
+<ul class="navbar-nav ml-auto">
+<li class="nav-item"> <a class="nav-link active" href="#home">HOME <span class="sr-only">(current)</span></a> </li>
+<li class="nav-item"> <a class="nav-link" href="#setup">SETUP</a> </li>
+<li class="nav-item"> <a class="nav-link" href="#gallery">GALLERY</a> </li>
+<li class="nav-item"> <a class="nav-link" href="#faq">FAQ</a> </li>
+<li class="nav-item"><a target="_blank" href="#campaign" class="btn btn-outline-light my-3 my-sm-0 ml-lg-3">ADVERTISE ON TV-TWO</a></li>
+</ul>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+<header class="bg-gradient" id="home">
+<div class="container mt-5">
+<h1>TV-TWO: Watch &amp; Earn Crypto</h1>
+<p class="tagline">Blockchain Transparency for Cross-Device Video Entertainment</p>
+<div class="my-4">
+<a target="_blank" href="https://www.samsung.com/us/televisions-home-theater/tvs/all-tvs" class="btn btn-light"><img src="images/samsungicon.png" alt="icon">Samsung</a><a target="_blank" href="http://in.lgappstv.com/appspc/store/product/retrieveProductInfo.lge?dummy=all&appId=469900" class="btn btn-light"><img src="images/lgicon.png" alt="icon">LG</a><a target="_blank" href="https://itunes.apple.com/app/tv-two/id1440628819" class="btn btn-light"><img src="images/appleicon.png" alt="icon">iOS</a><a target="_blank" href="https://play.google.com/store/apps/details?id=com.tvtwo" class="btn btn-light"><img src="images/playicon.png" alt="icon">Android</a>
+</div>
+<p class="tagline" style="font-size:15px">Business Partnerships</p>
+<div class="container text-center">
+<a target="_blank" href="https://medium.com/tvtwocom/feedback-from-our-business-partner-38a1a04dcff2"><img src="images/fox.png" alt="20th Century Fox" class="img-fluid" width="60px"></a>
+<a target="_blank" href="https://medium.com/tvtwocom/nexo-meets-tv-two-7b2b2a54c928"><img src="images/nexo_2.png" alt="Nexo" class="img-fluid" height="20px" width="130px"></a>
+<a target="_blank" href="https://medium.com/tvtwocom/tv-two-meets-libertex-while-ttv-reaches-6-month-high-f1eee363e891"><img src="images/libertex_2.png" alt="Libertex" class="img-fluid" width="110px" height="20px"></a>
+<a target="_blank" href="https://medium.com/tvtwocom/guarda-meets-tv-two-17616bd7ea01"><img src="images/guarda_3.png" alt="Guarda" class="img-fluid" width="95px" height="20px"></a>
+</div>
+</div>
+<div class="img-holder mt-3"><img src="images/1.png" alt="phone" class="img-fluid"></div>
+</header>
+<div class="client-logos my-5">
+<div class="container text-center">
+<a target="_blank" href="https://cointelegraph.com/news/blockchain-in-media-how-blockchain-can-help-advertising"><img width="16%" height="16%" src="images/client-logo-1.png" alt="client logos" class="img-fluid"></a>
+<a target="_blank" href="https://www.entrepreneur.com/article/315433"><img width="16%" height="16%" src="images/client-logo-2.png" alt="client logos" class="img-fluid"></a>
+<a target="_blank" href="https://www.forbes.com/sites/jamos/2018/08/01/will-moviecoins-blockchain-technology-revolutionize-hollywood-film-production/#20ef51231258"><img width="16%" height="16%" src="images/client-logo-4.png" alt="client logos" class="img-fluid"></a>
+<a target="_blank" href="https://soundcloud.com/omrpodcast/askomr-01"><img width="16%" height="16%" src="images/client-logo-5.png" alt="client logos" class="img-fluid"></a>
+</div>
+</div>
+<div class="section light-bg">
+<div class="container">
+<div class="section-title">
+<small>HIGHLIGHTS</small>
+<h3>What is TV-TWO</h3>
+</div>
+<div class="row">
+<div class="col-12 col-lg-4">
+<div class="card features">
+<div class="card-body">
+<div class="media">
+<span class="ti-face-smile gradient-fill ti-3x mr-3"></span>
+<div class="media-body">
+<h4 class="card-title">Watch Videos</h4>
+<p class="card-text">Lean back and enjoy your favorite content from thousands of creators.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-lg-4">
+<div class="card features">
+<div class="card-body">
+<div class="media">
+<span class="ti-money gradient-fill ti-3x mr-3"></span>
+<div class="media-body">
+<h4 class="card-title">Earn Crypto</h4>
+<p class="card-text">Collect rewards and receive cryptocurrency payouts.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-lg-4">
+<div class="card features">
+<div class="card-body">
+<div class="media">
+<span class="ti-stats-up gradient-fill ti-3x mr-3"></span>
+<div class="media-body">
+<h4 class="card-title">Boost Earnings</h4>
+<p class="card-text">Speed up your earnings by completing tasks.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 offset-lg-6">
+<h2>Giving back to the community</h2>
+<p class="mb-4">In the TV-TWO ecosystem, users are rewarded with TTV Ethereum Tokens (ERC20) for their attention.</p>
+<a target="_blank" href="https://tv-two.com/how-to" class="btn btn-primary">Learn more</a>
+</div>
+</div>
+<div class="perspective-phone">
+<img src="images/perspective.png" alt="perspective phone" class="img-fluid">
+</div>
+</div>
+</div>
+<div class="section light-bg" id="setup">
+<div class="container">
+<div class="section-title">
+<small>SETUP</small>
+<h3>How to use TV-TWO</h3>
+</div>
+<div class="row">
+<div class="col-md-8 d-flex align-items-center">
+<ul class="list-unstyled ui-steps">
+<li class="media">
+<div class="circle-icon mr-4">1</div>
+<div class="media-body">
+<h5>Download TV-TWO</h5>
+<p>Get the TV-TWO app for your Samsung or LG Smart TV as well as your iOS or Android smartphone.</p>
+</div>
+</li>
+<li class="media my-4">
+<div class="circle-icon mr-4">2</div>
+<div class="media-body">
+<h5>Link Devices</h5>
+<p>During the first start of the TV app, scan the QR code from your TV screen to sync your TV with your smartphone.</p>
+</div>
+</li>
+<li class="media">
+<div class="circle-icon mr-4">3</div>
+<div class="media-body">
+<h5>Learn Back & Earn Crypto</h5>
+<p>Machine Learning curates the perfect programming just for you - earn TTV Ethereum Tokens (ERC20) for every second you watch.</p>
+</div>
+</li>
+</ul>
+</div>
+<div class="col-md-4">
+<img src="images/iphonex.png" alt="iphone" class="img-fluid">
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="gallery">
+<div class="container">
+<div class="section-title">
+<small>GALLERY</small>
+<h3>App Impressions</h3>
+</div>
+<div class="img-gallery owl-carousel owl-theme">
+<img src="images/s2.jpg" alt="image">
+<img src="images/s1.jpg" alt="image">
+<img src="images/s3.jpg" alt="image">
+<img src="images/s4.jpg" alt="image">
+<img src="images/s5.jpg" alt="image">
+ <img src="images/s6.jpg" alt="image">
+</div>
+</div>
+</div>
+<div class="section light-bg">
+<div class="container">
+<div class="section-title">
+<small>HOW IT WORKS</small>
+<h3>TV-TWO Ecosystem</h3>
+</div>
+<ul class="nav nav-tabs nav-justified" role="tablist">
+<li class="nav-item">
+<a class="nav-link active" data-toggle="tab" href="#advertiser">Advertiser</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-toggle="tab" href="#tvtwo">TV-TWO</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-toggle="tab" href="#user">User</a>
+</li>
+</ul>
+<div class="tab-content">
+<div class="tab-pane fade show active" id="advertiser">
+<div class="d-flex flex-column flex-lg-row">
+<div>
+<h2>Marketing on the Blockchain</h2>
+<p class="lead">Advertisers receive full transparency on their campaigns</p>
+<p>The days when advertisers were falling victim to fraud or non-transparent KPI reporting are over! With TV-TWO’s custom Ethereum token called TTV, security and fairness regain power in the video entertainment space. Through a smart contract, brands hand on the TTV directly to the actual viewers of their sponsored message. With the token transfer, all watch statistics are documented on the Ethereum Blockchain. Through the built-in cryptography, the advertiser can decide to make the immutable watch statistics accessible to anyone, just partners or only themselves.
+</p>
+<p>At the same time, advertisers receive targeting and attribution features as well as automated media booking cross-device, on both mobile and Smart TV. For their campaigns, they can address users on the basis of their first-party data without having to hand over data to TV-TWO or a third-party. Due to the characteristics of the open ledger technology, no one has to trust a single centralized platform.
+</p>
+</div>
+<img src="images/graphic_1.png" alt="graphic" width="60%" height="60%" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+</div>
+</div>
+<div class="tab-pane fade" id="tvtwo">
+<div class="d-flex flex-column flex-lg-row">
+<div>
+<h2>Open Entertainment Ecosystem</h2>
+<p class="lead">TV-TWO offers Blockchain-based video entertainment</p>
+<p>Instead of communicating with the servers of TV-TWO, the mobile and Smart TV application directly connect to a Smart Contract on the Ethereum blockchain, documenting KPIs in an immutable and auditable form in the distributed ledger. This is reached through a token transfer, which is also used to reward the users. TV-TWO redistributes the ad cake and actively gives back advertising revenue to its community.
+</p>
+<p>The limited scalability of the Ethereum blockchain is overcome by implementing µRaiden state channels that minimize transaction costs, while allowing for transparent documentation of watch statistics. This brings transparency to the ad spend of brands and takes out middlemen, who are selling consumer access to the highest bidder. TV-TWO’s decentralized nature fundamentally differentiates the open platform of TV-TWO from the established walled gardens in advertising.
+</p>
+</div>
+<img src="images/graphic_2.png" alt="graphic" width="60%" height="60%" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+</div>
+</div>
+<div class="tab-pane fade" id="user">
+<div class="d-flex flex-column flex-lg-row">
+<div>
+<h2>Watch Videos, Earn Rewards</h2>
+<p class="lead">Users receive crypto for their shared data and attention</p>
+<p>Users that switch to TV-TWO receive the same content they love, but earn crypto! On TV-TWO, users find a platform that offers all leading YouTube channels together with a personalized video stream curated by a supervised learning algorithm. For every sponsored messages users consume, they are rewarded with TV-TWO’s custom Ethereum token called TTV, which comes directly from the advertiser.
+</p>
+<p>While relaxing and watching the content they love, the integrated Ethereum wallet is collecting the TTVs. Later on, those TTVs may be paid out to a separate wallet. On top, user may decide to boost their earnings by performing certain tasks offered on TV-TWO. It is your your attention, why shouldn’t you be rewarded for it?
+</p>
+</div>
+<img src="images/graphic_3.png" alt="graphic" width="60%" height="60%" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section">
+<div class="container">
+<div class="section-title">
+<small>TTV</small>
+<h3>Token for Television</h3>
+</div>
+<div class="card-deck">
+<div class="card pricing">
+<div class="card-head">
+<span class="price">Facebook</span>
+</div>
+<ul class="list-group list-group-flush">
+<div class="list-group-item">Like TV-TWO on Facebook</div>
+</ul>
+<div class="card-body">
+<a target="_blank" href="https://facebook.com/tvtwocom" class="btn btn-primary btn-lg btn-block">Go to Facebook</a>
+</div>
+</div>
+<div class="card pricing popular">
+<div class="card-head">
+<span class="price">News</span>
+</div>
+<ul class="list-group list-group-flush">
+<div class="list-group-item">Read updates on our company</div>
+</ul>
+<div class="card-body">
+<a target="_blank" href="https://medium.com/tvtwocom" class="btn btn-primary btn-lg btn-block">Go to Medium</a>
+</div>
+</div>
+<div class="card pricing">
+<div class="card-head">
+<span class="price">Twitter</span>
+</div>
+<ul class="list-group list-group-flush">
+<div class="list-group-item">Follow TV-TWO on Twitter</div>
+</ul>
+<div class="card-body">
+<a target="_blank" href="https://twitter.com/tvtwocom" class="btn btn-primary btn-lg btn-block">Go to Twitter</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section pt-0" id="faq">
+<div class="container">
+<div class="section-title">
+<small>FAQ</small>
+<h3>Frequently Asked Questions</h3>
+</div>
+<div class="row pt-4">
+<div class="col-md-6">
+<h4 class="mb-3">How to request a payout to earn crypto?</h4>
+<p class="light-font mb-5">Once you have collected 50,000 credits in the app, you can click on the Wallet icon in the bottom-right corner and click on Request Payout. You simply need an email and your Ethereum wallet address. Please make sure that your wallet is compatible with <a target="_blank" href="https://tv-two.com/how-to">TTV tokens</a>.</p>
+<h4 class="mb-3">How can I generate a referral link?</h4>
+<p class="light-font mb-5">To become an affiliate for TV-TWO and invite new users to the TV-TWO platform, you can generate your personal referral link with the help of the TV-TWO app for Android: 1) Open the TV-TWO app for Android and click on the yellow Discover Boosts button. 2) Scroll down to the Invite Users to TV-TWO boost and generate your referral link. 3) Share your link with friends and family or post your link on the web.</p>
+</div>
+<div class="col-md-6">
+<h4 class="mb-3">How much is 1 TTV in USD?</h4>
+<p class="light-font mb-5">The exchange rate between TTV and USD depends on the current market price on the cryptocurrency exchanges. Demand from advertisers for TTV tokens increases the price on the exchanges. You can get an always up-to-date exchange rate on <a target="_blank" href="https://coinmarketcap.com/currencies/tv-two">CoinMarketCap</a>.</p>
+<h4 class="mb-3">Why did my tokens not arrive after the payout?</h4>
+<p class="light-font mb-5">Please allow 24 hours for the token transfer after submitting your Payout Request. When checking your balance on a MyEtherWallet, please remember to add the TTV as a <a target="_blank" href="https://tv-two.com/how-to">Custom Token</a> in your Balance to see the TTVs arriving. When checking your balance on Etherscan, you need to look under the ERC20 Tab for your TTV tokens. Your Ether balance might still be zero, while your tokens have already arrived. </p>
+</div>
+</div>
+</div>
+</div>
+<div class="section bg-gradient" id="campaign">
+<div class="container">
+<div class="call-to-action">
+<div class="box-icon"><span class="ti-video-clapper gradient-fill ti-3x"></span></div>
+<h2>Advertisers & Agencies</h2>
+<p class="tagline">Reach a target group with 100% crypto-affinity across devices with curated messages that produce a transparent audit trail for your campaign results on the Ethereum Blockchain.</p>
+<div class="my-4">
+<a target="_blank" href="https://tv-two.com/campaign" class="btn btn-light">Campaign Booking Tool</a>
+</div>
+</div>
+</div>
+</div>
+<div class="light-bg py-5">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 text-center text-lg-left">
+<p class="mb-2"> <span class="ti-location-pin mr-2"></span>Dr. Grass-Strasse 12, 9490 Vaduz</p>
+<div class=" d-block d-sm-inline-block">
+<p class="mb-2">
+<span class="ti-email mr-2"></span> <a class="mr-4" href="/cdn-cgi/l/email-protection#dda9b8bcb09da9abf0a9aab2f3beb2b0"><span class="__cf_email__" data-cfemail="a2d6c7c3cfe2d6d48fd6d5cd8cc1cdcf">[email&#160;protected]</span></a>
+</p>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="social-icons">
+<a target="_blank" href="https://medium.com/tvtwocom"><span class="ti-announcement"></span></a>
+<a target="_blank" href="https://t.me/tvtwocom"><span class="ti-comments"></span></a>
+<a target="_blank" href="https://www.facebook.com/tvtwocom"><span class="ti-facebook"></span></a>
+<a target="_blank" href="https://twitter.com/tvtwocom"><span class="ti-twitter-alt"></span></a>
+<a target="_blank" href="https://www.youtube.com/tvtwocom"><span class="ti-youtube"></span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class="my-5 text-center">
+<div class="my-4">
+<a target="_blank" href="https://brave.com/tvt141" class="btn btn-light">DOWNLOAD BRAVE</a>
+</div>
+<br /><br /><br /><br /><br /><br />
+<p class="mb-2" id="brave"><small>COPYRIGHT © 2019 - ALL RIGHTS RESERVED - TEMPLATE BY COLORLIB</small></p>
+<small>
+<a target="_blank" href="https://tv-two.com/imprint.html" class="m-2">IMPRINT</a>
+<a target="_blank" href="https://tv-two.com/privacy.html" class="m-2">PRIVACY</a>
+<a target="_blank" href="https://angel.co/tvtwocom/jobs" class="m-2">JOBS</a>
+</small>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

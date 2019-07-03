@@ -1,0 +1,1841 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, maximum-scale=1">
+    <meta name="csrf-param" content="_csrf-frontend">
+    <meta name="csrf-token" content="mheXRA_Ur4wR1UA94uH5otfKeWHLt7V5OhmtvkxkxfvyVNwxZLb5x3uTCmyQhqDvs4k4Jv7SgigOfMTQAAmgiw==">
+    <title>White paper | FirstBlood ICO 1ST review, analysis, price | Neironix</title>
+    <link rel="shortcut icon" type="image/png" href="/images/favicon.png">
+            <meta name="baidu-site-verification" content="R2Rxivg5ZF" />
+        <meta name="naver-site-verification" content="0e0dd456e784102c5b4ef5eeb96079e3f5f1a2d2"/>
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-ML8FJMM');</script>
+
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+        <!-- Marquiz script start -->
+        <script src="//script.marquiz.ru/v1.js" type="application/javascript"></script>
+        <!-- WEBSPACEX beta -->
+        <script id="domain" data-name="5186560" type="text/javascript" src="https://webspacex.io/seo/platform/js/analytics_js/client.js"></script>
+
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                                Marquiz.init({
+                    id: '5bf98b329cc21f0044ecfa45',
+                    autoOpen: false,
+                    openOnExit: false
+                });
+                            });
+        </script>
+        <!— Marquiz script end —>
+       <meta property="og:title" content="Neironix - Rating analytical agency">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://neironix.io/images/open_graphs/3_firstblood_en.png">
+<meta name="description" content="White Paper | FirstBlood ICO 1ST details, token price, white paper, risk info, technical analysis, team, start and end dates, structure of tokens and bounty, exchanges. All information about FirstBlood ICO">
+<meta name="twitter:image" content="https://neironix.io/images/open_graphs/3_firstblood_en.png">
+<meta property="og:url" content="https://neironix.io/ico-rating/firstblood/white-paper">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@neironix_io">
+<meta name="twitter:creator" content="@neironix_io">
+<meta name="twitter:title" content="FirstBlood">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="canonical">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-US">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-ng">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-in">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-cn">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-vn">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-eg">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-mx">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-dz">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-ps">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-sa">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-ae">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-de">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-ca">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-za">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-ph">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-my">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-sg">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-gb">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-us">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-il">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-it">
+<link href="https://neironix.io/ico-rating/firstblood/white-paper" rel="alternate" hreflang="en-th">
+<link href="https://neironix.io/ru/ico-rating/firstblood/white-paper" rel="alternate" hreflang="ru-RU">
+<link href="https://neironix.io/ru/ico-rating/firstblood/white-paper" rel="alternate" hreflang="ru-ua">
+<link href="https://neironix.io/ru/ico-rating/firstblood/white-paper" rel="alternate" hreflang="ru-kz">
+<link href="https://neironix.io/ru/ico-rating/firstblood/white-paper" rel="alternate" hreflang="ru-by">
+<link href="https://neironix.io/ru/ico-rating/firstblood/white-paper" rel="alternate" hreflang="ru-md">
+<link href="https://neironix.io/ru/ico-rating/firstblood/white-paper" rel="alternate" hreflang="ru-uz">
+<link href="https://neironix.io/ru/ico-rating/firstblood/white-paper" rel="alternate" hreflang="ru-ge">
+<link href="https://neironix.io/zh/ico-rating/firstblood/white-paper" rel="alternate" hreflang="zh-CN">
+<link href="https://neironix.io/zh/ico-rating/firstblood/white-paper" rel="alternate" hreflang="zh-Hans-cn">
+<link href="https://neironix.io/zh/ico-rating/firstblood/white-paper" rel="alternate" hreflang="zh-Hans-tw">
+<link href="https://neironix.io/zh/ico-rating/firstblood/white-paper" rel="alternate" hreflang="zh-Hans-my">
+<link href="https://neironix.io/zh/ico-rating/firstblood/white-paper" rel="alternate" hreflang="zh-Hans-sg">
+<link href="https://neironix.io/ja/ico-rating/firstblood/white-paper" rel="alternate" hreflang="ja-JP">
+<link href="https://neironix.io/de/ico-rating/firstblood/white-paper" rel="alternate" hreflang="de-DE">
+<link href="https://neironix.io/tr/ico-rating/firstblood/white-paper" rel="alternate" hreflang="tr-TR">
+<link href="https://neironix.io/ko/ico-rating/firstblood/white-paper" rel="alternate" hreflang="ko-KR">
+<link href="https://neironix.io/ar/ico-rating/firstblood/white-paper" rel="alternate" hreflang="ar_EG">
+<link href="https://neironix.io/es/ico-rating/firstblood/white-paper" rel="alternate" hreflang="es_ES">
+<link href="https://neironix.io/es/ico-rating/firstblood/white-paper" rel="alternate" hreflang="es-mx">
+<link href="https://neironix.io/it/ico-rating/firstblood/white-paper" rel="alternate" hreflang="it_IT">
+<link href="https://neironix.io/pt/ico-rating/firstblood/white-paper" rel="alternate" hreflang="pt_PT">
+<link href="https://neironix.io/pt/ico-rating/firstblood/white-paper" rel="alternate" hreflang="pt-br">
+<link href="https://neironix.io/hi/ico-rating/firstblood/white-paper" rel="alternate" hreflang="hi_IN">
+<link href="/assets/787717cb/magnific-popup.css?v=1524166902" rel="stylesheet">
+<link href="/assets/42968eb4/css/select2.min.css?v=1524166902" rel="stylesheet">
+<link href="/assets/fc2008a0/css/tooltipster.bundle.min.css?v=1524166902" rel="stylesheet">
+<link href="/assets/bb6cf2b8/css/tooltipster-follower.min.css?v=1524166902" rel="stylesheet">
+<link href="/css/normalize.css?v=1535453977" rel="stylesheet">
+<link href="/css/libs.min.css?v=1535453977" rel="stylesheet">
+<link href="/css/main.css?v=1558355908" rel="stylesheet">
+<link href="/assets/bf3dd24/authchoice.css?v=1524168952" rel="stylesheet"></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-ML8FJMM"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+<!--    <script async src="https://appsha1.cointraffic.io/js/?wkey=lQ44hTO1Co"></script>-->
+<div class="container" id="app">
+    <!--<a href="http://w12.io/?utm_source=neironix.io&utm_campaing=tokensale&utm_type=neironix_banner" onclick="yaCounter42114934.reachGoal('w12-click')" target="_blank">-->
+<!--    <img src="/images/1903х41.png" alt="" style="display: block">-->
+<!--</a>-->
+<header>
+    <!--         <div class="tkeycoinBanner">
+            <a href="/specials/tkeycoin">
+                <img src="/images/tkeycoin/main-banner-en.png" alt="tkeycoin-banner">
+            </a>
+        </div>
+        <div class="tkeycoinBanner-mob">
+            <a href="/specials/tkeycoin">
+                <img src="/images/tkeycoin/main-banner-mob-en.png" alt="tkeycoin-banner">
+            </a>
+        </div>
+     -->
+    <section class="top-header">
+        <div class="content">
+            <div class="side">
+                <div class="selectors">
+                    <div class="change-language js-button-change" data-type="language">
+                        <div class="selected">
+                            <div class="flag">
+                                <img src="/images/flags/us.png" alt="">
+                            </div>
+                            <div class="name">
+                                English                            </div>
+                        </div>
+                    </div>
+                    <div class="sep"></div>
+                    <div class="change-value js-button-change" data-type="currency">
+                        <div class="selected">
+                            <div class="name js-select-currency" data-default="USD">
+                                USD                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="search-wrapper">
+                    <svg>
+                        <use xlink:href="/images/icons/sprite.svg#magnific" x="" y=""/>
+                    </svg>
+                    <input type="text" placeholder="Search" name="neironix_text" class="js-main-page-search">
+                    <div class="dropdown js-main-page-dropdown"></div>
+                </div>
+            </div>
+            <div class="cabinet-buttons">
+        <a href="/account/investor/watch-list/index/project" class="cabinet-button">
+        <svg>
+            <use xlink:href="/images/icons/sprite.svg#star2" />
+        </svg>
+    </a>
+</div>
+            <div class="sep"></div>
+                <div class="links">
+        <a href="/user/auth/sign-in">Login</a>
+        /
+        <a href="/user/auth/sign-up">Register</a>
+    </div>
+        </div>
+    </section>
+    <section class="nav-header">
+        <div class="content">
+            <a href="/" class="logo">
+                <!-- <span class="beta">beta</span> -->
+                <img src="/images/icons/logo2.svg" alt="">
+            </a>
+            <nav>
+<!--                <a href="--><!--" class="market">-->
+<!--                    <svg>-->
+<!--                        <use xlink:href="/images/icons/sprite.svg#flash" />-->
+<!--                    </svg>-->
+<!--                    --><!--                </a>-->
+                <a href="/cryptocurrency">
+                    Cryptocurrency                </a>
+                <a href="/exchanges">
+                    Exchanges                </a>
+                <a href="/ico-rating">
+                    Projects                </a>
+                <a href="/indexes">
+                    Indexes                </a>
+                <a href="/news/all">
+                    News                </a>
+                <a href="/tool/calculator">
+                    Tools                </a>
+                <a href="/listing">
+                    For projects                </a>
+                <a href="/analytics/main/index">
+                    Analytics                </a>
+                <!-- <a href="/videos">
+                    Videos                </a> -->
+                <a href="/crypto-events" class="">
+                    Events                </a>
+                            </nav>
+            <div class="hamburger-button">
+                <span></span>
+            </div>
+        </div>
+    </section>
+    <div class="change-button-module language-module" data-type="language">
+        <div class="content">
+            <div class="blocks">
+                                    <a href="/en/ico-rating/firstblood/white-paper" class="lng-select active"
+                       data-method="post">
+                        <div class="flag">
+                            <img src="/images/flags/us.png" alt="">
+                        </div>
+                        <div class="name">English</div>
+                    </a>
+                                    <a href="/ru/ico-rating/firstblood/white-paper" class="lng-select "
+                       data-method="post">
+                        <div class="flag">
+                            <img src="/images/flags/ru.png" alt="">
+                        </div>
+                        <div class="name">Русский</div>
+                    </a>
+                                    <a href="/zh/ico-rating/firstblood/white-paper" class="lng-select "
+                       data-method="post">
+                        <div class="flag">
+                            <img src="/images/flags/cn.png" alt="">
+                        </div>
+                        <div class="name">中文</div>
+                    </a>
+                                    <a href="/ja/ico-rating/firstblood/white-paper" class="lng-select "
+                       data-method="post">
+                        <div class="flag">
+                            <img src="/images/flags/jp.png" alt="">
+                        </div>
+                        <div class="name">日本語</div>
+                    </a>
+                                    <a href="/de/ico-rating/firstblood/white-paper" class="lng-select "
+                       data-method="post">
+                        <div class="flag">
+                            <img src="/images/flags/de.png" alt="">
+                        </div>
+                        <div class="name">Deutsch</div>
+                    </a>
+                                    <a href="/tr/ico-rating/firstblood/white-paper" class="lng-select "
+                       data-method="post">
+                        <div class="flag">
+                            <img src="/images/flags/tr.png" alt="">
+                        </div>
+                        <div class="name">Türk</div>
+                    </a>
+                                    <a href="/ko/ico-rating/firstblood/white-paper" class="lng-select "
+                       data-method="post">
+                        <div class="flag">
+                            <img src="/images/flags/kr.png" alt="">
+                        </div>
+                        <div class="name">한국어</div>
+                    </a>
+                                    <a href="/ar/ico-rating/firstblood/white-paper" class="lng-select "
+                       data-method="post">
+                        <div class="flag">
+                            <img src="/images/flags/sa.png" alt="">
+                        </div>
+                        <div class="name">العربية</div>
+                    </a>
+                                    <a href="/es/ico-rating/firstblood/white-paper" class="lng-select "
+                       data-method="post">
+                        <div class="flag">
+                            <img src="/images/flags/es.png" alt="">
+                        </div>
+                        <div class="name">Español</div>
+                    </a>
+                                    <a href="/it/ico-rating/firstblood/white-paper" class="lng-select "
+                       data-method="post">
+                        <div class="flag">
+                            <img src="/images/flags/it.png" alt="">
+                        </div>
+                        <div class="name">Italiano</div>
+                    </a>
+                                    <a href="/pt/ico-rating/firstblood/white-paper" class="lng-select "
+                       data-method="post">
+                        <div class="flag">
+                            <img src="/images/flags/pt.png" alt="">
+                        </div>
+                        <div class="name">Português</div>
+                    </a>
+                                    <a href="/hi/ico-rating/firstblood/white-paper" class="lng-select "
+                       data-method="post">
+                        <div class="flag">
+                            <img src="/images/flags/in.png" alt="">
+                        </div>
+                        <div class="name">हिन्दी</div>
+                    </a>
+                            </div>
+        </div>
+    </div>
+    <div class="change-button-module currency" data-type="currency">
+        <div class="content">
+            <div class="currency-change-module">
+                <div class="wrapper">
+                    <div class="wrapper-name">Popular</div>
+                    <div class="wrapper-body">
+                                                    <div class="selector js-currency-link"
+                                 data-code="USD"
+                                 data-symbol="$"
+                                 data-price="1">
+                                    <span>
+                                        USD                                    </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="EUR"
+                                 data-symbol="€"
+                                 data-price="0.84645288990553">
+                                    <span>
+                                        EUR                                    </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="CNY"
+                                 data-symbol="¥"
+                                 data-price="6.3758028915486">
+                                    <span>
+                                        CNY                                    </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="JPY"
+                                 data-symbol="¥"
+                                 data-price="110.94994398969">
+                                    <span>
+                                        JPY                                    </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="KRW"
+                                 data-symbol="₩"
+                                 data-price="1079.3844054859">
+                                    <span>
+                                        KRW                                    </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="RUB"
+                                 data-symbol="₽"
+                                 data-price="65.774198492061">
+                                    <span>
+                                        RUB                                    </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="BTC"
+                                 data-symbol="₿"
+                                 data-price="8.8092614454799E-5">
+                                    <span>
+                                        BTC                                    </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="ETH"
+                                 data-symbol="Ξ"
+                                 data-price="0.0032050529114109">
+                                    <span>
+                                        ETH                                    </span>
+                            </div>
+                                            </div>
+                </div>
+                <div class="wrapper">
+                    <div class="wrapper-name">Other</div>
+                    <div class="wrapper-body">
+                                                    <div class="selector js-currency-link"
+                                 data-code="AMD"
+                                 data-symbol="֏"
+                                 data-price="482.9993408991">
+                                <span>
+                                    AMD                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="AUD"
+                                 data-symbol="A$"
+                                 data-price="1.3317365717728">
+                                <span>
+                                    AUD                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="AZN"
+                                 data-symbol="₼"
+                                 data-price="1.7015021341004">
+                                <span>
+                                    AZN                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="BGN"
+                                 data-symbol="лв"
+                                 data-price="1.6569996594027">
+                                <span>
+                                    BGN                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="BRL"
+                                 data-symbol="R$"
+                                 data-price="3.6965016657555">
+                                <span>
+                                    BRL                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="BYN"
+                                 data-symbol="Br"
+                                 data-price="1.9959978243632">
+                                <span>
+                                    BYN                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="CAD"
+                                 data-symbol="C$"
+                                 data-price="1.3282012031989">
+                                <span>
+                                    CAD                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="CHF"
+                                 data-symbol="Fr."
+                                 data-price="1">
+                                <span>
+                                    CHF                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="CZK"
+                                 data-symbol="Kč"
+                                 data-price="21.650506955605">
+                                <span>
+                                    CZK                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="DKK"
+                                 data-symbol="kr."
+                                 data-price="6.3082977751042">
+                                <span>
+                                    DKK                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="GBP"
+                                 data-symbol="£"
+                                 data-price="0.7407954796552">
+                                <span>
+                                    GBP                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="HKD"
+                                 data-symbol="HK$"
+                                 data-price="7.849897956429">
+                                <span>
+                                    HKD                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="HUF"
+                                 data-symbol="F"
+                                 data-price="268.98061002166">
+                                <span>
+                                    HUF                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="INR"
+                                 data-symbol="₹"
+                                 data-price="68.010013603975">
+                                <span>
+                                    INR                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="KGS"
+                                 data-symbol="с"
+                                 data-price="68.500188375518">
+                                <span>
+                                    KGS                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="KZT"
+                                 data-symbol="₸"
+                                 data-price="328.76583344473">
+                                <span>
+                                    KZT                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="MDL"
+                                 data-symbol="L"
+                                 data-price="17.012709834848">
+                                <span>
+                                    MDL                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="NOK"
+                                 data-symbol="kr"
+                                 data-price="8.1234047273028">
+                                <span>
+                                    NOK                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="PLN"
+                                 data-symbol="zł"
+                                 data-price="3.6376920937375">
+                                <span>
+                                    PLN                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="RON"
+                                 data-symbol="L"
+                                 data-price="3.9274876701895">
+                                <span>
+                                    RON                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="SEK"
+                                 data-symbol="kr"
+                                 data-price="8.7394055518393">
+                                <span>
+                                    SEK                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="SGD"
+                                 data-symbol="S$"
+                                 data-price="1.3431986483311">
+                                <span>
+                                    SGD                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="TJS"
+                                 data-symbol="сом."
+                                 data-price="8.9786975408687">
+                                <span>
+                                    TJS                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="TMT"
+                                 data-symbol="m"
+                                 data-price="3.4950006743202">
+                                <span>
+                                    TMT                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="TRY"
+                                 data-symbol="₺"
+                                 data-price="4.4700975655162">
+                                <span>
+                                    TRY                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="UAH"
+                                 data-symbol="₴"
+                                 data-price="26.144955034965">
+                                <span>
+                                    UAH                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="UZS"
+                                 data-symbol="сўм"
+                                 data-price="8025.7981254946">
+                                <span>
+                                    UZS                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="XDR"
+                                 data-symbol="XDR"
+                                 data-price="0.70317036605247">
+                                <span>
+                                    XDR                                </span>
+                            </div>
+                                                    <div class="selector js-currency-link"
+                                 data-code="ZAR"
+                                 data-symbol="R"
+                                 data-price="14.001838942719">
+                                <span>
+                                    ZAR                                </span>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="mobile-nav">
+    <div class="top">
+        <nav>
+            <a href="/ico-rating" class="">
+                Ratings            </a>
+            <a href="/analytics/main/index">
+                Analytics            </a>
+            <a href="/listing">For ICO</a>
+            <a href="/crypto-events" class="">
+                Crypto Events            </a>
+            <a href="/application/main/faq">
+                FAQ            </a>
+            <a href="/application/main/about">
+                About Us            </a>
+            <a href="/news">
+                News            </a>
+        </nav>
+    </div>
+</div>
+
+    <main>
+        <section class="project-page">
+    <section class="view-head">
+    <div class="view-head__nx-breadcrumbs">
+    <div class="content">
+        <ul>
+            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                <a href="/" itemprop="url">
+                    <span itemprop="title">
+                        Neironix
+                    </span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                <a href="/ico-rating" itemprop="url">
+                    <span itemprop="title">
+                        ICO Rating                    </span>
+                </a>
+            </li>
+                            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <a href="/ico-rating/firstblood" itemprop="url">
+                        <span itemprop="title">
+                            FirstBlood                        </span>
+                    </a>
+                </li>
+                <li>
+                    <span itemprop="title">
+                        White paper                    </span>
+                </li>
+                    </ul>
+    </div>
+</div>
+    <div class="view-head__general">
+        <div class="content" data-title="ICO PROJECT">
+            <div class="view-head__view-img">
+                <img src="/assets/thumbnails/8c/8cf541867eec9a9f3cc1c0cba7f51de8.jpg" alt="FirstBlood">            </div>
+            <div class="view-head__common">
+                <div class="view-head__cmn-info">
+                    <div class="view-head__cmn-info-top">
+                        <div class="view-head__title-wrapper">
+                                                            <div class="view-head__title">FirstBlood</div>
+                                                        <div class="view-head__cats">
+                                <div class="view-head__cat">ICO</div>
+                            </div>
+                            <span style="color:red; display: inline"></span>
+                        </div>
+                        <div class="view-head__desc">
+                            Put your money where your mouse is                        </div>
+                        <div class="view-head__info-lines">
+                            <div class="view-head__info-lines-item">
+                                <span class="view-head__info-lines-item-name">
+                                    Category:
+                                </span>
+                                <span>Platform, Cryptocurrency</span>
+                            </div>
+                            <div class="view-head__info-lines-item">
+                                <span class="view-head__info-lines-item-name">Founded:</span>
+                                <span>Sep 24, 2016</span>
+                            </div>
+                            <div class="view-head__info-lines-item">
+                                <span class="view-head__info-lines-item-name">
+                                    Country:
+                                </span>
+                                <span>
+                                    United States                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="view-head__social">
+                                                    <a href="https://twitter.com/firstbloodio" class="view-head__social-link view-head__social-link_tw" target="_blank" rel="nofollow">
+                                <svg>
+                                    <linearGradient id="linear-gradient">
+                                        <stop offset="0%" stop-color="#3aaa8e"/>
+                                        <stop offset="100%" stop-color="#01909d"/>
+                                    </linearGradient>
+                                    <use xlink:href="/images/icons/sprite.svg#tw" x="" y=""/>
+                                </svg>
+                            </a>
+                                                    <a href="https://www.facebook.com/firstbloodio" class="view-head__social-link view-head__social-link_fb" target="_blank" rel="nofollow">
+                                <svg>
+                                    <linearGradient id="linear-gradient">
+                                        <stop offset="0%" stop-color="#3aaa8e"/>
+                                        <stop offset="100%" stop-color="#01909d"/>
+                                    </linearGradient>
+                                    <use xlink:href="/images/icons/sprite.svg#fb" x="" y=""/>
+                                </svg>
+                            </a>
+                                                    <a href="https://firstbloodio.slack.com/" class="view-head__social-link view-head__social-link_sl" target="_blank" rel="nofollow">
+                                <svg>
+                                    <linearGradient id="linear-gradient">
+                                        <stop offset="0%" stop-color="#3aaa8e"/>
+                                        <stop offset="100%" stop-color="#01909d"/>
+                                    </linearGradient>
+                                    <use xlink:href="/images/icons/sprite.svg#sl" x="" y=""/>
+                                </svg>
+                            </a>
+                                                    <a href="https://github.com/firstbloodio" class="view-head__social-link view-head__social-link_git_user" target="_blank" rel="nofollow">
+                                <svg>
+                                    <linearGradient id="linear-gradient">
+                                        <stop offset="0%" stop-color="#3aaa8e"/>
+                                        <stop offset="100%" stop-color="#01909d"/>
+                                    </linearGradient>
+                                    <use xlink:href="/images/icons/sprite.svg#git_user" x="" y=""/>
+                                </svg>
+                            </a>
+                                            </div>
+                </div>
+                <div class="view-head__side">
+                    <div class="view-head__controls">
+                        <div class="view-head__buttons">
+                            <div class="watchlist-widget-button">
+        <div class="button js-need-watch-id grey popup" href="#nx-signin-modal"><svg>
+                <linearGradient id="linear-gradient">
+                    <stop offset="0%" stop-color="#6ca98d"/>
+                    <stop offset="100%" stop-color="#508e9b"/>
+                </linearGradient>
+                <use xlink:href="/images/icons/sprite.svg#star2" />
+            </svg></div></div>
+<div id="watchlist-limit-modal" class="zoom-anim-dialog mfp-hide">
+    <div class="logo">
+        <svg>
+            <linearGradient id="linear-gradient">
+                <stop offset="0%" stop-color="#3aaa8e"/>
+                <stop offset="100%" stop-color="#01909d"/>
+            </linearGradient>
+            <use xlink:href="/images/icons/sprite.svg#star2" />
+        </svg>
+        <div class="num">5</div>
+    </div>
+    <div class="text">
+        Sadly, you’ve exceeded the limit of adding to favorite.        <br>
+        The limit possible is 5    </div>
+    <a href="/account/user/tariff/index" class="button filled">
+        Increase the limit    </a>
+</div>
+                                                            <a href="https://firstblood.io?utm_source=neironix.io&utm_medium=project&utm_campaign=no_pay" class="button filled" target="_blank" rel="nofollow">
+                                    Go to website                                </a>
+                                                                                        <a href="https://firstblood.io?utm_source=neironix.io&utm_medium=project&utm_campaign=no_pay" target="_blank" data-entityid="330" data-entitytype="project"  class="button filled away_link" rel="nofollow">MVP is ready</a>
+                                                    </div>
+                    </div>
+                    <div class="view-head__verifies">
+                                                <a href="/project/explore/add?text=FirstBlood" class="status">
+                            <div class="view-head__status-name">It’s my project</div>
+                        </a>
+                                            </div>
+                    
+<div class="view-head__social-activity js-social-activity-module">
+            <div class="view-head__social-activity-item view-head__social-activity-item_like popup " href="#nx-signin-modal"            data-type="5"
+            data-id="330">
+            <svg>
+                <use xlink:href="/images/icons/sprite.svg#like2"/>
+            </svg>
+            <div class="view-head__social-activity-num js-num">
+                0            </div>
+        </div>
+        <div class="view-head__social-activity-item view-head__social-activity-item_dislike popup " href="#nx-signin-modal"             data-type="5"
+             data-id="330">
+            <svg>
+                <use xlink:href="/images/icons/sprite.svg#like2"/>
+            </svg>
+            <div class="view-head__social-activity-num js-num">
+                0            </div>
+        </div>
+                <a class="view-head__social-activity-item view-head__social-activity-item_comment" href="#comments">
+            <svg>
+                <use xlink:href="/images/icons/sprite.svg#chat2"/>
+            </svg>
+            <div class="view-head__social-activity-num">
+                0            </div>
+        </a>
+                <a class="view-head__social-activity-item view-head__social-activity-item_writing js-review" href="/ico-rating/firstblood/reviews">
+            <svg>
+                <use xlink:href="/images/icons/sprite.svg#writing"/>
+            </svg>
+            <div class="view-head__social-activity-num">
+                0            </div>
+        </a>
+    </div>                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--<script type="application/ld+json">-->
+<!--    --><!--</script>-->
+    <section class="project-page-general">
+        <div class="content">
+            <aside class="project-aside">
+                <nav>
+    <div class="nav-inner">
+        <div class="nav-ttl">
+            <span>Project info</span>
+        </div>
+        <div class="links">
+            <ul>
+                <li>
+                    <a href="/ico-rating/firstblood" class="">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#rocket"></use>
+                            </svg>
+                            ICO Details                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+                <li>
+                    <a href="/ico-rating/firstblood/team"  class="">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#user"></use>
+                            </svg>
+                            Team                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+                <li>
+                    <a href="/ico-rating/firstblood/white-paper" class="active">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#document"></use>
+                            </svg>
+                            White paper                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+                <li>
+                    <a href="/ico-rating/firstblood/road-map" class="">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#map"></use>
+                            </svg>
+                            Road map                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+                <li>
+                    <a href="/ico-rating/firstblood/contacts" class=" disabled">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#internet"></use>
+                            </svg>
+                            Contacts & community                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+                <li>
+                    <a href="/ico-rating/firstblood/one-page" class="">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#ebook"></use>
+                            </svg>
+                            One pager                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+                <li>
+                    <a href="/ico-rating/firstblood/rating" class="">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#loss"></use>
+                            </svg>
+                            Other rating                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+<!--                --><!--                    <li>-->
+<!--                        <a href="--><!--" class="--><!--">-->
+<!--                            <div class="info">-->
+<!--                                <svg class="icon">-->
+<!--                                    <linearGradient id="linear-gradient">-->
+<!--                                        <stop offset="0%" stop-color="#6ca98d"></stop>-->
+<!--                                        <stop offset="100%" stop-color="#508e9b"></stop>-->
+<!--                                    </linearGradient>-->
+<!--                                    <use xlink:href="/images/icons/sprite.svg#alerts"></use>-->
+<!--                                </svg>-->
+<!--                                --><!--                            </div>-->
+<!--                            <svg class="arrow">-->
+<!--                                <use xlink:href="/images/icons/sprite.svg#arrow2"></use>-->
+<!--                            </svg>-->
+<!--                        </a>-->
+<!--                    </li>-->
+<!--                -->                <li>
+                    <a href="/ico-rating/firstblood/social-media?graph=web" class=" ">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#analytics2"></use>
+                            </svg>
+                            Analytics                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+                                    <li>
+                        <a href="/cryptocurrency/firstblood/exchanges">
+                            <div class="info">
+                                <svg class="icon">
+                                    <linearGradient id="linear-gradient">
+                                        <stop offset="0%" stop-color="#6ca98d"></stop>
+                                        <stop offset="100%" stop-color="#508e9b"></stop>
+                                    </linearGradient>
+                                    <use xlink:href="/images/icons/sprite.svg#presentation"></use>
+                                </svg>
+                                Exchanges                            </div>
+                            <svg class="arrow">
+                                <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                            </svg>
+                        </a>
+                    </li>
+                                <li>
+                    <a href="/ico-rating/firstblood/reviews" class="">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#presentation"></use>
+                            </svg>
+                            Reviews                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="nav-inner">
+        <div class="nav-ttl">
+            <span>Token sale</span>
+        </div>
+        <div class="links">
+            <ul>
+                                <li>
+                    <a href="/ico-rating/firstblood/ico?id=204" class="">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#home"></use>
+                            </svg>
+                            Main                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+                            </ul>
+        </div>
+    </div>
+    <div class="nav-inner">
+        <div class="nav-ttl">
+            <span>Risk info</span>
+        </div>
+        <div class="links">
+            <ul>
+                <li>
+                    <a class="disabled">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#list2"></use>
+                            </svg>
+                            General report                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+                <li>
+                    <a class="disabled">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#alerts"></use>
+                            </svg>
+                            Facts                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+                <li>
+                    <a class="disabled">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#balance"></use>
+                            </svg>
+                            Legal & geopolitical                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+                <li>
+                    <a class="disabled">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#search"></use>
+                            </svg>
+                            Financial                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+                <li>
+                    <a class="disabled">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#internet"></use>
+                            </svg>
+                            Geopolitical                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+                <li>
+                    <a class="disabled">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#spam"></use>
+                            </svg>
+                            Scam                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+                <li>
+                    <a class="disabled">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#loss"></use>
+                            </svg>
+                            Project                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+                <li>
+                    <a class="disabled">
+                        <div class="info">
+                            <svg class="icon">
+                                <linearGradient id="linear-gradient">
+                                    <stop offset="0%" stop-color="#6ca98d"></stop>
+                                    <stop offset="100%" stop-color="#508e9b"></stop>
+                                </linearGradient>
+                                <use xlink:href="/images/icons/sprite.svg#analytics2"></use>
+                            </svg>
+                            Commercial                        </div>
+                        <svg class="arrow">
+                            <use xlink:href="/images/icons/sprite.svg#arrow2"></use>
+                        </svg>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+   <div>
+                  <br>
+           <a class="twitter-timeline" data-width="500" data-height="289" data-link-color="#2B7BB9"
+              href="https://twitter.com/firstbloodio?ref_src=twsrc%5Etfw">Tweets by binance</a>
+           <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Ѕаннер в ICO страничках -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:600px"
+             data-ad-client="ca-pub-9311042505897397"
+             data-ad-slot="1968950428"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+          </div>
+</nav>
+            </aside>
+            <article>
+                <div class="main-info-section">
+                    <div class="white-paper-page">
+                        <div class="white-box">
+                            <div class="body">
+                                <div class="text-module">
+                                    <h1 class="title">White Paper - FirstBlood</h1>
+                                                                            <div class="desc">White paper is a document that tells how the technology of the block-project will work. This file usually contains a detailed description of the architecture, as well as how the users interact with the system, information about the current market situation and growth forecasts, the conditions for the release and use of tokens, and a list of team members, investors and project consultants.</div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <div class="blocks">
+                                                                                            <div class="block">
+                                  <div class="info">
+                                    <svg>
+                                      <use xlink:href="/images/icons/sprite.svg#ic17" x="" y=""/>
+                                    </svg>
+                                    <div class="text">
+                                      <div class="name">first-blood.pdf</div>
+                                      <div class="country">
+                                        <div class="flag">
+                                          <img src="/images/flags/us.png" alt="">
+                                        </div>
+                                        English                                      </div>
+<!--                                      <div class="plagiat">-->
+<!--                                        <span>2%</span> plagiat rating-->
+<!--                                      </div>-->
+                                    </div>
+                                  </div>
+
+                                  <div class="controls">
+<!--                                    <div class="button grey">-->
+<!--                                      <svg>-->
+<!--                                        <use xlink:href="/images/icons/sprite.svg#ic18" x="" y=""/>-->
+<!--                                      </svg>-->
+<!--                                      Load-->
+<!--                                    </div>-->
+                                    <a target="_blank" class="away_link" data-entityid="330" data-entitytype="project" href="/documents/whitepaper/93475296ddd1a32d85d7ee2e118fa8d0.pdf"><div class="button filled ">Download file</div></a>
+                                  </div>
+                                </div>
+                                                                                    </div>
+                    </div>
+                  <div class="white-box">
+                    <div class="body">
+                        <div class="box-name">Comments                        </div>
+                        
+<div class="nx-comment-module comment-form-container comments-module" id="comments">
+
+        <div class="comment-not-available">
+        <div class="icon">
+            <svg>
+                <use xlink:href="/images/icons/sprite.svg#enter" x="" y=""/>
+            </svg>
+        </div>
+        <div class="name">Please, login to write a comment.</div>
+        <div class="button filled shadowed popup" href="#nx-signin-modal">Sign in</div>
+    </div>
+    <!--    <div class="sortable-module">
+            <span>:</span>
+            <div class="sorts">
+                <div class="sort active"></div>
+                <div class="sort"></div>
+            </div>
+        </div> -->
+  <div class="comments-wrapper">
+        </div>
+    </div>
+                    </div>
+                  </div>
+                        <div class="white-box">
+        <div class="body">
+            <div class="similar-projects">
+                <h2 class="box-name">Recommended projects</h2>
+                <div class="blocks">
+                                            <a href="/ico-rating/agrolifecoin"
+                           class="block">
+                            <div class="img">
+                                <img src="/assets/thumbnails/d8/d8cab98f65942077acd964d7b3572109.png" alt="Agrolifecoin">                            </div>
+                            <div class="common">
+                                <div class="name">Agrolifecoin</div>
+                                <div class="cat">Infrastructure</div>
+                                <div class="desc">Social network for agriculture, forestry and fishing</div>
+                            </div>
+                        </a>
+                                    </div>
+            </div>
+        </div>
+    </div>
+                </div>
+            </article>
+        </div>
+    </section>
+</section>    </main>
+    <div class="ticker-module-wrapper">
+    <div class="ticker-module">
+        <div class="content">
+            <div class="wrapper">
+                <div class="fixed-items">
+                    <div class="item">
+                        <div class="title">Bitcoin</div>
+                        <div class="desc">
+                            <div class="progress up">
+                                <div class="status"></div>
+                                <div class="percent">(3.66%)</div>
+                            </div>
+                            <div class="price" data-price-usd="11351.6894258270"></div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="title">Ethereum</div>
+                        <div class="desc">
+                            <div class="progress up">
+                                <div class="status"></div>
+                                <div class="percent">(0.50%)</div>
+                            </div>
+                            <div class="price" data-price-usd="312.0073295638"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ticker-line">
+                                                                                                                                                                <div class="item">
+                                <div class="title">Ripple</div>
+                                <div class="desc">
+                                    <div class="progress up">
+                                        <div class="status"></div>
+                                        <div class="percent">(0.21%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="0.4663988409"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">Bitcoin Cash</div>
+                                <div class="desc">
+                                    <div class="progress up">
+                                        <div class="status"></div>
+                                        <div class="percent">(0.06%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="472.8691105418"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">Litecoin</div>
+                                <div class="desc">
+                                    <div class="progress down">
+                                        <div class="status"></div>
+                                        <div class="percent">(-1.88%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="133.6329527097"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">EOS</div>
+                                <div class="desc">
+                                    <div class="progress down">
+                                        <div class="status"></div>
+                                        <div class="percent">(-1.53%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="7.0902285257"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">Binance Coin</div>
+                                <div class="desc">
+                                    <div class="progress down">
+                                        <div class="status"></div>
+                                        <div class="percent">(-2.24%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="36.6168867066"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">Bitcoin SV</div>
+                                <div class="desc">
+                                    <div class="progress up">
+                                        <div class="status"></div>
+                                        <div class="percent">(0.99%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="240.2516316123"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">Tronix</div>
+                                <div class="desc">
+                                    <div class="progress down">
+                                        <div class="status"></div>
+                                        <div class="percent">(-0.99%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="0.0386535512"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">Cardano</div>
+                                <div class="desc">
+                                    <div class="progress down">
+                                        <div class="status"></div>
+                                        <div class="percent">(-2.71%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="0.0959707014"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">Stellar</div>
+                                <div class="desc">
+                                    <div class="progress down">
+                                        <div class="status"></div>
+                                        <div class="percent">(-1.84%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="0.1254561220"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">Monero</div>
+                                <div class="desc">
+                                    <div class="progress down">
+                                        <div class="status"></div>
+                                        <div class="percent">(-0.94%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="115.0980853515"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">Tether</div>
+                                <div class="desc">
+                                    <div class="progress down">
+                                        <div class="status"></div>
+                                        <div class="percent">(-0.01%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="0.9999672087"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">Dash</div>
+                                <div class="desc">
+                                    <div class="progress down">
+                                        <div class="status"></div>
+                                        <div class="percent">(-0.30%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="176.7387307982"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">IOTA</div>
+                                <div class="desc">
+                                    <div class="progress down">
+                                        <div class="status"></div>
+                                        <div class="percent">(-2.67%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="0.4469014954"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">NEO</div>
+                                <div class="desc">
+                                    <div class="progress up">
+                                        <div class="status"></div>
+                                        <div class="percent">(0.31%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="18.0005594349"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">NASGO</div>
+                                <div class="desc">
+                                    <div class="progress down">
+                                        <div class="status"></div>
+                                        <div class="percent">(-0.03%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="0.8921520000"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">Ethereum Classic</div>
+                                <div class="desc">
+                                    <div class="progress down">
+                                        <div class="status"></div>
+                                        <div class="percent">(-0.78%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="9.1948233313"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">NEM</div>
+                                <div class="desc">
+                                    <div class="progress up">
+                                        <div class="status"></div>
+                                        <div class="percent">(9.18%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="0.0904188827"></div>
+                                </div>
+                            </div>
+                                                                                                <div class="item">
+                                <div class="title">ChainLink</div>
+                                <div class="desc">
+                                    <div class="progress up">
+                                        <div class="status"></div>
+                                        <div class="percent">(18.34%)</div>
+                                    </div>
+                                    <div class="price"  data-price-usd="2.2073393505"></div>
+                                </div>
+                            </div>
+                                                            </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<footer>
+    <section class="common-footer">
+        <div class="content">
+            <div class="navigation-module">
+                <div class="nav-column">
+                    <div class="title">NEIRONIX</div>
+                    <nav>
+                        <a href="/application/main/faq">
+                            FAQ                        </a>
+                        <a href="/application/main/about">
+                            About Us                        </a>
+<!--                        <a class="disabled">-->
+<!--                            --><!--                        </a>-->
+                        <a href="/files/methodology/en.pdf"  target="_blank">
+                            Rating systems                        </a>
+                        <a href="/files/whitepaper/en.pdf"  target="_blank">
+                            Whitepaper                        </a>
+                        <a href="https://tokensale.neironix.io" target="_blank" rel="nofollow">
+                            Neironix Token Sale                        </a>
+                        <a class="disabled">
+                            API                        </a>
+                        <a href="/application/main/media">
+                            Media                        </a>
+                        <a href="/user/auth/sign-in" class="signup">
+                            Register/Sign in                        </a>
+                    </nav>
+                </div>
+                <div class="nav-column">
+                    <div class="title">
+                        For ICO                    </div>
+                    <nav>
+                        <a href="/project/explore/add">
+                            Publish ICO                        </a>
+                      <a href="/listing/ico-agency/index">
+                            ICO Agencies                        </a>
+                      <a href="/listing/pr-agency/index">
+                          PR Agencies                      </a>
+                      <a href="/listing">
+                          Mass media                      </a>
+                      <a href="/listing/main/bloggers">
+                          Bloggers                      </a>
+                      <a href="/listing/main/telegram">
+                          Telegram                      </a>
+                        <a href="/advertising">
+                            Advertising                        </a>
+
+                    </nav>
+                </div>
+                <div class="nav-column">
+                    <div class="title">For investors</div>
+                    <nav>
+                        <a href="/news">
+                            News                        </a>
+                        <a href="/videos">
+                            Videos                        </a>
+
+                        <a href="/crypto-events">
+                            Events                        </a>
+                        <a class="disabled">
+                            My investment                        </a>
+                      <a href="/tool/calculator">
+                          Calculator                      </a>
+                      <a href="/tool/course/index">
+                          Exchange rates                      </a>
+                        <a href="/application/affiliate/index">
+                            Affiliate program                        </a>
+                        <a href="/analytics/main/index">
+                            Main analytics                        </a>
+                        <a href="/analytics/ico/index">
+                            ICO                        </a>
+                        <a href="/analytics/coin/index">
+                            Cryptocurrency analytics                        </a>
+                        <a href="/all-cryptocurrencies">
+                            All cryptocurrencies                        </a>
+                    </nav>
+                </div>
+                <div class="nav-column">
+                    <div class="title">
+                        Rating                    </div>
+                    <nav>
+                        <a href="/cryptocurrency">
+                            Cryptocurrency                        </a>
+                        <a href="/ico-rating">ICO</a>
+                        <a href="/exchanges">
+                            Exchanges                        </a>
+                        <a href="/indexes">
+                            Indexes                        </a>
+                        <a href="/people-of-blockchain">
+                            People of Blockchain                        </a>
+                        <a href="/portfolios">
+                            Portfolios                        </a>
+                        <a href="/exchangers">
+                            Exchangers                        </a>
+                        <a href="/funds">
+                            Funds                        </a>
+                        <a href="/bounty/main/index">
+                            Bounty programs                        </a>
+                        <a class="disabled">
+                            Investor & Expert                        </a>
+                    </nav>
+                </div>
+            </div>
+            <div class="info-module">
+                <div class="form-block">
+                    <div class="title">
+                        Subscribe to Neironix News, rating updates and other new features.                    </div>
+                    <form class="js-subscribe-form" action="/application/main/subscribe-news">
+                        <div class="form-group">
+                            <input type="email" required placeholder="Your Email" name="email">
+                        </div>
+                        <button>
+                            Send                        </button>
+                    </form>
+                </div>
+                <div class="sub-n-soc">
+                    <div class="social">
+                        <a href="https://twitter.com/neironix_io" class="soc" rel="nofollow" target="_blank">
+                            <svg>
+                                <use xlink:href="/images/icons/sprite.svg#tw"/>
+                            </svg>
+                        </a>
+                        <a href="tg://resolve?domain=neironix_io" class="soc" rel="nofollow">
+                            <svg>
+                                <use xlink:href="/images/icons/sprite.svg#tg"/>
+                            </svg>
+                        </a>
+                        <a href="https://www.facebook.com/neironix/?ref=bookmarks" class="soc" rel="nofollow" target="_blank">
+                            <svg>
+                                <use xlink:href="/images/icons/sprite.svg#fb"/>
+                            </svg>
+                        </a>
+                        <a href="https://bitcointalk.org/index.php?topic=2180350.0" class="soc" rel="nofollow" target="_blank">
+                            <svg>
+                                <use xlink:href="/images/icons/sprite.svg#bt"/>
+                            </svg>
+                        </a>
+                        <a href="https://steemit.com/@neironixio" class="soc" rel="nofollow" target="_blank">
+                            <svg>
+                                <use xlink:href="/images/icons/sprite.svg#steemit"/>
+                            </svg>
+                        </a>
+                         <a href="//feeds.feedburner.com/neironix-en" class="soc" rel="nofollow" target="_blank">
+                            <svg>
+                                <use xlink:href="/images/icons/sprite.svg#rss"/>
+                            </svg>
+                        </a>
+                    </div>
+                    <!-- <div class="notification-button">
+                        <svg>
+                            <use xlink:href="/images/icons/sprite.svg#bell"/>
+                        </svg>
+                        <div class="text">
+                            Включите уведомления
+                        </div>
+                    </div> -->
+                </div>
+                <div class="site-statistic">
+                    <div class="site-stat">
+                        Users: <strong>44 260</strong>
+                    </div>
+                    <div class="site-stat">
+                        Projects: <strong>5 221</strong>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="under-footer">
+        <div class="content">
+            <div class="info">
+                <div class="logo">
+                    <svg>
+                        <use xlink:href="/images/icons/sprite.svg#logo2"/>
+                    </svg>
+                </div>
+                <div class="text">
+                    Do you have any questions? Please contact us by email: <a href="#support-modal" class="popup">support@neironix.io</a> <br>
+                    The website is owned by Neironix © 2019 Neironix. All rights reserved <br>
+                    <a href="/files/documents/Neironix.KYC_AML_Policy.pdf" target="_blank">AML/KYC Policy</a>
+
+                    <a href="/RISK_DISCLOSURE.pdf" target="_blank">Risk Diclosure</a>
+                    <a href="/files/documents/Neironix.GDPR_Privacy_Policy.pdf" target="_blank">Privacy policy</a>
+                </div>
+            </div>
+            <div class="wallets">
+                <div class="wallet">
+                    <span>Donate ETH:</span>
+                    <a href="https://etherscan.io/address/0x59b5daefeb9126f1f08827778e6cd41cbbf61c71" target="_blank" rel="nofollow">0x59b5DAefeb9126f1F08827778e6CD41cBbf61c71</a>
+                </div>
+                <div class="wallet">
+                    <span>Donate BTC:</span>
+                    <a href="https://www.blockchain.com/btc/address/382MMa5Cdanb8GrouJEkLnGML3XVmcnSCq" target="_blank" rel="nofollow">382MMa5Cdanb8GrouJEkLnGML3XVmcnSCq</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+<a href="https://neironix.userecho.com/" target="_blank" rel="nofollow" class="user-echo-widget">
+    <div class="wrapper">
+        <svg>
+            <use xlink:href="/images/icons/sprite.svg#info" x="" y=""/>
+        </svg>
+        <div class="name">Support Center</div>
+    </div>
+</a>
+
+    </div>
+
+<!-- <a href="https://tokensale.neironix.io/?utm_source=neironix.io&utm_campaing=tokensale&utm_type=rocket-modal" target="_blank" class="rocket-modal">
+    <div class="rocket">
+        <img src="/images/rocket.png" alt="">
+    </div>
+    <div class="cmn">
+        <div class="name">TOKEN SALE</div>
+        <div class="cmn-btm">
+            <div class="desc">STARTING</div>
+            <div class="button">INVEST NOW</div>
+        </div>
+    </div>
+</a> -->
+
+<div id="mobile-app-modal" class="mobile-app-modal zoom-anim-dialog mfp-hide">
+    <div class="text">Tracking of cryptocurrency markets has become even more convenient with our application.</div>
+    <div class="app">
+        <div class="icon">
+            <img src="/images/icon.png" alt="">
+        </div>
+        <a href="" target="_blank" class="app-txt mobile-app-link">
+            <div class="app-name">Neironix Mobile App</div>
+            <div class="app-desc">Download for FREE</div>
+        </a>
+    </div>
+    <div class="bottom">
+        <a href="" target="_blank" class="button rounded mobile-app-link">Download App</a>
+    </div>
+</div>
+
+<div class="cookie-module">
+    <div class="text">
+        This site uses cookies. Browsing the site, you agree to the use of cookies. If you need more information, please visit the        <a href="/cookies_policy.pdf" target="_blank">
+            Cookies Policy page        </a>
+    </div>
+    <div class="close">
+        <svg>
+            <use xlink:href="/images/icons/sprite.svg#close2" />
+        </svg>
+    </div>
+</div>
+
+
+<div id="nx-signup-modal" class="nx-auth-modal zoom-anim-dialog mfp-hide">
+    <div class="common">
+        <div class="title">Create account</div>
+        <div class="desc"></div>
+        <form id="w0" class="js-sign-up-form" action="/user/auth/sign-up" method="post">
+<input type="hidden" name="_csrf-frontend" value="mheXRA_Ur4wR1UA94uH5otfKeWHLt7V5OhmtvkxkxfvyVNwxZLb5x3uTCmyQhqDvs4k4Jv7SgigOfMTQAAmgiw==">            <div class="form-group field-signupform-email required">
+<label class="control-label" for="signupform-email">Email</label>
+<input type="text" id="signupform-email" class="form-control" name="SignupForm[email]" aria-required="true">
+
+<div class="help-block"></div>
+</div>            <div class="form-group field-signupform-password required">
+<label class="control-label" for="signupform-password">Password</label>
+<input type="password" id="signupform-password" class="form-control" name="SignupForm[password]" aria-required="true">
+
+<div class="help-block"></div>
+</div>        <div class="g-recaptcha" data-sitekey="6LfP8m4UAAAAAINqRSUK7Fu08R8kj3kxCDEqKVAe"></div>
+            <button class="button filled" type="submit">Create account</button>
+            <div class="dop-desc">Have account? <a class="popup" href="#nx-signin-modal">Sign in</a></div>
+        </form>    </div>
+    <div class="bottom">
+        <div class="social-buttons">
+            <div class="text">Or sign in with</div>
+            <div id="w1">            <div class="buttons">
+                                    <a href="/en/user/auth/oauth?authclient=google" class="button">
+                        <div class="icon">
+                            <img src="/images/icons/google.svg" alt="">
+                        </div>
+                        Google                    </a>
+                                    <a href="/en/user/auth/oauth?authclient=facebook" class="button">
+                        <div class="icon">
+                            <img src="/images/icons/facebook.svg" alt="">
+                        </div>
+                        Facebook                    </a>
+                            </div>
+            </div>        </div>
+    </div>
+</div>
+
+<div id="nx-signin-modal" class="nx-auth-modal zoom-anim-dialog mfp-hide">
+    <div class="common">
+        <div class="title">Sign in</div>
+        <div class="desc"></div>
+        <form id="w2" class="js-sign-in-form" action="/user/auth/sign-in" method="post">
+<input type="hidden" name="_csrf-frontend" value="mheXRA_Ur4wR1UA94uH5otfKeWHLt7V5OhmtvkxkxfvyVNwxZLb5x3uTCmyQhqDvs4k4Jv7SgigOfMTQAAmgiw==">            <div class="form-group field-loginform-email required">
+<label class="control-label" for="loginform-email">Email</label>
+<input type="text" id="loginform-email" class="form-control" name="LoginForm[email]" aria-required="true">
+
+<div class="help-block"></div>
+</div>            <div class="form-group field-loginform-password required">
+<label class="control-label" for="loginform-password">Password<a href="/user/auth/request-password-reset" target="_blank" tabindex="-1">Forgot password</a></label>
+<input type="password" id="loginform-password" class="form-control" name="LoginForm[password]" aria-required="true">
+
+<div class="help-block"></div>
+</div>            <div class="form-group">
+                <div class="checkboxes">
+                    <label class="checkbox">
+                        <input type="hidden" name="LoginForm[rememberMe]" value="0">
+                        <input type="checkbox" name="LoginForm[rememberMe]" value="1">
+                        <i>
+                            <svg>
+                                <use xlink:href="/images/icons/sprite.svg#ic4" x="" y=""/>
+                            </svg>
+                        </i>
+                        Remember me                    </label>
+                </div>
+            </div>
+            <button class="button filled" type="submit">Sign in</button>
+            <div class="dop-desc">Not a member? <a class="popup" href="#nx-signup-modal">Create account</a></div>
+        </form>    </div>
+    <div class="bottom">
+        <div class="social-buttons">
+            <div class="text">Or sign in with</div>
+            <div id="w3">            <div class="buttons">
+                                    <a href="/en/user/auth/oauth?authclient=google" class="button">
+                        <div class="icon">
+                            <img src="/images/icons/google.svg" alt="">
+                        </div>
+                        Google                    </a>
+                                    <a href="/en/user/auth/oauth?authclient=facebook" class="button">
+                        <div class="icon">
+                            <img src="/images/icons/facebook.svg" alt="">
+                        </div>
+                        Facebook                    </a>
+                            </div>
+            </div>        </div>
+    </div>
+</div>
+<div id="support-modal" class="zoom-anim-dialog mfp-hide">
+    <div class="section-title">Contact technical support</div>
+    <div class="section-desc">
+        If you have any problems with the system, please describe the problem in the form below, or send your question to: <b>support@neironix.io</b>
+    </div>
+    <form id="w4" class="js-support-form" method="post" data-action="/application/support/send-form">
+<input type="hidden" name="_csrf-frontend" value="mheXRA_Ur4wR1UA94uH5otfKeWHLt7V5OhmtvkxkxfvyVNwxZLb5x3uTCmyQhqDvs4k4Jv7SgigOfMTQAAmgiw==">        <div class="groups">
+            <div class="form-group field-supportform-name">
+<input type="text" id="supportform-name" class="form-control" name="SupportForm[name]" placeholder="Name">
+</div>            <div class="form-group field-supportform-email required">
+<input type="text" id="supportform-email" class="form-control" name="SupportForm[email]" placeholder="E-mail" aria-required="true">
+</div>        </div>
+        <div class="form-group field-supportform-message">
+<textarea id="supportform-message" class="form-control" name="SupportForm[message]" placeholder="Your message"></textarea>
+</div>    <div class="g-recaptcha" data-sitekey="6LfP8m4UAAAAAINqRSUK7Fu08R8kj3kxCDEqKVAe"></div>
+        <div class="button-wrapper">
+            <button class="button bordered">
+                Send            </button>
+        </div>
+        <div class="js-info-message"></div>
+    </form></div>
+<script>
+    const apiBaseURL = 'https://api.neironix.io/';
+    const websocket_url = 'wss://neironix.io:4236';
+    const language = '';
+</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","name":"Neironix","url":"https:\/\/neironix.io\/","logo":"https:\/\/neironix.io\/images\/icons\/logo2.svg","sameAs":["https:\/\/www.linkedin.com\/company\/25171183","https:\/\/www.youtube.com\/channel\/UCF8NTifpGyCsfd5U65t0LkA","https:\/\/medium.com\/@neironix.io","https:\/\/t.me\/neironixio","https:\/\/vk.com\/neironixru","https:\/\/vk.com\/neironixen","https:\/\/twitter.com\/NeironixEn","https:\/\/twitter.com\/neironix_io","https:\/\/plus.google.com\/u\/0\/102627895332979806849","https:\/\/www.facebook.com\/neironix","https:\/\/www.facebook.com\/groups\/1698268650265684"]}</script>
+
+<script src="/assets/2787bb61/jquery.min.js?v=1524166902"></script>
+<script src="/assets/a5802290/yii.js?v=1524166902"></script>
+<script src="/assets/787717cb/jquery.magnific-popup.min.js?v=1524166902"></script>
+<script src="/assets/42968eb4/js/select2.min.js?v=1524166902"></script>
+<script src="/assets/42968eb4/js/i18n/ru.js?v=1524166902"></script>
+<script src="/assets/fc2008a0/js/tooltipster.bundle.min.js?v=1524166902"></script>
+<script src="/assets/bb6cf2b8/js/tooltipster-follower.min.js?v=1524166902"></script>
+<script src="/assets/45fb36ca/js.cookie.js?v=1524166902"></script>
+<script src="/js/plugins/currencyChange.js?v=1547465251"></script>
+<script src="/js/plugins/timezoneDate.js?v=1546018806"></script>
+<script src="/js/plugins/search.js?v=1540482916"></script>
+<script src="/js/main.js?v=1551274478"></script>
+<script src="/js/vote.js?v=1541684703"></script>
+<script src="/js/project/saveOutgoingMetrics.js?v=1539615915"></script>
+<script src="/js/widgets/watch_list.js?v=1546102470"></script>
+<script src="/js/widgets/social_activity.js?v=1542480506"></script>
+<script src="/js/widgets/comment.js?v=1544878688"></script>
+<script src="/js/notification.js?v=1545392562"></script>
+<script src="/js/ticker.js?v=1535453977"></script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script src="/assets/a5802290/yii.activeForm.js?v=1524166902"></script>
+<script>jQuery(function ($) {
+jQuery('#w0').yiiActiveForm([{"id":"signupform-email","name":"email","container":".field-signupform-email","input":"#signupform-email","enableAjaxValidation":true},{"id":"signupform-password","name":"password","container":".field-signupform-password","input":"#signupform-password","enableAjaxValidation":true}], []);
+jQuery('#w2').yiiActiveForm([{"id":"loginform-email","name":"email","container":".field-loginform-email","input":"#loginform-email","enableAjaxValidation":true},{"id":"loginform-password","name":"password","container":".field-loginform-password","input":"#loginform-password","enableAjaxValidation":true}], []);
+jQuery('#w4').yiiActiveForm([{"id":"supportform-name","name":"name","container":".field-supportform-name","input":"#supportform-name","enableAjaxValidation":true},{"id":"supportform-email","name":"email","container":".field-supportform-email","input":"#supportform-email","enableAjaxValidation":true},{"id":"supportform-message","name":"message","container":".field-supportform-message","input":"#supportform-message","enableAjaxValidation":true}], {"validationUrl":"\/application\/support\/validate"});
+});</script></body>
+</html>

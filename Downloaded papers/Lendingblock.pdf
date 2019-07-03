@@ -1,0 +1,1491 @@
+
+<!DOCTYPE HTML>
+<html lang="en" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Abstract · Lendingblock whitepaper</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        <meta name="author" content="Linda Wang">
+        
+        
+    
+    <link rel="stylesheet" href="gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-comment/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="styles/website.css">
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="./" />
+    
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+    
+        
+        <li>
+            <a href="https://www.gitbook.com/book/lindawang/lendingblock-whitepaper" target="_blank" class="custom-link">Lendingblock whitepaper</a>
+        </li>
+    
+    
+
+    
+    <li class="divider"></li>
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="./">
+            
+                <a href="./#abstract">
+            
+                    
+                    Abstract
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="./">
+            
+                <a href="./#mission">
+            
+                    
+                    1. Mission
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="./">
+            
+                <a href="./#background">
+            
+                    
+                    2. Background
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="./">
+            
+                <a href="./#growth-of-cryptoassets">
+            
+                    
+                    2.1. Growth of Cryptoassets
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.2" data-path="./">
+            
+                <a href="./#securities-lending">
+            
+                    
+                    2.2. Securities Lending
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.3" data-path="./">
+            
+                <a href="./#evolution-and-emergence-of-lending">
+            
+                    
+                    2.3. Emergence of Lending
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4" data-path="./">
+            
+                <a href="./#conventional-vs-cryptoasset-lending">
+            
+                    
+                    2.4. Conventional vs crypto asset lending
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="./">
+            
+                <a href="./#platform-definition">
+            
+                    
+                    3. Platform definition
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.1" data-path="./">
+            
+                <a href="./#end-users">
+            
+                    
+                    3.1. End users
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.2" data-path="./">
+            
+                <a href="./#process">
+            
+                    
+                    3.2. Process
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.3" data-path="./">
+            
+                <a href="./#collateralisation-approach">
+            
+                    
+                    3.3. Collateralisation approach
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.4" data-path="./">
+            
+                <a href="./#access">
+            
+                    
+                    3.4. Access
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="./">
+            
+                <a href="./#technical-architecture">
+            
+                    
+                    4. Technical Architecture
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.1" data-path="./">
+            
+                <a href="./#core-principles">
+            
+                    
+                    4.1. Core principles
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.2" data-path="./">
+            
+                <a href="./#zones">
+            
+                    
+                    4.2. Zones
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.3" data-path="./">
+            
+                <a href="./#functional-components">
+            
+                    
+                    4.3 Functional Components
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="./">
+            
+                <a href="./#operational">
+            
+                    
+                    5. Operational
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="./">
+            
+                <a href="./#financial">
+            
+                    
+                    6. Financial
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8" data-path="./">
+            
+                <a href="./#legal-regulatory-and-risk-considerations">
+            
+                    
+                    7. Regulatory and Risk considerations
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Token Sale</li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" data-path="./">
+            
+                <a href="./#token-sale">
+            
+                    
+                    8. Token Sale
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.1" data-path="./">
+            
+                <a href="./#token-description">
+            
+                    
+                    8.1. Token Description
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.2" data-path="./">
+            
+                <a href="./#token-sale-process">
+            
+                    
+                    8.2. Token Sale Process
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.3" data-path="./">
+            
+                <a href="./#kyc">
+            
+                    
+                    8.3. Onboarding, KYC and AML
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.4" data-path="./">
+            
+                <a href="./#use-of-funds">
+            
+                    
+                    8.4. Use of Funds
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5" data-path="./">
+            
+                <a href="./#legal-disclaimer">
+            
+                    
+                    8.5. Legal Disclaimer
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Team</li>
+        
+        
+    
+        <li class="chapter " data-level="3.1" data-path="./">
+            
+                <a href="./#team">
+            
+                    
+                    9. Team
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="3.1.1" data-path="./">
+            
+                <a href="./#founders">
+            
+                    
+                    9.1 Founders
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.1.2" data-path="./">
+            
+                <a href="./#core-team">
+            
+                    
+                    9.2. Core team
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.1.3" data-path="./">
+            
+                <a href="./#advisors">
+            
+                    
+                    9.3. Advisors
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.1.4" data-path="./">
+            
+                <a href="./#partners-and-vendors">
+            
+                    
+                    9.4. Partners and Vendors
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Appendix</li>
+        
+        
+    
+        <li class="chapter " data-level="4.1" data-path="footnotes.html">
+            
+                <a href="footnotes.html">
+            
+                    
+                    Footnotes
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.2" data-path="appendix.html">
+            
+                <a href="appendix.html">
+            
+                    
+                    Appendix
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="." >Abstract</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 class="text-center" id="lendingblock-securities-lending-for-the-crypto-economy">Lendingblock: Securities Lending for the crypto economy</h1>
+
+<div class="text-center">
+<p>
+
+ <span style="font-style :italic;">Working document</span>
+</p><p>
+
+
+Last updated 21 February 2018 </p></div>
+
+<h2 class="text-center" id="abstract">Abstract</h2>
+
+<div class="text-justify">Lendingblock is an open exchange for borrowing and lending cryptocurrencies and digital assets. It allows borrowers and lenders to enter into fully collateralised crypto vs crypto lending agreements. Lenders can earn incremental interest income on their long term investment in digital assets, while borrowers can use their digital assets as collateral to enable borrowing to support shorter term trading, hedging and working capital needs.
+
+Lendingblock is creating a parallel financial service for the crypto economy to securities lending in traditional capital markets, a market that has $2trn of assets on loan and generated $4bn of revenue in 2017.
+
+This white paper will be released and extended incrementally in advance of the announcement of the token sale on 9 March, 2018.</div>
+
+<h2 id="mission">1. <strong>Mission</strong> </h2>
+<p>Lendingblock is a protocol and platform designed to enable and encourage borrowing and lending within the crypto financial system, bringing the economic benefits of lending (increased spending and growth, connecting capital supply and demand) to the distributed blockchain economy, but minimising the need for inefficient intermediaries that are unnecessary in the cryptographic asset environment.</p>
+<p>Lendingblock is creating the market and financial infrastructure for securities lending in the crypto-economy. The value of securities on loan in the securities lending marketplace has reached $2trn in 2017<sup id="a1"><a href="#f1">1</a></sup>, this makes up 12% of all stocks and bonds in circulation. It is expected that the market of cryptocurrencies and digital assets will follow a similar evolution in the credit markets with regards to financing but with a faster rate of adoption given the transparency and fluidity of the market.</p>
+<p>Lendingblock will be the first exchange for crypto asset backed loans that meets  the needs of institutional and individual borrowers and lenders in the crypto-economy.</p>
+<h2 id="background">2. <strong>Background</strong> </h2>
+<h3 id="growth-of-cryptoassets">2.1. G<strong>rowth of Cryptoassets</strong> </h3>
+<p>2017 saw rapid growth in the scale and maturity of the crypto economy, driven by a combination of growth in price of established coins and the emergence of Initial Coin Offerings (ICOs) as a viable and vibrant mechanism for raising funds for early stage companies, with over 300 issues generating $2 billion in initial investment. The success of this fundraising approach, combined with the speed and simplicity advantages to both companies and investors mean that ICOs are likely to continue to gain popularity at the expense of long standing capital raising methods. The volume of issuance, combined with growth in market value of issued coins, has resulted in more than $500 billion worth of coins existing in circulation as of January 2018<sup id="a2"><a href="#f2">2</a></sup>.</p>
+<h3 id="securities-lending">2.2. S<strong>ecurities lending</strong> </h3>
+<p>Securities lending is the transfer of assets from a lender to a borrower, who in return gives the lender collateral assets. The borrower pays the lender a fee each month for the loan and is contractually obliged to return the borrowed assets at the end of the loan period. Securities lending is a mature, important, and sizeable part of existing financial markets, providing services to corporate borrowers, asset managers and individuals, and generating billions of dollars in annual revenue for service providers.</p>
+<p>Securities lending in the conventional financial market has maintained consistently high levels of activity over many years, with 2017 being no exception.</p>
+<p>Global Securities Lending Market key statistics (as of March 9, 2017):</p>
+<ul>
+<li>On-loan value: $2.00trn, +$180bn year-on-year (YOY)</li>
+<li>Lendable value: $16.04trn (+$2.75trn YOY)</li>
+<li>Unique securities on loan: 45,200</li>
+<li>Non-cash collateral as a percentage of on-loan balance: 60.52% (+6.39% YOY)</li>
+</ul>
+<p>Lenders globally earned $9.16bn in securities lending revenues in 2016.</p>
+<p>We believe that the market for securities lending will be replicated in the blockchain asset economy, particularly in light of the continued growth in value of the cryptoasset market and the entry at scale of institutional participants and funds. Lendingblock is designed to facilitate the growth of securities lending in the crypto economy.</p>
+<h3 id="evolution-and-emergence-of-lending">2.3. <strong>Evolution and emergence of lending</strong> </h3>
+<p>As the market for crypto assets increases, robust financial services to support crypto issuers, investors, and users will become an increasingly critical part of the new financial world. These services include exchanges, payment systems, and crypto based lending and financing. While exchanges and payment systems integration exist and will continue to mature, lending services that allow holders of crypto assets to generate interest income are only beginning to emerge in their most basic forms.</p>
+<p>   <strong>Margin Lending  </strong></p>
+<p>Numerous exchanges offer the ability to do margin lending on their own exchange platforms. However, these loans are self-contained on centralised platforms making it impossible for the borrowed funds to leave the platform. This diminishes the ability for borrowers to enter into any sophisticated trading or arbitrage strategies. Borrowers and lenders are also highly dependent on the security and availability of exchanges, making their funds susceptible to exchange insolvencies or outages.</p>
+<p>   <strong>Crypto to Fiat Lending</strong></p>
+<p>Lending conventional currencies secured by cryptocurrencies is a service offered by a small number of new businesses. However, high levels of fiat-crypto volatility mean that levels of collateralisation required are significantly higher than crypto vs crypto where correlations are higher, and fiat integration is fundamentally more complex than a model which focuses purely on digital assets.</p>
+<p>   <strong>Credit score lending</strong></p>
+<p>Credit score based lending services including those that rely on trusted lending circles and networks, are manual services that involve high levels of disclosure of personal information, and are primarily focused on small scale consumer loans.</p>
+<p>While there is value in the emergence of all lending services, there are significant limitations to the application of margin, fiat and credit score based loans, particularly from the perspective of institutional borrowers. At Lendingblock, we believe that creating the financial infrastructure for blockchain based securities lending will address a critical and unserved need.</p>
+<h3 id="conventional-vs-cryptoasset-lending">2.4. Conventional securities lending versus cryptoasset lending </h3>
+<p><strong>Conventional securities lending involves</strong></p>
+<ol>
+<li><p>A transfer of assets from a lender to a borrower, typically shares or bonds;</p>
+</li>
+<li><p>A pledge of collateral assets exceeding the value of the loan from the borrower, which may be shares, bonds, or cash;</p>
+</li>
+<li><p>The borrower pays the lender a fee each month for the loan;</p>
+</li>
+<li><p>The borrower passes any dividends or any interest payments to the lender;</p>
+</li>
+<li><p>The borrower is contractually obliged to return the borrowed assets at the end of the loan period, or on demand if agreed;</p>
+</li>
+<li><p>All securities lending arrangements use market standard legal agreements such as the Global Master Securities Lending Agreement.</p>
+</li>
+</ol>
+<p><strong>In contrast, cryptoasset lending involves</strong></p>
+<ol>
+<li><p>A transfer of <em>digital assets</em> from <em>one or more lenders</em> to a borrower;</p>
+</li>
+<li><p>A pledge of <em>digital collateral assets</em> exceeding the value of the loan from the borrower which is <em>securely locked</em>;</p>
+</li>
+<li><p>The borrower pays a fee each month for the loan which is distributed <em>proportionally to lenders by the Lendingblock smart contract;</em></p>
+</li>
+<li><p>Digital assets loaned are not (yet) impacted by corporate actions <em>reducing additional servicing processes</em>;</p>
+</li>
+<li><p>The borrower is contractually obliged to return the borrowed assets at the end of the loan period (or on demand if this is part of the agreement or if there is force majeure), which are then <em>distributed proportionally to lenders by the Lendingblock smart contract</em>. If the borrower is unable to meet their obligations, the <em>collateral is liquidated and the proceeds distributed proportionally to the lenders;</em></p>
+</li>
+<li><p>Lendingblock smart contracts <em>codify and execute</em> terms modelled on the Global Master Securities Lending Agreement, and are agreed to by borrower and lenders.</p>
+</li>
+</ol>
+<p>Lendingblock is creating the infrastructure for securities lending for the crypto economy. Using an assumption of adoption of lending in the crypto economy to be half the rate the norm in securities lending, and an assumption of 25% annual growth in the total market value of digital assets, it is foreseeable that the crypto lending market could generate annual revenues in excess of $300 million within three years.</p>
+<h2 id="platform-definition">&#x200B;3. Platform definition </h2>
+<p>Lendingblock is creating an open exchange for borrowing and lending crypto-assets. Holders of digital assets will be able to generate stable and secure returns without sacrificing the benefits of ownership, and borrowers who hold digital assets will be able to use these digital assets as collateral to borrow at market rates to support funding, hedging or investing strategies.&#x200B;</p>
+<h3 id="end-users">3.1. End Users </h3>
+<p>The end users of Lendingblock will be entities looking to borrow or lend cryptocurrency assets. These entities, whether retail or institutional will fall under two categories - lenders and borrowers.</p>
+<h4 id="311-lenders">3.1.1. <strong>Lenders</strong></h4>
+<p>Lenders using Lendingblock will include institutional lenders, such as asset managers, hedge funds, and family offices; and individual participants in &#x201C;crowd lending&#x201D; who can gain access to lending opportunities not currently available to them directly;</p>
+<ol>
+<li><p>will be able to generate incremental interest income from their portfolio of assets without sacrificing the long-term benefits of ownership; and</p>
+</li>
+<li><p>will have the security and protection of full collateralisation and automatic application of lending default terms.&#x200B;</p>
+</li>
+</ol>
+<h4 id="312-borrowers">3.1.2. Borrowers</h4>
+<ol>
+<li><p>will be typical of users of existing securities lending, including hedge funds, investment managers, market makers, and proprietary traders;</p>
+</li>
+<li><p>will have a need to borrow digital assets for mutiple purposes, which may include</p>
+<ol>
+<li><p><strong>Shortselling</strong>- if a trader wishes to take a short position in the belief that the price of an asset will fall, they will borrow the assets and sell them at the current market, then buy those assets back in the future at a (hopefully) lower price to repay the loan;</p>
+</li>
+<li><p><strong>Hedging</strong>- a derivatives market-maker, for instance, may need to sell assets that it does not own to hedge a linked derivatives position, then borrow digital assets to meet its settlement obligation;</p>
+</li>
+<li><p><strong>Arbitrage</strong>- a trader may sell assets short against an offsetting derivatives position to take advantage of dislocation between cash and derivatives markets, for example &apos;index arbitrage&apos; where offsetting positions are taken in a basket of securities and in the relevant index futures contract; or</p>
+</li>
+<li><p><strong>Fails-driven borrowing</strong>- if a broker or custodian has a settlement obligation but does not have the assets in place (perhaps due to operational problems or because its client has not made adequate arrangements to deliver the assets), it may borrow assets to ensure that it can meet its obligation and thereby avoid incurring settlement fail penalties.</p>
+</li>
+</ol>
+</li>
+<li><p>will be able to access borrowing services that do not currently exist in the crypto economy at a price and fee structure that is transparent and based on market supply and demand.</p>
+</li>
+</ol>
+<h3 id="process">3.2. Process </h3>
+<p><strong>The Borrower process has five stages :</strong></p>
+<ol>
+<li><strong>Registration</strong>, in which prospective borrowers create an account and complete identity verification and screening;</li>
+<li><strong>Specification</strong>, in which borrowers complete profiles specifying details of the loan they are seeking, e.g. loan principal asset and amount, duration, maximum interest payable, and collateral to be pledged. After verifying that the collateral is available to prevent spurious offers, this borrowing request is then automatically matched to lending offers;</li>
+<li><strong>Initiation</strong>, in which the borrower places collateral into the LND smart contract and waits for lenders to place principal into the smart contract until the loan total is reached;</li>
+<li><strong>Servicing</strong>, in which the borrower makes scheduled payments that are distributed to the lenders by the LND smart contract, and as required adjusts the amount of collateral to reflect any change in value; and</li>
+<li><strong>Finalisation</strong>, in which the borrower completes repayment of the loan principal which is returned to the lenders, and the collateral is returned to the borrower by the LND smart contract, or in the case of default by the borrower the collateral is distributed to the lenders to cover their investment.</li>
+</ol>
+<p><strong>The Lender process has five stages:</strong></p>
+<ol>
+<li><p><strong>Registration</strong>, in which prospective lenders create an account and complete identity verification;</p>
+</li>
+<li><p><strong>Specification</strong>, in which lenders first complete profiles specifying what they are looking for, e.g. how much they wish to lend, for what duration, desired minimum interest rate, and acceptable collateral. After verifying that the principal is available to prevent spurious offers, this lending offer is then automatically matched to loan profiles that meet their requirements;</p>
+</li>
+<li><p><strong>Initiation</strong>, in which once borrowers have submitted collateral, lenders place loan principal into the Lendingblock smart contract, at which point the principal is sent to the borrower;</p>
+</li>
+<li><p><strong>Operation</strong>, in which the lender receives scheduled interest payments from the LND smart contract; and</p>
+</li>
+<li><p><strong>Finalisation</strong>, in which the lender receives repayment of their principal, or in the case of default by the borrower receives the collateral to cover their investment.</p>
+</li>
+</ol>
+<h3 id="collateralisation-approach">3.3. Collateralisation approach </h3>
+<p>Loans arranged via Lendingblock will be collateralised to provide lenders with protection against borrower default. The approach to collateralisation includes</p>
+<h4 id="331-type-of-collateral-offeredreceived">3.3.1. Type of collateral offered/received</h4>
+<p>When making a borrowing request, borrowers specify the type of collateral they are offering as security;</p>
+<ol>
+<li><p>When making a lending offer, lenders may accept any form of collateral, or optionally elect to specify which forms of collateral they are willing to accept or exclude;</p>
+</li>
+<li><p>The algorithm for matching borrowers and lenders will exclude lenders who have elected not to accept the specific type of collateral offered by the borrower;</p>
+</li>
+<li><p>The type of collateral does not impact the interest rate of the loan which is based on the asset being borrowed, but it may impact the level of collateral required for a loan, or impact the amount that can be borrowed;</p>
+</li>
+<li><p>It will not be possible to alter the type of collateral during a loan.</p>
+</li>
+</ol>
+<h4 id="332-collateralisation-level">3.3.2. Collateralisation level</h4>
+<ol>
+<li><p>The level of initial collateral is determined using a Value-at-Risk model. VaR provides a measurement of the maximum change in value of an asset in a given time period with a specified probability, based on historical data. In our case, this means looking at the price history of the principal / collateral pair.</p>
+</li>
+<li><p>Assuming that returns and volatility follow a normal distribution,we are using the Variance-Covariance method to compute the optimal collateralrate per contract</p>
+</li>
+</ol>
+<p><script type="math/tex; ">VaR= P_0-(P_0 (α(1-c)+1))</script></p>
+<p>Where</p>
+<p><script type="math/tex; ">P_0 =</script> spot price of the contract at the initial</p>
+<p><script type="math/tex; ">α=</script> inverse of cumulative distribution function of a normal distribution with mean <script type="math/tex; ">μ</script> and volatility <script type="math/tex; ">σ</script></p>
+<p><script type="math/tex; ">c =</script> confidence level</p>
+<p>Confidence levels (68%, 95% and 99.7% ) will be chosen to set initial collateral and upper and lower bounds for collateral levels:</p>
+<ol>
+<li>The upper bound (or collateral ceiling) will be based on three standard deviations;</li>
+<li>The lower bound (or collateral floor) will be based on one standard deviation.</li>
+<li>The initial level of collateralisation will be based on two standard deviations</li>
+</ol>
+<h4 id="333-maintaining-the-appropriate-level-of-collateralisation">3.3.3. Maintaining the appropriate level of collateralisation</h4>
+<p>The level of collateralisation will be automatically monitored using verified data sources. Should the level of collateralisation drop below the collateral floor (where the value of the collateral falls relative to the value of the principal),</p>
+<ol>
+<li>The borrower will be notified that additional collateral is required.</li>
+<li>If the borrower fails to provide additional collateral, a portion of the secured collateral will be converted to the principal to bring the level of collateralisation back to the initial required level.</li>
+</ol>
+<p>Should the level of collateralisation rise above the collateral ceiling (where the value of the collateral rises relative to the value of the principal), collateral above the ceiling will be returned to the borrower.</p>
+<h4 id="334-statistical-analysis">3.3.4. Statistical analysis</h4>
+<p>Statistical analysis of the levels of collateral for common trading pairs has been performed, using data from coinmarketcap.com, to understand the potential levels of collateralisation required. A test for the top five market cap currencies for our model can be found in the <a href="appendix.html">Appendix</a>.</p>
+<h5 id="example">Example</h5>
+<p><strong>Pair:</strong> BTC/ETH</p>
+<p><strong>Historical Data Sample:</strong> 365 daily close</p>
+<p><strong>Maturity of loan:</strong> 60 days</p>
+<p>According to our model, the appropriate rate of collateral for this pair is 111%, with a lower bound of 102% and an upper bound of 115%</p>
+<p><img src="assets/var model.png" alt=""></p>
+<p>As shown in our test model and in the example above, the Collateral Rate Model proves our collateralisation model will afford lenders with a relatively stable percentage of collateral to avoid redemption before maturity.</p>
+<h3 id="access">3.4. Access </h3>
+<p>Access to the Lendingblock platform can be made in three different ways:</p>
+<ol>
+<li><p><strong>Direct</strong>, in the form of dedicated web and mobile tools aimed at individual and institutional users;</p>
+</li>
+<li><p><strong>Integrated</strong>, allowing individual users to borrow and lend directly from within popular wallets or exchange clients once they have completed registration with Lendingblock;</p>
+</li>
+<li><p><strong>As a service</strong>, in the form of Lendingblock APIs allowing developers to create customised end user tools or integrations into applications.</p>
+</li>
+</ol>
+<h2 id="technical-architecture">4. <strong>Technical Architecture</strong> </h2>
+<h3 id="core-principles">4.1. Core Principles </h3>
+<p>The Lendingblock architecture is guided by four core principles. These principles are ranked, such that when making a design decision related to a particular principle, that decision should not compromise higher ranked principles. The principles are</p>
+<ol>
+<li><p><strong>Principle 1 - Security</strong> : the architecture must ensure that users and their assets are protected from intended or inadvertent harm.</p>
+</li>
+<li><p><strong>Principle 2 - Privacy</strong> : the architecture must ensure that users personal information is protected.</p>
+</li>
+<li><p><strong>Principle 3 - Transparency</strong> : the architecture must ensure that all interactions and transactions are visible.</p>
+</li>
+<li><p><strong>Principle 4 - Scalability</strong> : the architecture must ensure that users expectations for performance and reliability are met</p>
+</li>
+</ol>
+<h3 id="zones">4.2. Zones </h3>
+<p>The Lendingblock architecture is a component based architecture, where functional components are deployed across a hybrid of centralized and decentralized zones:</p>
+<ol>
+<li><strong>Decentralized zone</strong> , which includes<ol>
+<li>distributed ethereum ledger executing Lendingblock smart contracts;</li>
+<li>additional distributed ledgers holding records of loan collateral and principal; and</li>
+<li>an authenticated and publicly verifiable record of executed transactions.</li>
+</ol>
+</li>
+<li><strong>Centralized zone</strong> , a secure and scalable cloud based infrastructure , which includes<ol>
+<li>publically exposed REST API endpoints that provide access to platform services;</li>
+<li>internal micro services that implement selected platform business logic;</li>
+<li>storage of private internal data;</li>
+<li>gateways to access external services including KYC providers, pricing data, and to stream live data to Lendingblock tools, and</li>
+<li>SGX based oracles that monitor activity and information from external data-sources and distributed ledgers.</li>
+</ol>
+</li>
+</ol>
+<h3 id="functional-components">4.3. Functional components </h3>
+<p>The primary functional components of the Lendingblock architecture are organised into six logical groupings:</p>
+<ol>
+<li><p><strong>User registration and maintenance services</strong> , which are responsible for</p>
+<ol>
+<li><p>Creating and verifying new user accounts, including completion of KYC and AML processes, and</p>
+</li>
+<li><p>Maintaining user permissions, in particular where there are multiple users from a single client organisation.</p>
+</li>
+</ol>
+</li>
+<li><p><strong>Order book management services</strong> , which are responsible for</p>
+<ol>
+<li><p>Exposing the current contents of the order book, allowing users to view current borrowing offers and lending requests</p>
+</li>
+<li><p>Adding an order, allowing authorised users to submit a new lending offer or request;</p>
+</li>
+<li><p>Updating of an order, for example allowing an order to be withdrawn or to mark an order status as filled.</p>
+</li>
+</ol>
+</li>
+<li><p><strong>Matching service</strong> , which is responsible for identifying borrowing requests and lending offers that will form the basis of a lending agreement. This service is invoked when new orders arrive, for example receipt of a new borrowing request will result in existing lending offers being allocated using price then precedence prioritisation, and vice versa.</p>
+</li>
+<li><p><strong>Lending agreement initiation</strong> , which is responsible for</p>
+<ol>
+<li><p>The creation of a smart contract identified by the matching service. Each contract contains a record of:</p>
+<ol>
+<li>The unique  <strong>contract identifier</strong></li>
+<li>Links to the original borrowing  <strong>request</strong>  and lending  <strong>offers</strong></li>
+<li>A hash of the  <strong>legal contract</strong> ;</li>
+<li><strong>Digital signatures</strong>  of the concerned parties;</li>
+<li>Borrower and lender  <strong>wallet addresses</strong>  for exchange of collateral and principal;</li>
+<li><strong>Proofs of knowledge</strong>  of the private keys associated with the addresses;</li>
+<li>The  <strong>type</strong>  and  <strong>amount</strong>  of the loan  <strong>principal</strong> ;</li>
+<li>The  <strong>duration</strong>  of the loan;</li>
+<li>The  <strong>type</strong>  and initial  <strong>amount</strong>  of  <strong>collateral</strong> ;</li>
+<li>Collateral  <strong>floor</strong>  and  <strong>ceiling</strong>  boundaries;</li>
+<li>The  <strong>effective interest rate</strong>  of the loan;</li>
+<li>The  <strong>principal contribution</strong>  and  <strong>individual rate</strong>  for each lender;</li>
+<li>The  <strong>payment schedule</strong>  specifying dates and amounts of interest payments;</li>
+<li><strong>Payment conditions </strong> that specify circumstances under which collateral will be forfeit by the borrower</li>
+<li><strong>Assertions </strong> by Lendingblock Oracles that payment conditions have been satisfied or breached;</li>
+<li><strong>Updates:</strong>  Initially empty, and used later for updating the contract;</li>
+</ol>
+</li>
+<li><p>Recording acceptance of the legal terms of the agreement by all parties;</p>
+</li>
+<li><p>Confirming initial collateral payment from the borrower;</p>
+</li>
+<li><p>Confirming initial principal payment from the lender(s); and</p>
+</li>
+<li><p>Releasing loan principal to the borrower once all parties are ready.</p>
+</li>
+</ol>
+</li>
+<li><p><strong>Lending agreement maintenance</strong> , which is a smart contract responsible for</p>
+<ol>
+<li><p>Managing receipt and distribution of interest payments from the borrower to the lenders as defined by the payment schedule and individual lender contributions;</p>
+</li>
+<li><p>Managing the synchronised distribution of repaid principal to lenders and the release of collateral to the borrower at the conclusion of the loan;</p>
+</li>
+<li><p>Initiating the liquidation of collateral and distribution of the proceeds to lender(s) in the event of borrower default, for example where a payment condition has been breached by the borrower; and</p>
+</li>
+<li><p>Managing the level of collateral provided by the borrower, including requesting additional collateral should the value fall below the floor threshold or releasing collateral should the value rise above the ceiling.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p><strong>External activity and information gateway</strong> , which is the mechanism used to provide trusted interactions between the Lendingblock smart contract and external sources. This capability is provided using oracles, which are automated services which sit outside of but are trusted by the Lendingblock blockchain. The primary uses of the Lendingblock oracles are</p>
+<ol>
+<li><p>as providers of trusted data feeds that the Lendingblock smart contract can then make decisions on, including confirmation of receipt of principal and collateral into Lendingblock escrow wallets at loan initiation and conclusion, and independent external sources of collateral valuation held as security as an input into the collateral management process;</p>
+</li>
+<li><p>to initiate and authorise transactions when the Lendingblock smart contract decides that that should be the next course of action. The oracle therefore does not make any decisions but rather takes the smart contract outcomes as a source of truth and acts upon it. The actions include the transfer of principal and collateral from the Lendingblock escrow wallets, notifying the borrower of upcoming interest payments or collateral calls.</p>
+</li>
+</ol>
+<p>Despite not being executed on the blockchain, oracles provide very strong guarantees and are widely accepted by the blockchain community. This is driven mainly by the work of the IC3 group [1] which implements oracles as code running inside the Intel SGX enclave. That enables the oracle to provide a cryptographic proof to the blockchain that it executed a specific piece of code with given inputs.</p>
+<h2 id="operational">5<strong>. Operational</strong> </h2>
+<p>Beyond the initial technical implementation of the core platform, there are a number of critical ongoing functions that will be performed to ensure that Lendingblock is a viable and vibrant marketplace.</p>
+<ol>
+<li><p><strong>Liquidity: </strong>As with any two sided marketplace, establishing an initial critical mass of supply and demand for Lendingblock is essential. This ensures that sufficient liquidity exists such that both borrowers and lenders are consistently able to find a match for their needs, and enables the subsequent development of network effects where more borrowers attract more lenders and vice versa. To reach this critical mass, there will be a strong ongoing focus on attracting new borrowers and lenders. This will include global community engagement, targeted business development and institutional sales in Asia, Europe, and the Americas, as well as global multi-channel marketing. Additionally, there will be a partnership development program to identify and establish commercial partnerships with other ecosystem participants.</p>
+</li>
+<li><p><strong>Compliance and UX: </strong>The process of enabling new clients to access the services provided by Lendingblock has inherent challenges, needing to deliver both a positive customer experience and full compliance with relevant regulatory requirements. This on-boarding workflow will involve automated tools connecting internal and external functions.</p>
+</li>
+<li><p><strong>Customer Support:</strong> While Lendingblock is designed to be a self-service marketplace where borrowers and lenders are able to autonomously initiate lending agreements, the importance of providing an outstanding customer experience warrants a high level of dedicated support. To ensure this support requirement is met, a multi-tiered support model will be established to deal with customer and platform operational issues.</p>
+</li>
+<li><p><strong>Regulatory approval:</strong> While the regulatory environment and attitude towards digital assets is still evolving, it is our intention to work with appropriate authorities towards achieving regulatory approval for Lendingblock at the earliest opportunity. Our decision to incorporate and establish Lendingblock operations in Gibraltar is in part driven by the progressive position the Gibraltar Financial Services Commission (GFSC) has taken in defining a regulatory framework for Distributed Ledger Technology businesses. Lendingblock will accordingly define and adopt an enterprise risk management framework that is i) guided by practices defined in the COSO Enterprise Risk Framework, and ii) consistent with the nine principles defined in the GFSC DLT Regulatory Framework, which state that a DLT provider must:</p>
+<ol>
+<li><p>conduct its business with honesty and integrity;</p>
+</li>
+<li><p>pay due regard to the interests and needs of each and all its customers and must communicate with its customers in a way which is fair, clear and not misleading;</p>
+</li>
+<li><p>maintain adequate financial and non-financial resources;</p>
+</li>
+<li><p>manage and control its business effectively, and conduct its business with due skill, care and diligence; including having proper regard to risks to its business and customers</p>
+</li>
+<li><p>have effective arrangements in place for the protection of client assets and money when it is responsible for them;</p>
+</li>
+<li><p>have effective corporate governance arrangements;</p>
+</li>
+<li><p>ensure that all systems and security access protocols are maintained to appropriate high standards;</p>
+</li>
+<li><p>have systems in place to prevent, detect and disclose financial crime risks such as anti-money laundering and countering terrorist financing (AML/CFT); and</p>
+</li>
+<li><p>be resilient and must develop contingency plans for the orderly and solvent wind down of its business.</p>
+</li>
+</ol>
+</li>
+</ol>
+<h2 id="financial">6. <strong>Financial</strong> </h2>
+<p>Projections of Lendingblock use have been modelled under a number of scenarios. These scenarios are based on varying four critical factors, for each of which pessimistic, probable, and optimistic assumptions have been made based on available data and critical judgement. The four factors and associated assumptions are:</p>
+<h3 id="61-growth-rate-of-lendable-crytoassets">6.1. Growth Rate of Lendable Crytoassets</h3>
+<p>Annual growth rate of the crypto economy, based on a starting point of $500 billion which represents current digital asset market capitalisation at the end of 2017.</p>
+<ol>
+<li><p><strong>Pessimistic</strong>&#x2013; crypto market capitalisation will grow at annual compound rate of 25%, including issuance of new assets and appreciation in value of existing assets, reaching a total of $975 billion in 2020;</p>
+</li>
+<li><p><strong>Realistic</strong>- crypto market capitalisation will grow at annual compound rate of 100%, including issuance of new assets and appreciation in value of existing assets, reaching a total of $1.687 trillion in 2020</p>
+</li>
+<li><p><strong>Optimistic</strong>- crypto market capitalisation will grow at annual compound rate of 200%, including issuance of new assets and appreciation in value of existing assets, reaching a total of $4 trillion in 2020.</p>
+</li>
+</ol>
+<h3 id="62-adoption-of-crypto-financing-services">6.2. Adoption of crypto financing services</h3>
+<p>Adoption of crypto financing services, starting from a base of zero and growing linearly towards the level observed in existing securities financing market of 12.5% of securities in use as collateral. The scenarios are:</p>
+<ol>
+<li><p><strong>Pessimistic</strong>&#x2013; percentage of crypto market capitalisation used as collateral will increase 0.5% per year, reaching 1.5% (one eighth of levels in conventional securities financing) in 2020;</p>
+</li>
+<li><p><strong>Realistic</strong>- percentage of crypto market capitalisation used as collateral will increase 1% per year, reaching 3% (one quarter of levels in conventional securities financing) in 2020;</p>
+</li>
+<li><p><strong>Optimistic</strong>- percentage of crypto market capitalisation used as collateral will increase 2% per year, reaching 6% (one half of levels in conventional securities financing) in 2020.</p>
+</li>
+</ol>
+<h3 id="63-transaction-fees">6.3. Transaction fees</h3>
+<p>Transaction fees, which is the % of value of loan principal charged as fees (on an annualised basis). For reference, margins in existing securities financing markets are in the range of 200-750 basis points, depending on market maturity and volatility. The scenarios are:</p>
+<ol>
+<li><p><strong>Pessimistic</strong>&#x2013; fee margins will be 75 basis points (0.75%) which is the typical margin in mature markets with high quality and low volatility collateral;</p>
+</li>
+<li><p><strong>Realistic</strong>- fee will be 150 basis points (1.5%) which is the typical margin in maturing markets with medium quality and medium volatility;</p>
+</li>
+<li><p><strong>Optimistic</strong>- fee margins will be 300 basis points (3%) which is typical fee in immature markets with low quality and high volatility collateral;</p>
+</li>
+</ol>
+<h3 id="64-market-share">6.4. Market Share</h3>
+<p>Market share, which is the % of the cryptofinancing market Lendingblock will capture. The scenarios are:</p>
+<ol>
+<li><p><strong>Pessimistic</strong>&#x2013; Lendingblock will capture 25% market share, with the remaining market share being taken by direct competitors and exchanges;</p>
+</li>
+<li><p><strong>Realistic</strong>- Lendingblock will capture 50% market share, with the remaining market share being taken by direct competitors and exchanges;</p>
+</li>
+<li><p><strong>Optimistic</strong>- Lendingblock will capture 75% market share, with the remaining market share being taken by direct competitors and exchanges.</p>
+</li>
+</ol>
+<p>For each scenario, we have projected operating revenue as the product of crypto market size, financing take up, pricing margin, and market share, for the first three years of operation. Applying pessimistic assumptions for each of the four factors results in a projected revenue in excess of $27 million in the third year of operations, applying realistic assumptions results in projected revenue in excess of $379 million in the third year, and applying optimistic assumptions for each factor results in revenue in excess of $5 billion.</p>
+<h2 id="legal-regulatory-and-risk-considerations">7. <strong>Legal, Regulatory, and Risk Considerations</strong> </h2>
+<h3 id="71-legal-introduction">7.1. Legal introduction</h3>
+<p>The Lendingblock business proposition is applying traditional securities lending (repo and stock loan)concepts to the crypto currency markets. As such it could be considered &#x2018;innovation on innovation&#x2019; and several principles applied for years in traditional securities lending need to be adapted for the crypto landscape.  This includes several important concepts surrounding the legal basis for lending transactions being operated across multiple territories.</p>
+<h3 id="72-how-can-you-be-confident-your-assets-will-be-safe">7.2. How can you be confident your assets will be safe?</h3>
+<p>Lendingblock has worked with a number of legal advisors to establish the most appropriate legal framework within which to lend and borrow crypto assets without putting those assets at risk.  There are certainly areas in which traditional legal principles need to applied without direct precedent to crypto assets, but in each case the extension of existing legal principles has been found to be unlikely to lead to unacceptable ambiguity. For the initial analysis, English law was used as the basis of analysis, however, further analysis will be undertaken covering all relevant jurisdictions.  The relevant legal principles reviewed relate to the following areas of law concerning lending and provision of collateral, legal documentation and the use of smart contracts:  </p>
+<p>&#xB7;     Enforceability of a crypto currency loan and collateral </p>
+<p>&#xB7;     Legal documentation of the transaction</p>
+<p>&#xB7;     Dispute resolution</p>
+<p>&#xB7;     Regulatory landscape</p>
+<h3 id="73-enforceability-of-a-crypto-currency-loan-and-collateral">7.3. Enforceability of a crypto currency loan and collateral</h3>
+<p>From a legal perspective, the loan will be structured as an outright transfer of ownership in the crypto being loaned.  The collateral will be provided by way of security, held by an appointed security trustee, with lenders unable to access the collateral.  Upon a borrower default the security trustee will administer the liquidation of collateral following a pre-defined process and distributing the proceeds to lenders.</p>
+<p>The key issues underlying the question of enforceability are the recognition of crypto-currencies as property, the legal jurisdictions which are relevant to any transaction and the enforceability of the security interest over collateral. On these points, legal analysis has concluded the following.</p>
+<p>Whilst there is no statute or case law specifically recognising crypto-currency as property, there is precedent for applying general property principles to new fact patterns.  In the event of dispute, the courts would need to apply existing principles to the new facts and there are very strong arguments to support cryptocurrencies satisfying the traditional test for &quot;property&quot;, thereby not presenting a significant threat to enforceability.</p>
+<p>As with all international transactions, enforceability will be impacted by the legal jurisdictions relevant to the transaction. In the case of a Lendingblock loan and the associated collateral, the relevant jurisdictions will be the chosen governing law of the Lendingblock smart contract, the location of Lendingblock (or its delegate), the &quot;location&quot; of the wallet in which the collateral is held and the insolvency jurisdiction of the borrower.  Lendingblock will undertake a jurisdiction-by-jurisdiction analysis to identify any potential enforceability issues and mitigate any identified issues through selection (where possible) of jurisdictions most favourable to enforceability, limitation of unfavourable jurisdictions and appropriate contractual arrangements.   </p>
+<p>With respect to specific issues regarding the validity or enforceability of the transfer or security interest inherent in the transaction, the legal analysis has not identified any specific problems relating to cryptocurrencies and found no reason why a loan of the crypto would be treated any differently either from a traditional loan of a fiat currency or why security over cryptocurrency would be treated any differently from any other security arrangement.  From a legal structuring perspective the arrangement would fall within a typical security trust, which is frequently used in the financial and capital markets.  The analysis did however conclude that cryptocurrency would not constitute &quot;financial collateral&quot; and would not therefore be subject to the European Financial Collateral Directive. The most significant of this is that under certain types of insolvency proceeding, the ability of Lendingblock to enforce the security over the crypto collateral (on behalf of the lenders) may be subject to a moratorium (or stay), delaying enforcement. Also, on enforcement, the lenders would not be entitled to receive the collateral directly without a court order - instead, the collateral would need to be disposed in the market and the proceeds distributed to the lenders, with the excess returned to the borrower. </p>
+<h3 id="74-legal-documentation-of-the-transaction">7.4. Legal documentation of the transaction</h3>
+<p>The documentation of the transaction, which lenders and borrowers would &#x201C;sign up&#x201D; to (electronically), will be based on a hybrid of standard securities lending documentation and standard secured lending documentation, but adapted to reflect the following characteristics of the Lendingblock transaction:</p>
+<p>&#xB7;     the assets being loaned and provided as collateral being cryptocurrency;</p>
+<p>&#xB7;     the collateral being provided by way of security instead of title transfer;</p>
+<p>&#xB7;     the syndicated nature of the loan, with a borrower potentially sourcing funds from multiple lenders in a single loan;</p>
+<p>&#xB7;     thesmart contract automatically performing the parties&#x2019; obligations;</p>
+<p>&#xB7;     thedocumentation to be signed electronically.</p>
+<h4 id="741-impact-of-crypto-on-documentation">7.4.1. Impact of crypto on documentation</h4>
+<p>Initial analysisindicates that the crypto nature of the assets is unlikely to result in asignificant departure from normal documentation.</p>
+<h4 id="742-impact-of-security-interest-ondocumentation">7.4.2. Impact of security interest ondocumentation</h4>
+<p>The collateral beingprovided by way of security instead of title transfer will result in the titletransfer aspects (e.g. enforcement by netting) being replaced with a securitytrust.  A security trust is a commonarrangement in secured lending and structured finance markets, and does notgive rise to significant documentation challenges.</p>
+<h4 id="743-impact-of-syndication-on-documentation">7.4.3. Impact of syndication on documentation</h4>
+<p>The potentially syndicated nature of the loan will not impact the legal arrangements.  Consistent with normal syndicated lending arrangements, while the borrower might &#x201C;see&#x201D; only one loan from a group of lenders, the documentation will make it clear that each lender has a separate debt owed to it by the borrower.</p>
+<h4 id="744-impact-of-smart-contract-on-documentation">7.4.4. Impact of smart contract on documentation</h4>
+<p>The smart contract nature of the arrangement will have significant effect on the drafting.  The contract will not be entirely based on code &#x2013; there will be a natural language version of the contract, but some aspects of the contract will be discharged automatically by the smart contract elements coded into the distributed ledger programme.  For those aspects of the arrangement which are to be discharged by the distributed ledger programme, the natural language version of the contract will be drafted in way that supports coding.  In particular, the choices that are to be made will need to support Boolean logic. It will be necessary to strike a balance between avoiding some discretions to support the automatic discharge of contractual provisions and retaining discretions or other non-logical language (such as a requirement to act in good faith) needed to achieve a particular commercial outcome. For example, whilst the calculation and payment of interest is sufficiently logical to be discharged by the programme, ability to trigger enforcement is likely to require a manual override so that a lender can instruct (or not) Lendingblock to trigger the default management process if the lender defaults.</p>
+<h4 id="745-impact-of-electronic-nature-on-documentation">7.4.5. Impact of electronic nature on documentation</h4>
+<p>The aim is to structure the Lendingblock platform as &#x201C;paperless&#x201D; as possible.  It is likely that a large proportion of the activities will be capable of being paperless, although further legal analysis may be required on a jurisdiction-by-jurisdiction basis to determine the extent to which electronic documents are acceptable.  For example, it may be necessary to determine in a borrower&#x2019;s jurisdiction whether it is capable of entering into contracts (and granting security over the collateral) electronically. The legal analysis has considered a number of issues relating to the documentation being entered into electronically:</p>
+<p>&#xB7;     Ability of parties to enter into contracts electronically &#x2013; this will be impacted by local law in the jurisdictions of the lender and borrower.  Lendingblock will undertake analysis of ability to use electronic contracts on jurisdiction-by-jurisdiction basis, drawing on an ISDA multi-jurisdictional analysis of electronic contract execution.</p>
+<p>&#xB7;     Evidence of authority of &#x201C;signatory&#x201D; &#x2013; Lendingblock will put in place safeguards to ensure that only those persons with appropriate authority on behalf of lender or borrower are able to electronically accept the terms of the contract.</p>
+<p>&#xB7;     Ability to transfer interests electronically &#x2013; In respect of requirements for transfers of certain types of equitable interests<sup id="a3"><a href="#f3">3</a></sup> to be in writing, Lendingblock will undertake an analysis of the legal basis of the interest in asset in the case of cryptos and the potential need for certain transfers to be documented in writing (note: these uncertainties are no different to that applicable to normal dealings in cryptocurrency).</p>
+<p>&#xB7;     Ability to create security without physical written contract &#x2013; for certain types of security instrument (a legal assignment) to be valid, it needs to be in writing.There remains some uncertainty as to whether an electronic contract would constitute &#x201C;writing&#x201D; for these purposes. However, even if an electronic contract were not sufficient to create a legal assignment, other forms of security can be created without the need for writing.  Lendingblock will undertake a full analysis of the requirements relating to physical written contracts and ensure that these are used only where necessary from a legal perspective.</p>
+<h3 id="75-dispute-resolution">7.5. Dispute resolution</h3>
+<p>The distributed nature of blockchains creates potential uncertainty as to where and how disputes should be resolved.  Even if crypto lending arrangements are documented using smart contracts, disputes may still arise over enforcement of non-blockchain collateral, valuation of collateral on enforcement, breach of subsidiary obligations by lenders or borrowers or on the insolvency of a borrower. There may also be disputes with the operator of the crypto lending platform and any security trustee, especially where they are required to exercise discretion, such as in the liquidation of collateral.</p>
+<p>Lendingblock is reviewing the potential to create an umbrella dispute resolution mechanism to be inserted into the participation contract (the contract between Lendingblock or the specific entity designated as administrator of the platform and each user who has been granted permission to participate in it) and individual dispute resolution mechanisms &#x2013; ideally in a standard form &#x2013; that can be inserted into each crypto lending arrangement. If these arrangements are embodied in a smart contract, then the dispute resolution mechanism itself could be written, at least partly, in that smart contract and therefore be, to some extent, self-executing.  </p>
+<p>The choice of forum for the determination of disputes will impact the procedure, cost, speed and predictability of outcome, available remedies and the ease or difficulty of enforcing an award. Options include appointing Lendingblock or a central administrator to determine disputes between participants or appointment of an arbitrator with blockchain expertise. Arbitration awards are widely enforceable and Lendingblock may itself be able to facilitate enforcement by directly inserting remedial transactions into the blockchain.  </p>
+<h3 id="76-regulatory-landscape">7.6. Regulatory landscape</h3>
+<p>Lendingblock intends to take a proactive stance to the issue of regulation and welcomes appropriate regulation on the basis that it will help the crypto-currency markets to become more established, introduce important safeguards and reduce the current regulatory uncertainty that is itself causing increased volatility in the market.  </p>
+<p>Lendingblock continues to monitor the regulatory landscape closely and to anticipate potential future changes.  Where appropriate, the firm is building provision for future regulation into its platform and processes to avoid unnecessary cost or potential restrictions inits freedom to operate brought about by future implementation of regulations.</p>
+<p>Many regulators are in the process of considering whether cryptocurrencies are or should be regulated in their own right in their jurisdiction. At present, there is not much consistency in approach and different cryptocurrencies can be very different in nature, which means that some could be regulated and others not regulated in the same jurisdiction. Even where cryptocurrencies are not regulated, it is possible that Lendingblock may carry on another activity that would require a licence.  WhetherLendingblock will require a licence to operate its business on an ongoing basis depends on the law of the country or countries in which it is operating. A licence is usually only required if performing a regulated activity in relation to an investment or instrument that is regulated. </p>
+<p>If the cryptocurrencies the subject of the loans were regulated, it is also possible that the borrowers and lenders may need to be regulated, subject to any exemptions on which they could rely, although often there is an exemption for persons who are not entering into the loans for business or commercial purposes. </p>
+<p>In some jurisdictions, there are restrictions on the types of person to whom certain types of regulated investment can be sold and the way in which they must be sold. This could mean that, if a cryptocurrency being lent or used as collateral were regulated, that Lendingblock or the lender or borrower would need to undertake some form of appropriateness assessment and may only be able to enter into a loan with the more sophisticated types of client. In some jurisdictions, there are also restrictions on promoting regulated investments. </p>
+<p>These types of issues may cause Lendingblock to exclude certain cryptocurrencies from itsservice offering and/or to exclude persons operating from countries where they are regulated unless both Lendingblock and those persons have the necessary licences. Lendingblock will put in place arrangements to deal with the possibility that a cryptocurrency that is being lent or used as collateral were to become regulated during the term of a loan. </p>
+<p>Lendingblock intends to undertake due diligenceon borrowers and lenders but is also aware that certain jurisdictions areplanning to implement law requiring certain persons, such as wallet providers,to undertake customer due diligence checks for anti-money laundering purposes.  Lendingblock anticipates that it may becomesubject to these requirements, and is well placed to ensure that its internalprocedures will satisfy the detail of them.</p>
+<hr>
+<p>[1] The distinction between &#x201C;legal&#x201D; and&#x201C;equitable&#x201D; interests was created under English law to allow for multiple parties to have different types of interest in an asset, for example a trustee,who holds the legal title, and a beneficiary, who holds the equitable interest.</p>
+<hr>
+<h2 id="token-sale">8. Token sale </h2>
+<p>In which the Lendingblock (LND) token, token sale process, and launch plan will be described.</p>
+<h2 id="token-description"><strong>8.1. Token Description</strong> </h2>
+<p>In which the Lendingblock token, its uses, and economics are described.</p>
+<ol>
+<li><p>LND will be an ERC-20 compliant token.</p>
+</li>
+<li><p>The LND token functions as the currency of use within the Lendingblock economy. Interest payments for loans paid by borrowers and received by lenders will made using LND. For example, a loan of BTC secured by ETH collateral will result in lenders being paid LND by the borrower. Lenders can then use this earned LND to pay interest on loans of their own, or sell the LND in a secondary market to other borrowers;</p>
+</li>
+<li><p><strong>Token economics</strong></p>
+</li>
+<li><p>The valuation of LND can be demonstrated to be driven by four factors:</p>
+</li>
+<li><p>Demand (D) to purchase LND for payment by platform users, which is directly related to the volume of lending activity, eg more and larger loans will result in greater value of LND purchased by lenders;</p>
+</li>
+<li><p>Length of time (T) that platform users hold LND before exchanging or reusing them, eg a longer holding period will result in fewer LND available for sale at any point in time;</p>
+</li>
+<li><p>Total volume of LND in circulation (C), eg for a given total market valuation, the value of a single LND token is inversely related to C; and</p>
+</li>
+<li><p>Investor sentiment (S), which is related to opinion about the growth of the Lendingblock economy</p>
+</li>
+<li><p>Borrowers will be able to pre-purchase LND to meet interest payments at the start of the loan agreement, to allow them to lock in the cost of the interest payments. This has the effect of lengthening the time borrowers hold LND to the average of the loan duration and payment frequency, for example a borrower taking a ninety day loan with payment frequency of thirty days would make equal payments after thirty, sixty and ninety days, meaning that LND bought at the start of the loan would be held on average for sixty days. In contrast, if borrowers purchase LND to make interest payments as they are due, then the holding period would be minimal.</p>
+</li>
+</ol>
+<h2 id="token-sale-process"><strong>8.2. Token Sale Process</strong> </h2>
+<ol>
+<li><p><strong>Size of Issue: </strong>1,000,000,000 LND will be created during the token sale.</p>
+</li>
+<li><p><strong>Total cap: </strong>Following the completion of the token sale no further issues will be made, capping the volume of LND at 1,000,000,000</p>
+</li>
+<li><p><strong>Fundraising target</strong></p>
+</li>
+<li><p>A hard cap or ceiling will be set at the ETH equivalent of USD 10,000,000 at the start of the sale process.</p>
+</li>
+<li><p>A soft cap or floor will be set at the ETH equivalent of USD 5,000,000 at the start of the sale process.</p>
+</li>
+<li><p>Failure to reach the soft cap level will result in ETH being returned to purchasers, once expenses incurred in the token sale have been deducted.</p>
+</li>
+<li><p>If funds raised are between the hard and soft caps, unsold LND will be destroyed.</p>
+</li>
+<li><p><strong>Total circulating supply: </strong>600,000,000 LND (60% of total supply) will be offered for sale during the token sale process, in three phases:</p>
+</li>
+<li><p><strong>Private sale </strong>phase will conducted under the following conditions:</p>
+</li>
+<li><p>The funding cap will be USD 500,000</p>
+</li>
+<li><p>25,000,000 LND will be offered during the private sale;</p>
+</li>
+<li><p>A 1:1 bonus award will apply to the private sale period, so that an additional 25,000,000 LND will be awarded to participants;</p>
+</li>
+<li><p>The effective price of each LND will be USD 0.01 ( USD 500,000 / 50,000,000 LND);</p>
+</li>
+<li><p>Bonus LND awarded will be subject to a sixty day holding period;</p>
+</li>
+<li><p>There will be a set participation level of USD 50,000 per participant for the private sale;</p>
+</li>
+<li><p>The private sale period concluded at 21:00 GMT, Friday January 26th, 2018.</p>
+</li>
+<li><p><strong>Pre-sale </strong>phase will be conducted under the following conditions:</p>
+</li>
+<li><p>The funding cap will be USD 7,500,000</p>
+</li>
+<li><p>375,000,000 LND will offered during the pre sale;</p>
+</li>
+<li><p>A 5:1 bonus award will apply to the pre- sale period, so that an additional 75,000,000 LND will be awarded to investors;</p>
+</li>
+<li><p>The effective price of each LND will be USD 0.016667 ( USD 7,500,000 / 450,000,000 LND);</p>
+</li>
+<li><p>LND purchased during the pre sale period will be subject to a thirty day holding period;</p>
+</li>
+<li><p>Bonus LND awarded will be be subject to a thirty day holding period;</p>
+</li>
+<li><p>There will be a minimum participation level of USD 25,000 and maximum participation level of USD 500,000 for the pre-sale;</p>
+</li>
+<li><p>The pre-sale period will commence at 15:00 GMT Friday March 9th, 2018; and</p>
+</li>
+<li><p>The pre-sale period will conclude at the earlier of 15:00 GMT Friday March 16th, 2018 or when the 375,000,000 offered LND are sold.</p>
+</li>
+<li><p><strong>Main sale </strong>phase will be conducted under the following conditions:</p>
+</li>
+<li><p>The funding cap will be USD 2,000,000</p>
+</li>
+<li><p>100,000,000 LND will be offered during the main sale;</p>
+</li>
+<li><p>There will be no minimum participation level but a maximum participation level of USD 25,000 for the main sale;</p>
+</li>
+<li><p>The effective price of each LND will be USD 0.02 ( USD 2,000,000 / 100,000,000 LND);</p>
+</li>
+<li><p>The main sale period will commence at 15:00 GMT Friday March 23rd, 2018; and</p>
+</li>
+<li><p>The main sale period will conclude at the earlier of 15:00 GMT Friday March 30th, 2018 or when the 100,000,000 offered LND are sold.</p>
+</li>
+<li><p><strong>Growth fund: </strong>150,000,000 LND (15% of total supply) will be held as a growth fund, to be used at the discretion of the management team to increase the utility of the platform in a way that benefits users and investors. Potential uses of this reserve may include but are not limited to</p>
+</li>
+<li><p>Encouraging community development of complementary end user tools that allow borrowers and lenders to access the platform through the Lendingblock API;</p>
+</li>
+<li><p>Raising additional funding for subsequent platform extension where user demand warrants;</p>
+</li>
+<li><p>Establishing partnerships with complementary businesses;</p>
+</li>
+<li><p>Providing operational funding during the initial period after launch before trading revenues are sufficient to cover costs; or</p>
+</li>
+<li><p>Providing a LND liquidity source for borrowers and lenders needing to purchase or sell LND tokens.</p>
+</li>
+<li><p><strong>Team, partnerships and bounty: </strong>250,000,000 LND (25% of total supply) will be distributed to the founding team, employees hired in first 12 months, advisors, and pre-ICO service providers including participants in marketing and security bounty programs.</p>
+</li>
+<li><p>15% will be allocated to the Lendingblock founders;</p>
+</li>
+<li><p>5% will be allocated to Lendingblock employees hired in the first 12 months;</p>
+</li>
+<li><p>5% will be allocated to advisers, service providers, and bounty programs.</p>
+</li>
+<li><p><strong>Vesting: </strong>The following vesting schedule will apply to founders and employees to ensure long term commitment and alignment of incentives with token holders:</p>
+</li>
+<li><p>20% vest on latter of issue or hire date;</p>
+</li>
+<li><p>Additional 20% (40% cumulative) vest six months after latter of issue or hire date;</p>
+</li>
+<li><p>Additional 20% (60% cumulative) vest twelve months after latter of issue or hire date;</p>
+</li>
+<li><p>Additional 20% (80% cumulative) vest eighteen months after latter of issue or hire date;</p>
+</li>
+<li><p>Remaining 20% (100% cumulative) vest twenty-four months after latter of issue or hire date.</p>
+</li>
+<li><p><strong>Redemption process</strong></p>
+</li>
+<li><p>LND tokens will be distributed to purchasers immediately and made transferable within seven days of the scheduled end of the token sale process.</p>
+</li>
+<li><p>Bonus LND tokens will be issued to pre-sale purchasers thirty days after the scheduled end of the token sale process or the completion of the sale provided purchased LND tokens have not been sold.</p>
+</li>
+</ol>
+<h2 id="kyc"><strong>8.3. Onboarding, KYC and AML process </strong> </h2>
+<h3 id="onboarding">Onboarding</h3>
+<p><strong>All Participants</strong></p>
+<p>Announcements will be made on our social media channels when registration starts. Participants who are individuals can visit the registration website to complete a registration form containing the following:</p>
+<ol>
+<li>Email</li>
+<li>Telegram name</li>
+<li>Ethereum address in which the funds will be sent from</li>
+<li>Agree to terms and declaration</li>
+</ol>
+<p><strong>Individual</strong>
+A user id and PassFort link will then be generated. The user id should be saved by the participant. PassFort is our KYC partner and participants will be required to visit the PassFort link to submit their information. The following details are collected through PassFort:</p>
+<ol>
+<li>First name</li>
+<li>Surname</li>
+<li>Date of birth</li>
+<li>Nationality</li>
+<li>Address</li>
+<li>Image of passport</li>
+<li>Image of selfie</li>
+</ol>
+<p>Participants can then check the status of their registration by entering their Ethereum address and user id on our website. The possible registration status are as follows:</p>
+<ol>
+<li>Invalid: no registration found with the address and key combination</li>
+<li>New: registration has been created and waiting for documents</li>
+<li>Received: registration has been received and under review</li>
+<li>Rejected: registration has been rejected</li>
+<li>Requires re-submit: inform participant to re-submit his details, another user id will be created</li>
+<li>Approved: participant is eligible to proceed to funding</li>
+<li>Not approved: participant is not eligible to proceed to funding</li>
+<li>Funded: participant&#x2019;s funds have been received</li>
+</ol>
+<p><strong>Entity registration</strong>
+For participants who are entities, the following information are collected:</p>
+<ol>
+<li>Ethereum address in which the funds will be sent from</li>
+<li>Country of entity registration</li>
+<li>Entity name</li>
+<li>Entity registration number</li>
+</ol>
+<p>A user id will be generated and can be used to check their application status. All beneficial owners with at least 10% ownership, shareholders with at least 10% ownership and directors of the entity are required to go through an individual onboarding process. They can visit the registration website to complete a registration form containing the following:</p>
+<ol>
+<li>Ethereum address in which the funds will be sent from</li>
+<li>Entity name they are related to</li>
+<li>Percentage amount of beneficial ownership</li>
+<li>Percentage amount of shareholder ownership</li>
+<li>If they are a director</li>
+<li>Agree to terms and declaration</li>
+</ol>
+<p>A user id and PassFort link will then be generated. The user id should be saved. They will be required to visit the PassFort link to submit their information. The following details are collected through PassFort:</p>
+<ol>
+<li>First name</li>
+<li>Surname</li>
+<li>Date of birth</li>
+<li>Nationality</li>
+<li>Address</li>
+<li>Image of passport</li>
+<li>Image of selfie</li>
+</ol>
+<p>They can then check the status of their registration by entering their Ethereum address and user id on our website. Their individual profiles will be linked to their related entity on PassFort.</p>
+<p><strong>Data protection and Storage</strong>
+All the collected information from our website will be stored on Google&#x2019;s cloud hosting and the collected information by PassFort will be stored on their servers. The data will then be exported and checked against the following rules:</p>
+<ol>
+<li>All the details must be completed</li>
+<li>The participant should be greater than 21 years of age</li>
+<li>The participant should not be from the following countries: USA, China</li>
+<li>The Ethereum address should not be from a known exchange or contract</li>
+<li>The Ethereum addresses should be unique among all the participants</li>
+<li>The name and date of birth should be unique among all the participants</li>
+</ol>
+<h3 id="checks-performed-through-third-parties"><strong>Checks performed through third parties</strong></h3>
+<p><strong>Individuals</strong></p>
+<p>For individuals, the eligible participants from above will then go through PassFort for the following checks:</p>
+<ol>
+<li>Identity check</li>
+<li>PEPs &amp; Sanctions check
+<strong>Politically Exposed Persons (PEP)</strong></li>
+</ol>
+<p>Provides information to highlight whether or not a customer is considered to be politically exposed. The degree of exposure will be highlighted as well as any relevant political positions the customer has held in the past.</p>
+<p><strong>Sanctions</strong>
+Provides information to highlight whether or not a customer is on any national or international sanctions lists. Any matches will be highlighted alongside whether the match is against current or previous sanctions lists and will include a Date From and Date To tag to indicate duration.</p>
+<p>Applicants are automatically approved if they pass the PassFort checks. A manual check is done to either approve or reject the applicant if the automated check fails. Rejected participants might be given an opportunity to re-submit their details.</p>
+<p><strong>Entity checks</strong>
+For entities, they will go through PassFort for the following checks:</p>
+<ol>
+<li>Registry information</li>
+<li>Company filings</li>
+<li>Sanctions </li>
+<li>Authorised persons </li>
+<li>Board of directors </li>
+<li>Beneficial owners </li>
+</ol>
+<p>A manual check is done to either approve or reject the applicant base on the retrieved data and individuals associated with the entity. Rejected participants might be given an opportunity to re-submit their details.</p>
+<p>The result of the registration will be uploaded to our website and participants can check their status with their Ethereum address and user id.</p>
+<p>In the case of oversubscription, our director can apply subjective rules to determine who are approved.</p>
+<h2 id="use-of-funds"><strong>8.4. Use of Funds</strong> </h2>
+<ol>
+<li>Funds raised through the ICO will be used to support the growth of the platform building up to launch, and to sustain the ongoing operational costs for the initial post-launch period.</li>
+<li>While the precise allocation will be at management discretion and is subject to significant revision, as a guiding principle we will allocate as follows:</li>
+<li>50% of funds will be used on growing the technical team and selective use of third parties to continue product development, including</li>
+<li>20% developing core platform services,</li>
+<li>20% developing user tools, and</li>
+<li>10% developing integrations with partner organisations including exchanges and wallet providers;</li>
+<li>15% of funds will be used on marketing and sales, including direct to consumer marketing and institutional sales;</li>
+<li>15% of funds will be used on expert external services, including independent technical and legal expertise;</li>
+<li>10% of funds will be used on core management; and</li>
+<li>10% of funds will be retained as contingency to cover unforeseen expenses, or over-runs in any of the expense categories above.</li>
+</ol>
+<h2 id="legal-disclaimer">8.5. Legal Disclaimer </h2>
+<p>This whitepaper does not constitute advice nor a recommendation by the Company, its officers, directors, managers, employees, agents, advisors or consultants, or any other person to any recipient of this document on the merits of the participation in the TGE sale. Participation in the TGE carries substantial risk and may involve special risks that could lead to a loss of all or a substantial portion of such an investment. Do not participate in the TGE unless you are prepared to lose the entire amount you allocated to purchasing LND tokens. LND tokens should not be acquired for speculative or investment purposes with the expectation of making a profit or immediate re-sale. No promises of future performance or value are or will be made with respect to LND tokens, including no promise of inherent value, no promise of continuing payments, and no guarantee that LND tokens will hold any particular value. Unless prospective participants fully understand and accept the nature of the Company and the potential risks inherent in LND tokens, they should not participate in the TGE. LND tokens are not being structured or sold as securities. LND tokens are sold as a functional good and all proceeds received by the Company may be spent freely by it, absent any conditions set out in this whitepaper. This whitepaper is not a prospectus or disclosure document and is not an offer to sell, nor the solicitation of any offer to buy any investment or financial instrument in any jurisdiction and should not be treated or relied upon as one. This whitepaper is for information only. Written authorisation is required for distribution of any or all parts contained herein.</p>
+<p>All information here that is forward looking is speculative in nature and may change in response to numerous outside forces, including technological innovations, regulatory factors, and/or currency fluctuations, including but not limited to the market value of cryptocurrencies.</p>
+<p>This whitepaper is for information purposes only and is subject to change. The Company cannot guarantee the accuracy of the statements made or conclusions reached in this document. The Company does not make and expressly disclaims all representations and warranties (whether express or implied by statute or otherwise) whatsoever, including but not limited to:</p>
+<ul>
+<li><p>any representations or warranties relating to merchantability, fitness for a particular purpose, suitability, wage, title or non-infringement;</p>
+</li>
+<li><p>that the contents of this document are accurate and free from any errors; and</p>
+</li>
+<li><p>that such contents do not infringe any third party rights. The Company shall have no liability for damages of any kind arising out of the use, reference to or reliance on the contents of this document, even if advised of the possibility of such damages.</p>
+</li>
+</ul>
+<p>This whitepaper includes references to third party data and industry publications. The Company believes that this industry data is accurate and that its estimates and assumptions are reasonable; however, there are no assurances as to the accuracy or completeness of this data. Third party sources generally state the information contained therein has been obtained from sources believed to be reliable; however, there are no assurances as to the accuracy or completeness of included information. Although the data are believed to be reliable, the Company has not independently verified any of the data from third party sources referred to in this whitepaper or ascertained the underlying assumptions relied upon by such sources.</p>
+<p>Please note that the Company is in the process of undertaking a legal and regulatory analysis of the functionality of its LND tokens. Following the conclusion of this analysis, the Company may decide to amend the intended functionality of its LND tokens in order to ensure compliance with any legal or regulatory requirements to which we are subject. In the event that the Company decides to amend the intended functionality of its LND tokens, the Company will update the relevant contents of this whitepaper and upload the latest version of this to its website.</p>
+<p>Any LND tokens could be impacted by regulatory action, including potential restrictions on the ownership, use, or possession of such tokens. Regulators or other circumstances may demand that the mechanics of the LND tokens be altered, all or in part. The Company may revise mechanics to comply with regulatory requirements or other governmental or business obligations. Nevertheless, the Company believes it has taken all commercially reasonable steps to ensure that its planned mechanics are proper and in compliance with currently considered regulations.</p>
+<p><strong>CAUTION REGARDING FORWARD-LOOKING STATEMENTS</strong></p>
+<p>This whitepaper contains forward-looking statements or information (collectively &quot;forward-looking statements&quot;) that relate to the Company&apos;s current expectations and views of future events. In some cases, these forward-looking statements can be identified by words or phrases such as &quot;may&quot;, &quot;will&quot;, &quot;expect&quot;, &quot;anticipate&quot;, &quot;aim&quot;, &quot;estimate&quot;, &quot;intend&quot;, &quot;plan&quot;, &quot;seek&quot;, &quot;believe&quot;, &quot;potential&quot;, &quot;continue&quot;, &quot;is/are likely to&quot; or the negative of these terms, or other similar expressions intended to identify forward-looking statements. The Company has based these forward-looking statements on its current expectations and projections about future events and financial trends that it believes may affect its financial condition, results of operations, business strategy, financial needs, or the results of the TGE or the value or price stability of the LND tokens.</p>
+<p>In addition to statements relating to the matters set out here, this whitepaper contains forward-looking statements related to the Company&apos;s proposed operating model. The model speaks to its objectives only, and is not a forecast, projection or prediction of future results of operations.</p>
+<p>Forward-looking statements are based on certain assumptions and analysis made by the Company in light of its experience and perception of historical trends, current conditions and expected future developments and other factors it believes are appropriate, and are subject to risks and uncertainties. Although the forward-looking statements contained in this whitepaper are based upon what the Company believes are reasonable assumptions, these risks, uncertainties, assumptions, and other factors could cause the Company&apos;s actual results, performance, achievements, and experience to differ materially from its expectations expressed, implied, or perceived in forward-looking statements. Given such risks, prospective participants in a TGE should not place undue reliance on these forward-looking statements. Risks and uncertainties include, but are not limited to those identified in the TGE&apos;s T&amp;Cs. These are not a definitive list of all factors associated with a making a contribution to the Company, in connection with its operations.</p>
+<p>The Company undertakes no obligation to update any forward-looking statement to reflect events or circumstances after the date of this whitepaper.</p>
+<p>The Company&apos;s business is subject to various laws and regulations in the countries where it operates or intends to operate. There is a risk that certain activities of the Company may be deemed in violation of any such law or regulation. Penalties for any such potential violation would be unknown. Additionally, changes in applicable laws or regulations or evolving interpretations of existing law could, in certain circumstances, result in increased compliance costs or capital expenditures, which could affect the Company&apos;s profitability, or impede the Company&apos;s ability to carry on the business model and the LND token model proposed in this whitepaper.</p>
+<hr>
+<h2 id="team">9<strong>. Team</strong> </h2>
+<p>The Lendingblock team is comprised of founders, employees, and advisors united by a shared vision, and by outstanding academic and practical experience in financial services and technology.</p>
+<h3 id="founders">9.1. Founders </h3>
+<h4 id="steve-swain-ceo-and-co-founder">Steve Swain, CEO and Co-founder</h4>
+<ul>
+<li><p>University of Adelaide BSc Mathematics and Computer Science</p>
+</li>
+<li><p>Harvard Business School AMP</p>
+</li>
+<li><p>Investment Bank technology Managing Director at Lehman, Macquarie, UBS and Credit Suisse</p>
+</li>
+<li><p>Deloitte Partner, specialising in capital markets technology strategy</p>
+</li>
+</ul>
+<h4 id="linda-wang-co-founder--coo">Linda Wang, Co-founder &amp; COO</h4>
+<ul>
+<li><p>Cambridge University MA in Land Economy, UCL MSc in Computer Science,</p>
+</li>
+<li><p>Blockchain consultant with Deloitte</p>
+</li>
+<li><p>Entrepreneur First alumnus</p>
+</li>
+<li><p>Mortgage lending startup Founder &amp; CEO</p>
+</li>
+</ul>
+<h3 id="core-team">9.2. Core team </h3>
+<h4 id="business">Business</h4>
+<h5 id="bryan-du-product-manager">Bryan Du, Product Manager</h5>
+<ul>
+<li><p>Electronic and algo trading systems product and business manager at Credit Suisse, RBS, Deutsche Bank and UBS</p>
+</li>
+<li><p>Cass Business School Investment Management Finance with Distinction</p>
+</li>
+</ul>
+<h5 id="damian-williams-us-business-development">Damian Williams, US Business Development</h5>
+<ul>
+<li>20 years of financial services experience</li>
+<li><p>BS summa cum laude from Mercy College and an MA and Ed.M in Counseling Psychology from Columbia University.</p>
+</li>
+<li><p>Equity derivatives trader at Nomura Securities, specializing in arbitrage</p>
+</li>
+<li><p>OTC equity market maker and Steve Cohen&#x2019;s equity trader at SAC Capital.</p>
+</li>
+<li><p>Partner, portfolio manager and managing director at several New York based hedge funds. He has also been a principal and managing partner at two funds, a long/short equity fund and a real estate fund.</p>
+</li>
+<li><p>Investor in robotics and blockchain</p>
+</li>
+</ul>
+<h5 id="jj-frizell-social-media">Jj Frizell, Social Media</h5>
+<ul>
+<li>UCL MEng Chemical Engineering</li>
+<li>Blockchain and cryptocurrency enthusiast</li>
+</ul>
+<h4 id="technology">Technology</h4>
+<h5 id="julien-klepatch-full-stack-developer-and-ethereum-smart-contract-engineer">Julien Klepatch, full stack developer and Ethereum smart contract engineer</h5>
+<ul>
+<li>MSc in Computer Science, Masters in Finance from HEC Paris</li>
+<li>Cross Asset Financial Engineer, Societe General Investment Bank</li>
+<li>Broker and Programmer for HK Market maker, Qantex Capital Markets</li>
+<li>Ecommerce startup founder</li>
+</ul>
+<h5 id="qx-lee-smart-contract-and-dapp-developer">QX Lee, Smart Contract and DApp Developer</h5>
+<ul>
+<li>BSc Electrical Engineering, First Class Honours, National University of Singapore</li>
+<li>Analyst at Deutsche Bank</li>
+<li>Founder of blockchain R&amp;D company and Cofounder of Codetract, Ethereum smart contract development company</li>
+</ul>
+<h5 id="alberto-sonnino-cryptography-expert">Alberto Sonnino, cryptography expert</h5>
+<ul>
+<li>PhD in Security Engineering at UCL</li>
+<li>Masters in Electrical Engineering from UCLouvain, Masters in Electrical and Information technology from Kalsruhe Institute of Technologies, Masters degree in Information Security from UCL</li>
+<li>Expert on privacy enhancing technologies and distributed ledgers</li>
+</ul>
+<h5 id="david-brazdil-security-expert">David Brazdil, security expert</h5>
+<ul>
+<li>Cambridge University MSc, Computer Science</li>
+<li>Google Software Engineer</li>
+<li>Entrepreneur First alumnus</li>
+</ul>
+<h3 id="advisors">9.3. Advisors </h3>
+<h4 id="charlie-beach-risk-and-regulation-advisor">Charlie Beach, Risk and Regulation Advisor</h4>
+<ul>
+<li>Group Chief Risk Officer at IG Markets until 2018,</li>
+<li>Head of Operational Risk Control for UBS Investment Bank</li>
+</ul>
+<h4 id="kingsley-advani-fundraising-advisor">Kingsley Advani, Fundraising Advisor</h4>
+<ul>
+<li>Data scientist and an active investor focused deep tech infrastructure projects in the ICO and blockchain space.</li>
+<li>He has currently made investments into more than 20 ICO projects</li>
+</ul>
+<h3 id="partners-and-vendors">9.4. Partners and Vendors </h3>
+<h4 id="legal">Legal</h4>
+<p><a href="http://www.gibraltarlawyers.com/" target="_blank">Isolas</a>: A full-service law firm with 125 years of leading legal experience in Gilbraltar. It has advised Government of Gibraltar and the Gibraltar Financial Services Commission on its Distributed Ledger Technology Framework and has advised Gnosis on its ICO as well as Xapo on achieving its e-Money licence in Gibraltar, to name a few. Isolas is working with Lendingblock on the structure and disclosures required for our ICO.</p>
+<p><a href="www.nortonrosefulbright.com/uk">Norton Rose Fulbright</a>: An international law firm with global revenue at over &#xA3;1billion mark. It has over 50 offices across five continents and has advised some of the most prominent projects in the blocckhain space including Polkadot&apos;s ICO. Norton Rose is advising us on the legality and enforceability of our lending agreements, smart contracts, default management, regulatory license and AML requirements.</p>
+<h4 id="kyc-and-aml">KYC and AML</h4>
+<p><a href="https://passfort.com/" target="_blank">Passfort</a>: We work in conjunction with Passfort to deliver our KYC and AML for our token sale investors and platform customers.</p>
+<p>Passfort enables global KYC &amp; AML onboarding using risk based policies, allowing us to monitor and investigate compliance procedures. It provides an integrated API to verification services including Dow Jones, Complyadvantage, Experian and Onfido.</p>
+<h4 id="digital-marketing--pr">Digital Marketing &amp; PR</h4>
+<p><a href="http://www.digitalradish.co.uk/" target="_blank">Digital Radish</a>: Digital Radish is second fastest growing marketing agency in the UK, specialising in fast growing technology and media businesses.</p>
+<p><a href="https://www.fieldhouseassociates.com/" target="_blank">FieldHouse</a>: Fieldhouse is an expert PR agency having worked with senior Silicon Valley executives on integrated global communications strategies, to building the reputation of Europe&#x2019;s leading venture capital firm, to working with the Royal Family on its initiative to support British entrepreneurs. Clients include Silicon Valley Bank, Octopus and Bloomberg</p>
+<h4 id="community-management">Community Management</h4>
+<p><a href="https://www.crowdcreate.us/" target="_blank">Crowdcreate:</a> Crowdcreate are experts in crowdfunding, and have successfully funded over 35+ projects.</p>
+<h4 id="security-testing">Security testing</h4>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                
+                <a href="./#mission" class="navigation navigation-next navigation-unique" aria-label="Next page: 1. Mission">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Abstract","level":"1.1","depth":1,"next":{"title":"1. Mission","level":"1.2","depth":1,"anchor":"#mission","path":"README.md","ref":"README.md#mission","articles":[]},"dir":"ltr"},"config":{"plugins":["mathjax","comment"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"mathjax":{"forceSVG":false,"version":"2.6-latest"},"comment":{"highlightCommented":true},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"Linda Wang","pdf":{"pageNumbers":true,"fontSize":16,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Lendingblock whitepaper","language":"en","links":{"sidebar":{"Lendingblock whitepaper":"https://www.gitbook.com/book/lindawang/lendingblock-whitepaper"},"gitbook":true},"gitbook":"*","description":""},"file":{"path":"README.md","mtime":"2018-02-28T11:22:39.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-12T19:44:05.799Z"},"basePath":".","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="gitbook/gitbook.js"></script>
+    <script src="gitbook/theme.js"></script>
+    
+        
+        <script src="https://cdn.mathjax.org/mathjax/2.6-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-mathjax/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-comment/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
